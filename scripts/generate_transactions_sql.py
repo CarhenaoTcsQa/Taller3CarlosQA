@@ -1,0 +1,181 @@
+"""Generador de 10,000 INSERTs para la tabla `transacciones`.
+
+Reglas implementadas:
+- 500 cuentas: ACC-00001 .. ACC-00500
+- 10,000 transacciones distribuidas según el requerimiento
+- Fechas uniformes en los últimos 2 años (desde hoy - 2 años)
+- Fechas ordenadas cronológicamente en el archivo
+- No más de 50 transacciones por cuenta por día
+- Transfers: origen != destino
+- Depositos/Retiros: destino = NULL
+- Rechazos solo en TRANSFERENCIA y RETIRO
+
+Salida: `transacciones_10000.sql` en el mismo directorio
+"""
+import random
+import datetime
+import json
+from decimal import Decimal
+
+OUT_FILE = 'transacciones_10000.sql'
+TOTAL = 10000
+
+random.seed(42)
+
+# Pools
+NUM_ACCOUNTS = 500
+accounts = [f"ACC-{i:05d}" for i in range(1, NUM_ACCOUNTS+1)]
+
+# Date range: últimos 2 años desde hoy
+today = datetime.datetime(2025, 12, 10)
+start = today - datetime.timedelta(days=365*2)
+total_seconds = int((today - start).total_seconds())
+
+# Distributions (probability boundaries)
+type_choices = [
+    ('TRANSFERENCIA', 0.40),
+    ('DEPOSITO', 0.25),
+    ('RETIRO', 0.20),
+    ('PAGO_SERVICIO', 0.15),
+]
+estado_choices = [('EXITOSA', 0.85), ('PENDIENTE', 0.10), ('RECHAZADA', 0.05)]
+canal_choices = [('APP_MOVIL', 0.50), ('WEB', 0.30), ('CAJERO', 0.15), ('SUCURSAL', 0.05)]
+
+def weighted_choice(choices):
+    r = random.random()
+    acc = 0.0
+    for v, p in choices:
+        acc += p
+        if r < acc:
+            return v
+    return choices[-1][0]
+
+def random_timestamp():
+    # uniforme entre start y today
+    s = random.randint(0, total_seconds)
+    dt = start + datetime.timedelta(seconds=s)
+    # normalize microseconds
+    return dt.replace(microsecond=0)
+
+def amount_for(tipo):
+    if tipo == 'TRANSFERENCIA':
+        low, high = 10_000, 5_000_000
+    elif tipo == 'DEPOSITO':
+        low, high = 20_000, 10_000_000
+    elif tipo == 'RETIRO':
+        low, high = 10_000, 3_000_000
+    else:  # PAGO_SERVICIO
+        low, high = 5_000, 500_000
+    # devolver Decimal con 2 decimales
+    cents = random.randint(low*100, high*100)
+    return Decimal(cents) / Decimal(100)
+
+# Track transactions per account per day to enforce <=50 per account per day
+tx_count_by_account_day = {}
+
+records = []
+
+# We'll generate records with random dates, but to ensure chronological order we produce timestamps and sort later
+for i in range(1, TOTAL+1):
+    tipo = weighted_choice(type_choices)
+
+    # Decide estado but enforce RECHAZADA only for TRANSFERENCIA and RETIRO
+    estado = weighted_choice(estado_choices)
+    if estado == 'RECHAZADA' and tipo not in ('TRANSFERENCIA', 'RETIRO'):
+        # change to EXITOSA or PENDIENTE according to their relative weights (85/10)
+        estado = weighted_choice([('EXITOSA', 0.895), ('PENDIENTE', 0.105)])
+
+    canal = weighted_choice(canal_choices)
+
+    ts = random_timestamp()
+
+    # Choose origin account
+    # To respect <=50 tx/day we'll try a few times to find an account with capacity
+    for attempt in range(100):
+        acc_o = random.choice(accounts)
+        day_key = acc_o + '|' + ts.strftime('%Y-%m-%d')
+        cnt = tx_count_by_account_day.get(day_key, 0)
+        if cnt < 50:
+            tx_count_by_account_day[day_key] = cnt + 1
+            break
+    else:
+        # fallback: pick any account and don't increment (very unlikely for 10k)
+        acc_o = random.choice(accounts)
+
+    acc_d = None
+    if tipo == 'TRANSFERENCIA':
+        # choose different destination
+        acc_d = acc_o
+        attempts = 0
+        while acc_d == acc_o and attempts < 20:
+            acc_d = random.choice(accounts)
+            attempts += 1
+        if acc_d == acc_o:
+            # pick next account in list
+            idx = accounts.index(acc_o)
+            acc_d = accounts[(idx+1) % NUM_ACCOUNTS]
+    else:
+        acc_d = None
+
+    monto = amount_for(tipo)
+
+    # Description
+    if tipo == 'TRANSFERENCIA':
+        descripcion = f"Transferencia a {acc_d}"
+    elif tipo == 'DEPOSITO':
+        descripcion = "Depósito en cuenta"
+    elif tipo == 'RETIRO':
+        descripcion = "Retiro en cajero"
+    else:
+        descripcion = "Pago de servicio"
+
+    # id_transaccion format TRX-YYYYMMDD-NNNNN (use date part from timestamp)
+    datepart = ts.strftime('%Y%m%d')
+    trx_id = f"TRX-{datepart}-{i:05d}"
+
+    # Build record
+    rec = {
+        'id_transaccion': trx_id,
+        'fecha_hora': ts.isoformat(' '),
+        'id_cuenta_origen': acc_o,
+        'id_cuenta_destino': acc_d,
+        'tipo_transaccion': tipo,
+        'monto': f"{monto:.2f}",
+        'estado': estado,
+        'canal': canal,
+        'descripcion': descripcion
+    }
+    records.append(rec)
+
+# Sort records by fecha_hora ascending
+records.sort(key=lambda r: r['fecha_hora'])
+
+# Now write SQL INSERTs
+def sql_quote(val):
+    if val is None:
+        return 'NULL'
+    # escape single quotes
+    s = str(val).replace("'", "''")
+    return f"'{s}'"
+
+with open(OUT_FILE, 'w', encoding='utf-8') as f:
+    f.write('-- SQL generated by generate_transactions_sql.py - 10,000 INSERTs\n')
+    f.write('BEGIN;\n')
+    for r in records:
+        idt = sql_quote(r['id_transaccion'])
+        fecha = sql_quote(r['fecha_hora'])
+        origen = sql_quote(r['id_cuenta_origen'])
+        destino = sql_quote(r['id_cuenta_destino']) if r['id_cuenta_destino'] is not None else 'NULL'
+        tipo = sql_quote(r['tipo_transaccion'])
+        monto = r['monto']
+        estado = sql_quote(r['estado'])
+        canal = sql_quote(r['canal'])
+        desc = sql_quote(r['descripcion'])
+        stmt = (
+            "INSERT INTO transacciones (id_transaccion, fecha_hora, id_cuenta_origen, id_cuenta_destino, tipo_transaccion, monto, estado, canal, descripcion)"
+            f" VALUES ({idt}, {fecha}, {origen}, {destino}, {tipo}, {monto}, {estado}, {canal}, {desc});\n"
+        )
+        f.write(stmt)
+    f.write('COMMIT;\n')
+
+print(f'Generados {len(records)} INSERTs en {OUT_FILE}')
