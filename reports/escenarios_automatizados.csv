@@ -1,0 +1,12 @@
+metric,value
+fecha_generacion,2025-12-11
+total_clients,1000
+total_transactions,10000
+max_tx_per_account_per_day,3
+accounts_with_max_tx_per_day,2
+top_types,"{'RETIRO': 1987, 'DEPOSITO': 2505, 'TRANSFERENCIA': 4028, 'PAGO_SERVICIO': 1480}"
+top_estados,"{'EXITOSA': 8669, 'PENDIENTE': 1022, 'RECHAZADA': 309}"
+top_canales,"{'APP_MOVIL': 5045, 'WEB': 2957, 'CAJERO': 1494, 'SUCURSAL': 504}"
+insert_statements_file,c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/transacciones_10000_inserts.csv
+transactions_csv,c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/transacciones_10000.csv
+clients_csv,c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/clientes_1000.csv

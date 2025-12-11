@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><title>Reporte Escenarios Ejecutados</title>
+<style>body{font-family:Arial,Helvetica,sans-serif;margin:20px}h1,h2{color:#113}table{border-collapse:collapse;width:100%;margin-bottom:20px}th,td{border:1px solid #ccc;padding:6px;text-align:left}th{background:#f4f4f4}</style>
+</head><body>
+<h1>Reporte de escenarios ejecutados</h1>
+<p><strong>Fecha generación:</strong> 2025-12-11</p>
+<h2>Archivos generados</h2>
+<ul>
+<li><strong>Clientes (JSON):</strong> <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/clientes_1000.json</code></li>
+<li><strong>Clientes (CSV):</strong> <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/clientes_1000.csv</code></li>
+<li><strong>Transacciones (SQL):</strong> <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/transacciones_10000.sql</code></li>
+<li><strong>Transacciones (CSV):</strong> <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/transacciones_10000.csv</code></li>
+<li><strong>Reporte (HTML):</strong> <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/reports/report_escenarios.html</code></li>
+
+<li><strong>INSERTs (CSV):</strong> <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/transacciones_10000_inserts.csv</code></li>
+<li><strong>Escenarios (CSV):</strong> <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/reports/escenarios_automatizados.csv</code></li>
+</ul>
+<h2>Resumen clientes</h2>
+<p>Total clientes generados: <strong>1000</strong></p>
+<h3>Distribución por ciudad</h3>
+<table><tr><th>Ciudad</th><th>Conteo</th><th>%</th></tr>
+<tr><td>Bogotá</td><td>400</td><td>40.0%</td></tr>
+<tr><td>Medellín</td><td>200</td><td>20.0%</td></tr>
+<tr><td>Cali</td><td>150</td><td>15.0%</td></tr>
+<tr><td>Barranquilla</td><td>80</td><td>8.0%</td></tr>
+<tr><td>Cartagena</td><td>55</td><td>5.5%</td></tr>
+<tr><td>Sincelejo</td><td>18</td><td>1.8%</td></tr>
+<tr><td>Manizales</td><td>17</td><td>1.7%</td></tr>
+<tr><td>Bucaramanga</td><td>15</td><td>1.5%</td></tr>
+<tr><td>Montería</td><td>15</td><td>1.5%</td></tr>
+<tr><td>Neiva</td><td>15</td><td>1.5%</td></tr>
+<tr><td>Pereira</td><td>15</td><td>1.5%</td></tr>
+<tr><td>Santa Marta</td><td>11</td><td>1.1%</td></tr>
+<tr><td>Ibagué</td><td>9</td><td>0.9%</td></tr>
+</table>
+<h3>Distribución por historial crediticio</h3>
+<table><tr><th>Historial</th><th>Conteo</th><th>%</th></tr>
+<tr><td>Bueno</td><td>400</td><td>40.0%</td></tr>
+<tr><td>Regular</td><td>300</td><td>30.0%</td></tr>
+<tr><td>Excelente</td><td>200</td><td>20.0%</td></tr>
+<tr><td>Malo</td><td>100</td><td>10.0%</td></tr>
+</table>
+<h2>Resumen transacciones</h2>
+<p>Total transacciones generadas: <strong>10000</strong></p>
+<h3>Conteo por tipo</h3>
+<table><tr><th>Tipo</th><th>Conteo</th><th>%</th></tr>
+<tr><td>TRANSFERENCIA</td><td>4028</td><td>40.3%</td></tr>
+<tr><td>DEPOSITO</td><td>2505</td><td>25.1%</td></tr>
+<tr><td>RETIRO</td><td>1987</td><td>19.9%</td></tr>
+<tr><td>PAGO_SERVICIO</td><td>1480</td><td>14.8%</td></tr>
+</table>
+<h3>Conteo por estado</h3>
+<table><tr><th>Estado</th><th>Conteo</th><th>%</th></tr>
+<tr><td>EXITOSA</td><td>8669</td><td>86.7%</td></tr>
+<tr><td>PENDIENTE</td><td>1022</td><td>10.2%</td></tr>
+<tr><td>RECHAZADA</td><td>309</td><td>3.1%</td></tr>
+</table>
+<h3>Conteo por canal</h3>
+<table><tr><th>Canal</th><th>Conteo</th><th>%</th></tr>
+<tr><td>APP_MOVIL</td><td>5045</td><td>50.4%</td></tr>
+<tr><td>WEB</td><td>2957</td><td>29.6%</td></tr>
+<tr><td>CAJERO</td><td>1494</td><td>14.9%</td></tr>
+<tr><td>SUCURSAL</td><td>504</td><td>5.0%</td></tr>
+</table>
+<h3>Verificación límite 50 tx/día por cuenta</h3>
+<p>Máximo transacciones por cuenta en un día detectado: <strong>3</strong> (cuenta, fecha): ('ACC-00377', '2023-12-19')</p>
+<h2>Muestras</h2>
+<h3>Primeros 5 clientes</h3>
+<table><tr><th>id</th><th>cedulaCiudadania</th><th>nombreCompleto</th><th>email</th><th>telefono</th><th>fechaNacimiento</th><th>ciudadResidencia</th><th>ingresoMensual</th><th>tipoEmpleo</th><th>antiguedadLaboral</th><th>historialCrediticio</th><th>deudaActual</th><th>saldoCuentaAhorros</th><th>scoreCrediticio</th></tr>
+<tr><td>CLT-20251210-0001</td><td>1000000000</td><td>Juan Fernando González Gómez</td><td>juan.gonzález001@banco.com.co</td><td>+57 300 000 0000</td><td>1960-01-01</td><td>Bogotá</td><td>1500000</td><td>Empleado</td><td>24</td><td>Bueno</td><td>450000</td><td>0</td><td>668</td></tr>
+<tr><td>CLT-20251210-0002</td><td>1000000001</td><td>Carlos Rodríguez López</td><td>carlos.rodríguez002@financiera.com.co</td><td>+57 300 000 0001</td><td>1961-02-02</td><td>Bogotá</td><td>1623457</td><td>Independiente</td><td>18</td><td>Excelente</td><td>292222</td><td>76543</td><td>813</td></tr>
+<tr><td>CLT-20251210-0003</td><td>1000000002</td><td>Andrés Martínez Pérez</td><td>andrés.martínez003@grupoempresa.com</td><td>+57 300 000 0002</td><td>1962-03-03</td><td>Bogotá</td><td>1746914</td><td>Empleado</td><td>10</td><td>Bueno</td><td>611420</td><td>153086</td><td>696</td></tr>
+<tr><td>CLT-20251210-0004</td><td>1000000003</td><td>Diego Gómez Sánchez</td><td>diego.gómez004@corp.com.co</td><td>+57 300 000 0003</td><td>1963-04-04</td><td>Medellín</td><td>1870371</td><td>Empleado</td><td>26</td><td>Bueno</td><td>411482</td><td>229629</td><td>730</td></tr>
+<tr><td>CLT-20251210-0005</td><td>1000000004</td><td>Santiago López Ramírez</td><td>santiago.lópez005@servicios.com.co</td><td>+57 300 000 0004</td><td>1964-05-05</td><td>Bogotá</td><td>1993828</td><td>Empleado</td><td>25</td><td>Regular</td><td>1056729</td><td>306172</td><td>570</td></tr>
+</table>
+<h3>Primeras 8 transacciones</h3>
+<table><tr><th>id_transaccion</th><th>fecha_hora</th><th>id_cuenta_origen</th><th>id_cuenta_destino</th><th>tipo_transaccion</th><th>monto</th><th>estado</th><th>canal</th><th>descripcion</th></tr>
+<tr><td>TRX-20231211-08302</td><td>2023-12-11 02:14:48</td><td>ACC-00245</td><td></td><td>RETIRO</td><td>1671075.52</td><td>EXITOSA</td><td>APP_MOVIL</td><td>Retiro en cajero</td></tr>
+<tr><td>TRX-20231211-08974</td><td>2023-12-11 02:45:03</td><td>ACC-00069</td><td></td><td>DEPOSITO</td><td>2429599.36</td><td>EXITOSA</td><td>APP_MOVIL</td><td>Depósito en cuenta</td></tr>
+<tr><td>TRX-20231211-00715</td><td>2023-12-11 03:09:49</td><td>ACC-00423</td><td>ACC-00047</td><td>TRANSFERENCIA</td><td>4260854.12</td><td>EXITOSA</td><td>WEB</td><td>Transferencia a ACC-00047</td></tr>
+<tr><td>TRX-20231211-00835</td><td>2023-12-11 05:21:18</td><td>ACC-00500</td><td>ACC-00081</td><td>TRANSFERENCIA</td><td>476233.76</td><td>EXITOSA</td><td>APP_MOVIL</td><td>Transferencia a ACC-00081</td></tr>
+<tr><td>TRX-20231211-08669</td><td>2023-12-11 08:36:53</td><td>ACC-00171</td><td></td><td>DEPOSITO</td><td>9981555.83</td><td>EXITOSA</td><td>APP_MOVIL</td><td>Depósito en cuenta</td></tr>
+<tr><td>TRX-20231211-05759</td><td>2023-12-11 09:23:28</td><td>ACC-00027</td><td>ACC-00347</td><td>TRANSFERENCIA</td><td>2527827.04</td><td>PENDIENTE</td><td>WEB</td><td>Transferencia a ACC-00347</td></tr>
+<tr><td>TRX-20231211-00026</td><td>2023-12-11 10:39:39</td><td>ACC-00307</td><td></td><td>DEPOSITO</td><td>3500599.18</td><td>EXITOSA</td><td>WEB</td><td>Depósito en cuenta</td></tr>
+<tr><td>TRX-20231211-02796</td><td>2023-12-11 10:41:19</td><td>ACC-00148</td><td></td><td>RETIRO</td><td>2483754.61</td><td>EXITOSA</td><td>APP_MOVIL</td><td>Retiro en cajero</td></tr>
+</table>
+<h2>Reproducción</h2>
+<p>Comandos ejecutados para generar los artefactos (usar el venv del repo):</p>
+<pre>
+cd 'c:\Users\2490109\Taller3CarlosQA\Taller3CarlosQA\scripts'
+C:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/.venv/Scripts/python.exe ./generate_customers.py
+C:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/.venv/Scripts/python.exe ./generate_transactions_sql.py
+</pre>
+<p>Archivo SQL para cargar en PostgreSQL: <code>c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/transacciones_10000.sql</code></p>
+</body></html>
