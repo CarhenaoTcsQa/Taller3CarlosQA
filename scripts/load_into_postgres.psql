@@ -1,0 +1,40 @@
+-- Script para crear tablas y cargar CSVs (ejecutar con psql o psql -f)
+-- Uso recomendado (cliente): psql -h <host> -U <user> -d <db> -f load_into_postgres.psql
+\set ON_ERROR_STOP on
+BEGIN;
+
+CREATE TABLE IF NOT EXISTS clientes (
+  id VARCHAR(20) PRIMARY KEY,
+  cedulaCiudadania VARCHAR(16),
+  nombreCompleto TEXT,
+  email VARCHAR(200),
+  telefono VARCHAR(40),
+  fechaNacimiento DATE,
+  ciudadResidencia VARCHAR(100),
+  ingresoMensual NUMERIC(14,2),
+  tipoEmpleo VARCHAR(50),
+  antiguedadLaboral INTEGER,
+  historialCrediticio VARCHAR(50),
+  deudaActual NUMERIC(14,2),
+  saldoCuentaAhorros NUMERIC(16,2),
+  scoreCrediticio INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS transacciones (
+  id_transaccion VARCHAR(32) PRIMARY KEY,
+  fecha_hora TIMESTAMP,
+  id_cuenta_origen VARCHAR(16),
+  id_cuenta_destino VARCHAR(16),
+  tipo_transaccion VARCHAR(40),
+  monto NUMERIC(15,2),
+  estado VARCHAR(40),
+  canal VARCHAR(40),
+  descripcion TEXT
+);
+
+-- Cargar datos (usando \copy para cargas desde cliente). Ajustar rutas si necesario.
+\copy clientes(id, cedulaCiudadania, nombreCompleto, email, telefono, fechaNacimiento, ciudadResidencia, ingresoMensual, tipoEmpleo, antiguedadLaboral, historialCrediticio, deudaActual, saldoCuentaAhorros, scoreCrediticio) FROM 'c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/clientes_1000.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+\copy transacciones(id_transaccion, fecha_hora, id_cuenta_origen, id_cuenta_destino, tipo_transaccion, monto, estado, canal, descripcion) FROM 'c:/Users/2490109/Taller3CarlosQA/Taller3CarlosQA/scripts/transacciones_10000.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COMMIT;
