@@ -1,0 +1,1001 @@
+id,cedulaCiudadania,nombreCompleto,email,telefono,fechaNacimiento,ciudadResidencia,ingresoMensual,tipoEmpleo,antiguedadLaboral,historialCrediticio,deudaActual,saldoCuentaAhorros,scoreCrediticio
+CLT-20251210-0001,1000000000,Juan Fernando González Gómez,juan.gonzález001@banco.com.co,+57 300 000 0000,1/1/1960,Bogotá,1500000,Empleado,24,Bueno,450000,0,668
+CLT-20251210-0002,1000000001,Carlos Rodríguez López,carlos.rodríguez002@financiera.com.co,+57 300 000 0001,2/2/1961,Bogotá,1623457,Independiente,18,Excelente,292222,76543,813
+CLT-20251210-0003,1000000002,Andrés Martínez Pérez,andrés.martínez003@grupoempresa.com,+57 300 000 0002,3/3/1962,Bogotá,1746914,Empleado,10,Bueno,611420,153086,696
+CLT-20251210-0004,1000000003,Diego Gómez Sánchez,diego.gómez004@corp.com.co,+57 300 000 0003,4/4/1963,Medellín,1870371,Empleado,26,Bueno,411482,229629,730
+CLT-20251210-0005,1000000004,Santiago López Ramírez,santiago.lópez005@servicios.com.co,+57 300 000 0004,5/5/1964,Bogotá,1993828,Empleado,25,Regular,1056729,306172,570
+CLT-20251210-0006,1000000005,David Patricia Pérez Torres,david.pérez006@banco.com.co,+57 300 000 0005,6/6/1965,Cali,2117285,Empleado,6,Regular,995124,382715,557
+CLT-20251210-0007,1000000006,Luis Sánchez Ruiz,luis.sánchez007@financiera.com.co,+57 300 000 0006,7/7/1966,Medellín,2240742,Empleado,8,Bueno,582593,459258,717
+CLT-20251210-0008,1000000007,José Ramírez Castillo,josé.ramírez008@grupoempresa.com,+57 300 000 0007,8/8/1967,Medellín,2364199,Empleado,8,Excelente,94568,535801,811
+CLT-20251210-0009,1000000008,Javier Torres Vargas,javier.torres009@corp.com.co,+57 300 000 0008,9/9/1968,Cali,2487656,Empleado,2,Malo,1940372,612344,456
+CLT-20251210-0010,1000000009,Alejandro Ruiz Rojas,alejandro.ruiz010@servicios.com.co,+57 300 000 0009,10/10/1969,Cali,2611113,Empleado,7,Malo,2062779,688887,408
+CLT-20251210-0011,1000000010,María Fernando Castillo Mendoza,maría.castillo011@banco.com.co,+57 300 000 0010,11/11/1970,Bogotá,2734570,Independiente,26,Excelente,492223,765430,785
+CLT-20251210-0012,1000000011,Catalina Vargas Cárdenas,catalina.vargas012@financiera.com.co,+57 300 000 0011,12/12/1971,Barranquilla,2858027,Empleado,18,Bueno,800248,841973,747
+CLT-20251210-0013,1000000012,Laura Rojas Herrera,laura.rojas013@grupoempresa.com,+57 300 000 0012,1/13/1972,Medellín,2981484,Empleado,5,Excelente,477037,918516,817
+CLT-20251210-0014,1000000013,Andrea Mendoza Díaz,andrea.mendoza014@corp.com.co,+57 300 000 0013,2/14/1973,Bogotá,3104941,Independiente,1,Excelente,155247,995059,831
+CLT-20251210-0015,1000000014,Paula Cárdenas Vega,paula.cárdenas015@servicios.com.co,+57 300 000 0014,3/15/1974,Barranquilla,3228398,Empleado,28,Bueno,1194507,1071602,723
+CLT-20251210-0016,1000000015,Angela Patricia Herrera Ospina,angela.herrera016@banco.com.co,+57 300 000 0015,4/16/1975,Bogotá,3351855,Pensionado,24,Regular,1742965,1148145,590
+CLT-20251210-0017,1000000016,Luisa Díaz Cruz,luisa.díaz017@financiera.com.co,+57 300 000 0016,5/17/1976,Bogotá,3475312,Empleado,7,Bueno,973087,1224688,728
+CLT-20251210-0018,1000000017,Sofía Vega González,sofía.vega018@grupoempresa.com,+57 300 000 0017,6/18/1977,Bucaramanga,3598769,Empleado,19,Malo,2339200,1301231,419
+CLT-20251210-0019,1000000018,Valentina Ospina Rodríguez,valentina.ospina019@corp.com.co,+57 300 000 0018,7/19/1978,Medellín,3722226,Independiente,11,Regular,1861113,1377774,586
+CLT-20251210-0020,1000000019,Daniela Cruz Martínez,daniela.cruz020@servicios.com.co,+57 300 000 0019,8/20/1979,Medellín,3845683,Empleado,21,Bueno,884507,1454317,684
+CLT-20251210-0021,1000000020,Juan Fernando González Gómez,juan.gonzález021@banco.com.co,+57 300 000 0020,9/21/1980,Bogotá,3969140,Independiente,25,Excelente,396914,1530860,808
+CLT-20251210-0022,1000000021,Carlos Rodríguez López,carlos.rodríguez022@financiera.com.co,+57 300 000 0021,10/22/1981,Bogotá,4092597,Empleado,10,Bueno,1432409,1607403,709
+CLT-20251210-0023,1000000022,Andrés Martínez Pérez,andrés.martínez023@grupoempresa.com,+57 300 000 0022,11/23/1982,Medellín,4216054,Independiente,22,Bueno,1011853,1683946,716
+CLT-20251210-0024,1000000023,Diego Gómez Sánchez,diego.gómez024@corp.com.co,+57 300 000 0023,12/24/1983,Medellín,4339511,Empleado,7,Excelente,564136,1760489,820
+CLT-20251210-0025,1000000024,Santiago López Ramírez,santiago.lópez025@servicios.com.co,+57 300 000 0024,1/25/1984,Bogotá,4462968,Empleado,18,Regular,2499262,1837032,642
+CLT-20251210-0026,1000000025,David Patricia Pérez Torres,david.pérez026@banco.com.co,+57 300 000 0025,2/26/1985,Medellín,4586425,Pensionado,3,Bueno,1651113,1913575,711
+CLT-20251210-0027,1000000026,Luis Sánchez Ruiz,luis.sánchez027@financiera.com.co,+57 300 000 0026,3/27/1986,Cali,4709882,Independiente,3,Excelente,565186,1990118,774
+CLT-20251210-0028,1000000027,José Ramírez Castillo,josé.ramírez028@grupoempresa.com,+57 300 000 0027,4/28/1987,Bogotá,4833339,Empleado,16,Regular,2513336,2066661,550
+CLT-20251210-0029,1000000028,Javier Torres Vargas,javier.torres029@corp.com.co,+57 300 000 0028,5/1/1988,Medellín,4956796,Independiente,7,Regular,2478398,2143204,579
+CLT-20251210-0030,1000000029,Alejandro Ruiz Rojas,alejandro.ruiz030@servicios.com.co,+57 300 000 0029,6/2/1989,Barranquilla,5080253,Empleado,11,Bueno,1016051,2219747,731
+CLT-20251210-0031,1000000030,María Fernando Castillo Mendoza,maría.castillo031@banco.com.co,+57 300 000 0030,7/3/1990,Bogotá,5203710,Empleado,10,Malo,3538523,2296290,525
+CLT-20251210-0032,1000000031,Catalina Vargas Cárdenas,catalina.vargas032@financiera.com.co,+57 300 000 0031,8/4/1991,Bogotá,5327167,Empleado,0,Bueno,1065433,2372833,680
+CLT-20251210-0033,1000000032,Laura Rojas Herrera,laura.rojas033@grupoempresa.com,+57 300 000 0032,9/5/1992,Montería,5450624,Empleado,8,Bueno,1744200,2449376,746
+CLT-20251210-0034,1000000033,Andrea Mendoza Díaz,andrea.mendoza034@corp.com.co,+57 300 000 0033,10/6/1993,Bogotá,5574081,Pensionado,3,Regular,2564077,2525919,594
+CLT-20251210-0035,1000000034,Paula Cárdenas Vega,paula.cárdenas035@servicios.com.co,+57 300 000 0034,11/7/1994,Medellín,5697538,Pensionado,1,Regular,2848769,2602462,646
+CLT-20251210-0036,1000000035,Angela Patricia Herrera Ospina,angela.herrera036@banco.com.co,+57 300 000 0035,12/8/1995,Cartagena,5820995,Empleado,4,Bueno,2211978,2679005,745
+CLT-20251210-0037,1000000036,Luisa Díaz Cruz,luisa.díaz037@financiera.com.co,+57 300 000 0036,1/9/1996,Bogotá,5944452,Empleado,2,Excelente,356667,2755548,756
+CLT-20251210-0038,1000000037,Sofía Vega González,sofía.vega038@grupoempresa.com,+57 300 000 0037,2/10/1997,Bogotá,6067909,Empleado,5,Bueno,1820373,2832091,661
+CLT-20251210-0039,1000000038,Valentina Ospina Rodríguez,valentina.ospina039@corp.com.co,+57 300 000 0038,3/11/1998,Bogotá,6191366,Empleado,8,Bueno,1919323,2908634,664
+CLT-20251210-0040,1000000039,Daniela Cruz Martínez,daniela.cruz040@servicios.com.co,+57 300 000 0039,4/12/1999,Cali,6314823,Empleado,4,Malo,4420376,2985177,397
+CLT-20251210-0041,1000000040,Juan Fernando González Gómez,juan.gonzález041@banco.com.co,+57 300 000 0040,5/13/2000,Bogotá,6438280,Empleado,7,Regular,2961609,3061720,631
+CLT-20251210-0042,1000000041,Carlos Rodríguez López,carlos.rodríguez042@financiera.com.co,+57 300 000 0041,6/14/1960,Bogotá,6561737,Empleado,7,Regular,3149634,3138263,608
+CLT-20251210-0043,1000000042,Andrés Martínez Pérez,andrés.martínez043@grupoempresa.com,+57 300 000 0042,7/15/1961,Bogotá,6685194,Empleado,7,Bueno,1403891,3214806,749
+CLT-20251210-0044,1000000043,Diego Gómez Sánchez,diego.gómez044@corp.com.co,+57 300 000 0043,8/16/1962,Cartagena,6808651,Empleado,30,Excelente,817038,3291349,801
+CLT-20251210-0045,1000000044,Santiago López Ramírez,santiago.lópez045@servicios.com.co,+57 300 000 0044,9/17/1963,Barranquilla,6932108,Empleado,3,Bueno,2148953,3367892,661
+CLT-20251210-0046,1000000045,David Patricia Pérez Torres,david.pérez046@banco.com.co,+57 300 000 0045,10/18/1964,Medellín,7055565,Empleado,3,Excelente,1058335,3444435,780
+CLT-20251210-0047,1000000046,Luis Sánchez Ruiz,luis.sánchez047@financiera.com.co,+57 300 000 0046,11/19/1965,Bogotá,7179022,Empleado,21,Regular,4235623,3520978,598
+CLT-20251210-0048,1000000047,José Ramírez Castillo,josé.ramírez048@grupoempresa.com,+57 300 000 0047,12/20/1966,Medellín,7302479,Empleado,11,Bueno,2190744,3597521,677
+CLT-20251210-0049,1000000048,Javier Torres Vargas,javier.torres049@corp.com.co,+57 300 000 0048,1/21/1967,Bogotá,7425936,Empleado,3,Regular,4381302,3674064,649
+CLT-20251210-0050,1000000049,Alejandro Ruiz Rojas,alejandro.ruiz050@servicios.com.co,+57 300 000 0049,2/22/1968,Medellín,7549393,Pensionado,28,Regular,4001178,3750607,566
+CLT-20251210-0051,1000000050,María Fernando Castillo Mendoza,maría.castillo051@banco.com.co,+57 300 000 0050,3/23/1969,Bogotá,7672850,Pensionado,4,Regular,3759696,3827150,609
+CLT-20251210-0052,1000000051,Catalina Vargas Cárdenas,catalina.vargas052@financiera.com.co,+57 300 000 0051,4/24/1970,Medellín,7796307,Empleado,5,Bueno,2494818,3903693,674
+CLT-20251210-0053,1000000052,Laura Rojas Herrera,laura.rojas053@grupoempresa.com,+57 300 000 0052,5/25/1971,Manizales,7919764,Empleado,23,Bueno,2375929,3980236,663
+CLT-20251210-0054,1000000053,Andrea Mendoza Díaz,andrea.mendoza054@corp.com.co,+57 300 000 0053,6/26/1972,Bogotá,8043221,Pensionado,4,Bueno,2734695,4056779,680
+CLT-20251210-0055,1000000054,Paula Cárdenas Vega,paula.cárdenas055@servicios.com.co,+57 300 000 0054,7/27/1973,Bogotá,8166678,Empleado,21,Excelente,1470002,4133322,759
+CLT-20251210-0056,1000000055,Angela Patricia Herrera Ospina,angela.herrera056@banco.com.co,+57 300 000 0055,8/28/1974,Medellín,8290135,Empleado,22,Regular,3647659,4209865,578
+CLT-20251210-0057,1000000056,Luisa Díaz Cruz,luisa.díaz057@financiera.com.co,+57 300 000 0056,9/1/1975,Neiva,8413592,Empleado,19,Bueno,2692349,4286408,740
+CLT-20251210-0058,1000000057,Sofía Vega González,sofía.vega058@grupoempresa.com,+57 300 000 0057,10/2/1976,Medellín,8537049,Empleado,22,Bueno,3073338,4362951,664
+CLT-20251210-0059,1000000058,Valentina Ospina Rodríguez,valentina.ospina059@corp.com.co,+57 300 000 0058,11/3/1977,Bogotá,8660506,Independiente,3,Malo,6408774,4439494,467
+CLT-20251210-0060,1000000059,Daniela Cruz Martínez,daniela.cruz060@servicios.com.co,+57 300 000 0059,12/4/1978,Bogotá,8783963,Empleado,27,Regular,3864944,4516037,615
+CLT-20251210-0061,1000000060,Juan Fernando González Gómez,juan.gonzález061@banco.com.co,+57 300 000 0060,1/5/1979,Bogotá,8907420,Independiente,26,Bueno,3028523,4592580,724
+CLT-20251210-0062,1000000061,Carlos Rodríguez López,carlos.rodríguez062@financiera.com.co,+57 300 000 0061,2/6/1980,Cali,9030877,Empleado,16,Bueno,2889881,4669123,679
+CLT-20251210-0063,1000000062,Andrés Martínez Pérez,andrés.martínez063@grupoempresa.com,+57 300 000 0062,3/7/1981,Bogotá,9154334,Empleado,21,Excelente,457717,4745666,776
+CLT-20251210-0064,1000000063,Diego Gómez Sánchez,diego.gómez064@corp.com.co,+57 300 000 0063,4/8/1982,Medellín,9277791,Empleado,2,Regular,5195563,4822209,601
+CLT-20251210-0065,1000000064,Santiago López Ramírez,santiago.lópez065@servicios.com.co,+57 300 000 0064,5/9/1983,Bogotá,9401248,Independiente,8,Excelente,282037,4898752,761
+CLT-20251210-0066,1000000065,David Patricia Pérez Torres,david.pérez066@banco.com.co,+57 300 000 0065,6/10/1984,Bogotá,9524705,Empleado,16,Bueno,2666917,4975295,744
+CLT-20251210-0067,1000000066,Luis Sánchez Ruiz,luis.sánchez067@financiera.com.co,+57 300 000 0066,7/11/1985,Bogotá,9648162,Empleado,3,Excelente,96482,5051838,783
+CLT-20251210-0068,1000000067,José Ramírez Castillo,josé.ramírez068@grupoempresa.com,+57 300 000 0067,8/12/1986,Santa Marta,9771619,Empleado,0,Bueno,2931486,5128381,655
+CLT-20251210-0069,1000000068,Javier Torres Vargas,javier.torres069@corp.com.co,+57 300 000 0068,9/13/1987,Cali,9895076,Independiente,2,Regular,5640193,5204924,571
+CLT-20251210-0070,1000000069,Alejandro Ruiz Rojas,alejandro.ruiz070@servicios.com.co,+57 300 000 0069,10/14/1988,Medellín,10018533,Independiente,1,Regular,4007413,5281467,567
+CLT-20251210-0071,1000000070,María Fernando Castillo Mendoza,maría.castillo071@banco.com.co,+57 300 000 0070,11/15/1989,Bogotá,10141990,Empleado,14,Regular,4462476,5358010,592
+CLT-20251210-0072,1000000071,Catalina Vargas Cárdenas,catalina.vargas072@financiera.com.co,+57 300 000 0071,12/16/1990,Barranquilla,10265447,Empleado,12,Bueno,2155744,5434553,718
+CLT-20251210-0073,1000000072,Laura Rojas Herrera,laura.rojas073@grupoempresa.com,+57 300 000 0072,1/17/1991,Bogotá,10388904,Empleado,7,Bueno,3740005,5511096,650
+CLT-20251210-0074,1000000073,Andrea Mendoza Díaz,andrea.mendoza074@corp.com.co,+57 300 000 0073,2/18/1992,Cartagena,10512361,Independiente,11,Regular,5676675,5587639,599
+CLT-20251210-0075,1000000074,Paula Cárdenas Vega,paula.cárdenas075@servicios.com.co,+57 300 000 0074,3/19/1993,Bogotá,10635818,Empleado,6,Bueno,2446238,5664182,726
+CLT-20251210-0076,1000000075,Angela Patricia Herrera Ospina,angela.herrera076@banco.com.co,+57 300 000 0075,4/20/1994,Bogotá,10759275,Empleado,13,Bueno,2151855,5740725,718
+CLT-20251210-0077,1000000076,Luisa Díaz Cruz,luisa.díaz077@financiera.com.co,+57 300 000 0076,5/21/1995,Medellín,10882732,Empleado,11,Bueno,3482474,5817268,681
+CLT-20251210-0078,1000000077,Sofía Vega González,sofía.vega078@grupoempresa.com,+57 300 000 0077,6/22/1996,Bogotá,11006189,Empleado,11,Malo,7374147,5893811,340
+CLT-20251210-0079,1000000078,Valentina Ospina Rodríguez,valentina.ospina079@corp.com.co,+57 300 000 0078,7/23/1997,Bogotá,11129646,Empleado,5,Regular,6232602,5970354,577
+CLT-20251210-0080,1000000079,Daniela Cruz Martínez,daniela.cruz080@servicios.com.co,+57 300 000 0079,8/24/1998,Medellín,11253103,Empleado,6,Bueno,3938586,6046897,699
+CLT-20251210-0081,1000000080,Juan Fernando González Gómez,juan.gonzález081@banco.com.co,+57 300 000 0080,9/25/1999,Bogotá,11376560,Empleado,4,Bueno,4209327,6123440,731
+CLT-20251210-0082,1000000081,Carlos Rodríguez López,carlos.rodríguez082@financiera.com.co,+57 300 000 0081,10/26/2000,Medellín,11500017,Empleado,1,Regular,5635008,6199983,615
+CLT-20251210-0083,1000000082,Andrés Martínez Pérez,andrés.martínez083@grupoempresa.com,+57 300 000 0082,11/27/1960,Bogotá,11623474,Empleado,18,Regular,6857850,6276526,620
+CLT-20251210-0084,1000000083,Diego Gómez Sánchez,diego.gómez084@corp.com.co,+57 300 000 0083,12/28/1961,Cartagena,11746931,Independiente,13,Malo,8222852,6353069,522
+CLT-20251210-0085,1000000084,Santiago López Ramírez,santiago.lópez085@servicios.com.co,+57 300 000 0084,1/1/1962,Barranquilla,11870388,Independiente,8,Regular,5697786,6429612,600
+CLT-20251210-0086,1000000085,David Patricia Pérez Torres,david.pérez086@banco.com.co,+57 300 000 0085,2/2/1963,Barranquilla,11993845,Empleado,24,Bueno,3838030,6506155,657
+CLT-20251210-0087,1000000086,Luis Sánchez Ruiz,luis.sánchez087@financiera.com.co,+57 300 000 0086,3/3/1964,Cali,12117302,Pensionado,28,Bueno,4725748,6582698,660
+CLT-20251210-0088,1000000087,José Ramírez Castillo,josé.ramírez088@grupoempresa.com,+57 300 000 0087,4/4/1965,Bogotá,12240759,Empleado,16,Regular,7099640,6659241,593
+CLT-20251210-0089,1000000088,Javier Torres Vargas,javier.torres089@corp.com.co,+57 300 000 0088,5/5/1966,Bogotá,12364216,Empleado,11,Bueno,3461980,6735784,712
+CLT-20251210-0090,1000000089,Alejandro Ruiz Rojas,alejandro.ruiz090@servicios.com.co,+57 300 000 0089,6/6/1967,Bogotá,12487673,Empleado,10,Bueno,3746302,6812327,671
+CLT-20251210-0091,1000000090,María Fernando Castillo Mendoza,maría.castillo091@banco.com.co,+57 300 000 0090,7/7/1968,Cali,12611130,Empleado,5,Excelente,504445,6888870,757
+CLT-20251210-0092,1000000091,Catalina Vargas Cárdenas,catalina.vargas092@financiera.com.co,+57 300 000 0091,8/8/1969,Montería,12734587,Empleado,2,Regular,5348527,6965413,644
+CLT-20251210-0093,1000000092,Laura Rojas Herrera,laura.rojas093@grupoempresa.com,+57 300 000 0092,9/9/1970,Barranquilla,12858044,Empleado,24,Bueno,3085931,7041956,659
+CLT-20251210-0094,1000000093,Andrea Mendoza Díaz,andrea.mendoza094@corp.com.co,+57 300 000 0093,10/10/1971,Medellín,12981501,Empleado,2,Bueno,3375190,7118499,685
+CLT-20251210-0095,1000000094,Paula Cárdenas Vega,paula.cárdenas095@servicios.com.co,+57 300 000 0094,11/11/1972,Barranquilla,13104958,Independiente,24,Excelente,2096793,7195042,843
+CLT-20251210-0096,1000000095,Angela Patricia Herrera Ospina,angela.herrera096@banco.com.co,+57 300 000 0095,12/12/1973,Bogotá,13228415,Independiente,22,Regular,7407912,7271585,620
+CLT-20251210-0097,1000000096,Luisa Díaz Cruz,luisa.díaz097@financiera.com.co,+57 300 000 0096,1/13/1974,Bogotá,13351872,Empleado,22,Regular,6675936,7348128,613
+CLT-20251210-0098,1000000097,Sofía Vega González,sofía.vega098@grupoempresa.com,+57 300 000 0097,2/14/1975,Bogotá,13475329,Empleado,10,Bueno,4446859,7424671,692
+CLT-20251210-0099,1000000098,Valentina Ospina Rodríguez,valentina.ospina099@corp.com.co,+57 300 000 0098,3/15/1976,Neiva,13598786,Empleado,4,Bueno,2719757,7501214,656
+CLT-20251210-0100,1000000099,Daniela Cruz Martínez,daniela.cruz100@servicios.com.co,+57 300 000 0099,4/16/1977,Cali,13722243,Empleado,30,Regular,7135566,7577757,635
+CLT-20251210-0101,1000000100,Juan Fernando González Gómez,juan.gonzález101@banco.com.co,+57 300 000 0100,5/17/1978,Bogotá,13845700,Empleado,19,Excelente,276914,7654300,826
+CLT-20251210-0102,1000000101,Carlos Rodríguez López,carlos.rodríguez102@financiera.com.co,+57 300 000 0101,6/18/1979,Medellín,13969157,Independiente,12,Regular,6705195,7730843,583
+CLT-20251210-0103,1000000102,Andrés Martínez Pérez,andrés.martínez103@grupoempresa.com,+57 300 000 0102,7/19/1980,Bogotá,14092614,Pensionado,25,Excelente,1832040,7807386,815
+CLT-20251210-0104,1000000103,Diego Gómez Sánchez,diego.gómez104@corp.com.co,+57 300 000 0103,8/20/1981,Manizales,14216071,Independiente,2,Bueno,5259946,7883929,715
+CLT-20251210-0105,1000000104,Santiago López Ramírez,santiago.lópez105@servicios.com.co,+57 300 000 0104,9/21/1982,Medellín,14339528,Empleado,11,Excelente,1003767,7960472,777
+CLT-20251210-0106,1000000105,David Patricia Pérez Torres,david.pérez106@banco.com.co,+57 300 000 0105,10/22/1983,Bogotá,14462985,Pensionado,18,Malo,11281128,8037015,481
+CLT-20251210-0107,1000000106,Luis Sánchez Ruiz,luis.sánchez107@financiera.com.co,+57 300 000 0106,11/23/1984,Medellín,14586442,Empleado,10,Bueno,2917288,8113558,663
+CLT-20251210-0108,1000000107,José Ramírez Castillo,josé.ramírez108@grupoempresa.com,+57 300 000 0107,12/24/1985,Barranquilla,14709899,Empleado,7,Bueno,5295564,8190101,721
+CLT-20251210-0109,1000000108,Javier Torres Vargas,javier.torres109@corp.com.co,+57 300 000 0108,1/25/1986,Barranquilla,14833356,Independiente,20,Bueno,4598340,8266644,723
+CLT-20251210-0110,1000000109,Alejandro Ruiz Rojas,alejandro.ruiz110@servicios.com.co,+57 300 000 0109,2/26/1987,Medellín,14956813,Independiente,19,Malo,11965450,8343187,376
+CLT-20251210-0111,1000000110,María Fernando Castillo Mendoza,maría.castillo111@banco.com.co,+57 300 000 0110,3/27/1988,Bogotá,15080270,Pensionado,6,Bueno,4674884,8419730,670
+CLT-20251210-0112,1000000111,Catalina Vargas Cárdenas,catalina.vargas112@financiera.com.co,+57 300 000 0111,4/28/1989,Bogotá,15203727,Empleado,18,Regular,8666124,8496273,558
+CLT-20251210-0113,1000000112,Laura Rojas Herrera,laura.rojas113@grupoempresa.com,+57 300 000 0112,5/1/1990,Medellín,15327184,Empleado,9,Bueno,4904699,8572816,719
+CLT-20251210-0114,1000000113,Andrea Mendoza Díaz,andrea.mendoza114@corp.com.co,+57 300 000 0113,6/2/1991,Bogotá,15450641,Independiente,1,Bueno,5562231,8649359,659
+CLT-20251210-0115,1000000114,Paula Cárdenas Vega,paula.cárdenas115@servicios.com.co,+57 300 000 0114,7/3/1992,Bogotá,15574098,Empleado,13,Bueno,5606675,8725902,659
+CLT-20251210-0116,1000000115,Angela Patricia Herrera Ospina,angela.herrera116@banco.com.co,+57 300 000 0115,8/4/1993,Bogotá,15697555,Pensionado,1,Bueno,3296487,8802445,717
+CLT-20251210-0117,1000000116,Luisa Díaz Cruz,luisa.díaz117@financiera.com.co,+57 300 000 0116,9/5/1994,Medellín,15821012,Empleado,13,Bueno,5853774,8878988,746
+CLT-20251210-0118,1000000117,Sofía Vega González,sofía.vega118@grupoempresa.com,+57 300 000 0117,10/6/1995,Cartagena,15944469,Pensionado,1,Excelente,159445,8955531,812
+CLT-20251210-0119,1000000118,Valentina Ospina Rodríguez,valentina.ospina119@corp.com.co,+57 300 000 0118,11/7/1996,Cali,16067926,Empleado,9,Regular,8516001,9032074,599
+CLT-20251210-0120,1000000119,Daniela Cruz Martínez,daniela.cruz120@servicios.com.co,+57 300 000 0119,12/8/1997,Medellín,16191383,Empleado,9,Bueno,6152726,9108617,705
+CLT-20251210-0121,1000000120,Juan Fernando González Gómez,juan.gonzález121@banco.com.co,+57 300 000 0120,1/9/1998,Medellín,16314840,Empleado,8,Bueno,3262968,9185160,670
+CLT-20251210-0122,1000000121,Carlos Rodríguez López,carlos.rodríguez122@financiera.com.co,+57 300 000 0121,2/10/1999,Bogotá,16438297,Empleado,7,Regular,6904085,9261703,609
+CLT-20251210-0123,1000000122,Andrés Martínez Pérez,andrés.martínez123@grupoempresa.com,+57 300 000 0122,3/11/2000,Medellín,16561754,Empleado,3,Regular,9605817,9338246,612
+CLT-20251210-0124,1000000123,Diego Gómez Sánchez,diego.gómez124@corp.com.co,+57 300 000 0123,4/12/1960,Barranquilla,16685211,Pensionado,29,Bueno,5005563,9414789,748
+CLT-20251210-0125,1000000124,Santiago López Ramírez,santiago.lópez125@servicios.com.co,+57 300 000 0124,5/13/1961,Bogotá,16808668,Empleado,12,Bueno,5378774,9491332,650
+CLT-20251210-0126,1000000125,David Patricia Pérez Torres,david.pérez126@banco.com.co,+57 300 000 0125,6/14/1962,Cali,16932125,Empleado,18,Bueno,4571674,9567875,731
+CLT-20251210-0127,1000000126,Luis Sánchez Ruiz,luis.sánchez127@financiera.com.co,+57 300 000 0126,7/15/1963,Bogotá,17055582,Empleado,2,Bueno,5798898,9644418,745
+CLT-20251210-0128,1000000127,José Ramírez Castillo,josé.ramírez128@grupoempresa.com,+57 300 000 0127,8/16/1964,Bogotá,17179039,Independiente,3,Bueno,3435808,9720961,663
+CLT-20251210-0129,1000000128,Javier Torres Vargas,javier.torres129@corp.com.co,+57 300 000 0128,9/17/1965,Barranquilla,17302496,Empleado,4,Bueno,5363774,9797504,736
+CLT-20251210-0130,1000000129,Alejandro Ruiz Rojas,alejandro.ruiz130@servicios.com.co,+57 300 000 0129,10/18/1966,Bogotá,17425953,Independiente,4,Regular,9758534,9874047,611
+CLT-20251210-0131,1000000130,María Fernando Castillo Mendoza,maría.castillo131@banco.com.co,+57 300 000 0130,11/19/1967,Cali,17549410,Empleado,10,Bueno,5966799,9950590,685
+CLT-20251210-0132,1000000131,Catalina Vargas Cárdenas,catalina.vargas132@financiera.com.co,+57 300 000 0131,12/20/1968,Cali,17672867,Empleado,13,Regular,9189891,10027133,572
+CLT-20251210-0133,1000000132,Laura Rojas Herrera,laura.rojas133@grupoempresa.com,+57 300 000 0132,1/21/1969,Bogotá,17796324,Empleado,0,Excelente,1423706,10103676,806
+CLT-20251210-0134,1000000133,Andrea Mendoza Díaz,andrea.mendoza134@corp.com.co,+57 300 000 0133,2/22/1970,Neiva,17919781,Empleado,28,Excelente,1433582,10180219,787
+CLT-20251210-0135,1000000134,Paula Cárdenas Vega,paula.cárdenas135@servicios.com.co,+57 300 000 0134,3/23/1971,Barranquilla,18043238,Empleado,30,Regular,8119457,10256762,590
+CLT-20251210-0136,1000000135,Angela Patricia Herrera Ospina,angela.herrera136@banco.com.co,+57 300 000 0135,4/24/1972,Bogotá,18166695,Empleado,5,Regular,10718350,10333305,609
+CLT-20251210-0137,1000000136,Luisa Díaz Cruz,luisa.díaz137@financiera.com.co,+57 300 000 0136,5/25/1973,Cali,18290152,Independiente,24,Excelente,3292227,10409848,823
+CLT-20251210-0138,1000000137,Sofía Vega González,sofía.vega138@grupoempresa.com,+57 300 000 0137,6/26/1974,Bogotá,18413609,Pensionado,30,Bueno,4971674,10486391,743
+CLT-20251210-0139,1000000138,Valentina Ospina Rodríguez,valentina.ospina139@corp.com.co,+57 300 000 0138,7/27/1975,Bogotá,18537066,Empleado,19,Excelente,3151301,10562934,766
+CLT-20251210-0140,1000000139,Daniela Cruz Martínez,daniela.cruz140@servicios.com.co,+57 300 000 0139,8/28/1976,Medellín,18660523,Independiente,5,Excelente,1679447,10639477,774
+CLT-20251210-0141,1000000140,Juan Fernando González Gómez,juan.gonzález141@banco.com.co,+57 300 000 0140,9/1/1977,Cali,18783980,Empleado,22,Regular,7513592,10716020,568
+CLT-20251210-0142,1000000141,Carlos Rodríguez López,carlos.rodríguez142@financiera.com.co,+57 300 000 0141,10/2/1978,Medellín,18907437,Independiente,28,Bueno,6617603,10792563,718
+CLT-20251210-0143,1000000142,Andrés Martínez Pérez,andrés.martínez143@grupoempresa.com,+57 300 000 0142,11/3/1979,Cali,19030894,Empleado,4,Regular,10276683,10869106,589
+CLT-20251210-0144,1000000143,Diego Gómez Sánchez,diego.gómez144@corp.com.co,+57 300 000 0143,12/4/1980,Bucaramanga,19154351,Independiente,25,Excelente,191544,10945649,794
+CLT-20251210-0145,1000000144,Santiago López Ramírez,santiago.lópez145@servicios.com.co,+57 300 000 0144,1/5/1981,Bogotá,19277808,Empleado,10,Regular,9253348,11022192,592
+CLT-20251210-0146,1000000145,David Patricia Pérez Torres,david.pérez146@banco.com.co,+57 300 000 0145,2/6/1982,Cartagena,19401265,Pensionado,5,Regular,8148531,11098735,577
+CLT-20251210-0147,1000000146,Luis Sánchez Ruiz,luis.sánchez147@financiera.com.co,+57 300 000 0146,3/7/1983,Cali,19524722,Empleado,11,Regular,10738597,11175278,563
+CLT-20251210-0148,1000000147,José Ramírez Castillo,josé.ramírez148@grupoempresa.com,+57 300 000 0147,4/8/1984,Cali,19648179,Independiente,2,Regular,11395944,11251821,557
+CLT-20251210-0149,1000000148,Javier Torres Vargas,javier.torres149@corp.com.co,+57 300 000 0148,5/9/1985,Medellín,19771636,Empleado,8,Bueno,5733774,11328364,749
+CLT-20251210-0150,1000000149,Alejandro Ruiz Rojas,alejandro.ruiz150@servicios.com.co,+57 300 000 0149,6/10/1986,Neiva,19895093,Pensionado,13,Bueno,3979019,11404907,670
+CLT-20251210-0151,1000000150,María Fernando Castillo Mendoza,maría.castillo151@banco.com.co,+57 300 000 0150,7/11/1987,Medellín,1518549,Independiente,9,Excelente,242968,11481450,778
+CLT-20251210-0152,1000000151,Catalina Vargas Cárdenas,catalina.vargas152@financiera.com.co,+57 300 000 0151,8/12/1988,Bogotá,1642006,Empleado,1,Bueno,591122,11557993,675
+CLT-20251210-0153,1000000152,Laura Rojas Herrera,laura.rojas153@grupoempresa.com,+57 300 000 0152,9/13/1989,Bogotá,1765463,Pensionado,0,Malo,1394716,11634536,541
+CLT-20251210-0154,1000000153,Andrea Mendoza Díaz,andrea.mendoza154@corp.com.co,+57 300 000 0153,10/14/1990,Cartagena,1888920,Empleado,4,Bueno,566676,11711079,725
+CLT-20251210-0155,1000000154,Paula Cárdenas Vega,paula.cárdenas155@servicios.com.co,+57 300 000 0154,11/15/1991,Bogotá,2012377,Pensionado,3,Regular,986065,11787622,598
+CLT-20251210-0156,1000000155,Angela Patricia Herrera Ospina,angela.herrera156@banco.com.co,+57 300 000 0155,12/16/1992,Cartagena,2135834,Empleado,10,Bueno,726184,11864165,705
+CLT-20251210-0157,1000000156,Luisa Díaz Cruz,luisa.díaz157@financiera.com.co,+57 300 000 0156,1/17/1993,Bogotá,2259291,Empleado,2,Excelente,135557,11940708,819
+CLT-20251210-0158,1000000157,Sofía Vega González,sofía.vega158@grupoempresa.com,+57 300 000 0157,2/18/1994,Cali,2382748,Empleado,9,Bueno,619514,12017251,744
+CLT-20251210-0159,1000000158,Valentina Ospina Rodríguez,valentina.ospina159@corp.com.co,+57 300 000 0158,3/19/1995,Cali,2506205,Empleado,4,Bueno,827048,12093794,705
+CLT-20251210-0160,1000000159,Daniela Cruz Martínez,daniela.cruz160@servicios.com.co,+57 300 000 0159,4/20/1996,Medellín,2629662,Empleado,5,Bueno,736305,12170337,748
+CLT-20251210-0161,1000000160,Juan Fernando González Gómez,juan.gonzález161@banco.com.co,+57 300 000 0160,5/21/1997,Bogotá,2753119,Independiente,5,Bueno,963592,12246880,708
+CLT-20251210-0162,1000000161,Carlos Rodríguez López,carlos.rodríguez162@financiera.com.co,+57 300 000 0161,6/22/1998,Barranquilla,2876576,Empleado,0,Excelente,143829,12323423,840
+CLT-20251210-0163,1000000162,Andrés Martínez Pérez,andrés.martínez163@grupoempresa.com,+57 300 000 0162,7/23/1999,Bogotá,3000033,Empleado,8,Excelente,240003,12399966,772
+CLT-20251210-0164,1000000163,Diego Gómez Sánchez,diego.gómez164@corp.com.co,+57 300 000 0163,8/24/2000,Cali,3123490,Empleado,7,Bueno,999517,12476509,736
+CLT-20251210-0165,1000000164,Santiago López Ramírez,santiago.lópez165@servicios.com.co,+57 300 000 0164,9/25/1960,Bogotá,3246947,Empleado,8,Bueno,876676,12553052,716
+CLT-20251210-0166,1000000165,David Patricia Pérez Torres,david.pérez166@banco.com.co,+57 300 000 0165,10/26/1961,Bogotá,3370404,Empleado,19,Excelente,235928,12629595,758
+CLT-20251210-0167,1000000166,Luis Sánchez Ruiz,luis.sánchez167@financiera.com.co,+57 300 000 0166,11/27/1962,Medellín,3493861,Empleado,2,Bueno,803588,12706138,650
+CLT-20251210-0168,1000000167,José Ramírez Castillo,josé.ramírez168@grupoempresa.com,+57 300 000 0167,12/28/1963,Bogotá,3617318,Empleado,3,Regular,2134218,12782681,631
+CLT-20251210-0169,1000000168,Javier Torres Vargas,javier.torres169@corp.com.co,+57 300 000 0168,1/1/1964,Cali,3740775,Empleado,13,Bueno,1234456,12859224,680
+CLT-20251210-0170,1000000169,Alejandro Ruiz Rojas,alejandro.ruiz170@servicios.com.co,+57 300 000 0169,2/2/1965,Cali,3864232,Independiente,0,Bueno,772846,12935767,711
+CLT-20251210-0171,1000000170,María Fernando Castillo Mendoza,maría.castillo171@banco.com.co,+57 300 000 0170,3/3/1966,Medellín,3987689,Pensionado,16,Excelente,757661,13012310,846
+CLT-20251210-0172,1000000171,Catalina Vargas Cárdenas,catalina.vargas172@financiera.com.co,+57 300 000 0171,4/4/1967,Bogotá,4111146,Independiente,6,Bueno,1356678,13088853,693
+CLT-20251210-0173,1000000172,Laura Rojas Herrera,laura.rojas173@grupoempresa.com,+57 300 000 0172,5/5/1968,Medellín,4234603,Independiente,1,Bueno,1100997,13165396,746
+CLT-20251210-0174,1000000173,Andrea Mendoza Díaz,andrea.mendoza174@corp.com.co,+57 300 000 0173,6/6/1969,Bogotá,4358060,Empleado,24,Excelente,261484,13241939,804
+CLT-20251210-0175,1000000174,Paula Cárdenas Vega,paula.cárdenas175@servicios.com.co,+57 300 000 0174,7/7/1970,Montería,4481517,Empleado,26,Bueno,1478901,13318482,719
+CLT-20251210-0176,1000000175,Angela Patricia Herrera Ospina,angela.herrera176@banco.com.co,+57 300 000 0175,8/8/1971,Bogotá,4604974,Empleado,19,Malo,3085333,13395025,429
+CLT-20251210-0177,1000000176,Luisa Díaz Cruz,luisa.díaz177@financiera.com.co,+57 300 000 0176,9/9/1972,Bogotá,4728431,Independiente,2,Bueno,1654951,13471568,718
+CLT-20251210-0178,1000000177,Sofía Vega González,sofía.vega178@grupoempresa.com,+57 300 000 0177,10/10/1973,Barranquilla,4851888,Empleado,20,Regular,2280387,13548111,577
+CLT-20251210-0179,1000000178,Valentina Ospina Rodríguez,valentina.ospina179@corp.com.co,+57 300 000 0178,11/11/1974,Bogotá,4975345,Empleado,18,Bueno,1094576,13624654,679
+CLT-20251210-0180,1000000179,Daniela Cruz Martínez,daniela.cruz180@servicios.com.co,+57 300 000 0179,12/12/1975,Cali,5098802,Empleado,20,Bueno,1376677,13701197,727
+CLT-20251210-0181,1000000180,Juan Fernando González Gómez,juan.gonzález181@banco.com.co,+57 300 000 0180,1/13/1976,Cali,5222259,Empleado,14,Regular,2872242,13777740,598
+CLT-20251210-0182,1000000181,Carlos Rodríguez López,carlos.rodríguez182@financiera.com.co,+57 300 000 0181,2/14/1977,Medellín,5345716,Empleado,15,Bueno,1282972,13854283,717
+CLT-20251210-0183,1000000182,Andrés Martínez Pérez,andrés.martínez183@grupoempresa.com,+57 300 000 0182,3/15/1978,Cartagena,5469173,Empleado,19,Regular,3172120,13930826,639
+CLT-20251210-0184,1000000183,Diego Gómez Sánchez,diego.gómez184@corp.com.co,+57 300 000 0183,4/16/1979,Bogotá,5592630,Empleado,26,Bueno,1957420,14007369,721
+CLT-20251210-0185,1000000184,Santiago López Ramírez,santiago.lópez185@servicios.com.co,+57 300 000 0184,5/17/1980,Medellín,5716087,Pensionado,10,Regular,3086687,14083912,597
+CLT-20251210-0186,1000000185,David Patricia Pérez Torres,david.pérez186@banco.com.co,+57 300 000 0185,6/18/1981,Santa Marta,5839544,Empleado,0,Regular,3211749,14160455,599
+CLT-20251210-0187,1000000186,Luis Sánchez Ruiz,luis.sánchez187@financiera.com.co,+57 300 000 0186,7/19/1982,Bogotá,5963001,Empleado,20,Malo,3995211,14236998,514
+CLT-20251210-0188,1000000187,José Ramírez Castillo,josé.ramírez188@grupoempresa.com,+57 300 000 0187,8/20/1983,Bogotá,6086458,Empleado,6,Excelente,1095562,14313541,764
+CLT-20251210-0189,1000000188,Javier Torres Vargas,javier.torres189@corp.com.co,+57 300 000 0188,9/21/1984,Cali,6209915,Empleado,0,Bueno,1366181,14390084,687
+CLT-20251210-0190,1000000189,Alejandro Ruiz Rojas,alejandro.ruiz190@servicios.com.co,+57 300 000 0189,10/22/1985,Bogotá,6333372,Empleado,5,Malo,4053358,14466627,426
+CLT-20251210-0191,1000000190,María Fernando Castillo Mendoza,maría.castillo191@banco.com.co,+57 300 000 0190,11/23/1986,Bogotá,6456829,Empleado,15,Bueno,2001617,14543170,703
+CLT-20251210-0192,1000000191,Catalina Vargas Cárdenas,catalina.vargas192@financiera.com.co,+57 300 000 0191,12/24/1987,Medellín,6580286,Empleado,12,Regular,3092734,14619713,602
+CLT-20251210-0193,1000000192,Laura Rojas Herrera,laura.rojas193@grupoempresa.com,+57 300 000 0192,1/25/1988,Cartagena,6703743,Empleado,17,Malo,4759658,14696256,377
+CLT-20251210-0194,1000000193,Andrea Mendoza Díaz,andrea.mendoza194@corp.com.co,+57 300 000 0193,2/26/1989,Bogotá,6827200,Empleado,15,Malo,5461760,14772799,534
+CLT-20251210-0195,1000000194,Paula Cárdenas Vega,paula.cárdenas195@servicios.com.co,+57 300 000 0194,3/27/1990,Pereira,6950657,Empleado,14,Regular,2780263,14849342,635
+CLT-20251210-0196,1000000195,Angela Patricia Herrera Ospina,angela.herrera196@banco.com.co,+57 300 000 0195,4/28/1991,Medellín,7074114,Empleado,0,Regular,3183351,14925885,600
+CLT-20251210-0197,1000000196,Luisa Díaz Cruz,luisa.díaz197@financiera.com.co,+57 300 000 0196,5/1/1992,Bogotá,7197571,Empleado,10,Regular,3742737,15002428,604
+CLT-20251210-0198,1000000197,Sofía Vega González,sofía.vega198@grupoempresa.com,+57 300 000 0197,6/2/1993,Pereira,7321028,Empleado,4,Regular,3074832,15078971,626
+CLT-20251210-0199,1000000198,Valentina Ospina Rodríguez,valentina.ospina199@corp.com.co,+57 300 000 0198,7/3/1994,Bogotá,7444485,Empleado,12,Regular,3424463,15155514,616
+CLT-20251210-0200,1000000199,Daniela Cruz Martínez,daniela.cruz200@servicios.com.co,+57 300 000 0199,8/4/1995,Bogotá,7567942,Empleado,1,Regular,3935330,15232057,556
+CLT-20251210-0201,1000000200,Juan Fernando González Gómez,juan.gonzález201@banco.com.co,+57 300 000 0200,9/5/1996,Cali,7691399,Empleado,0,Bueno,2384334,15308600,668
+CLT-20251210-0202,1000000201,Carlos Rodríguez López,carlos.rodríguez202@financiera.com.co,+57 300 000 0201,10/6/1997,Pereira,7814856,Empleado,6,Malo,5704845,15385143,319
+CLT-20251210-0203,1000000202,Andrés Martínez Pérez,andrés.martínez203@grupoempresa.com,+57 300 000 0202,11/7/1998,Barranquilla,7938313,Empleado,6,Bueno,1667046,15461686,731
+CLT-20251210-0204,1000000203,Diego Gómez Sánchez,diego.gómez204@corp.com.co,+57 300 000 0203,12/8/1999,Barranquilla,8061770,Empleado,1,Bueno,1773589,15538229,740
+CLT-20251210-0205,1000000204,Santiago López Ramírez,santiago.lópez205@servicios.com.co,+57 300 000 0204,1/9/2000,Cali,8185227,Independiente,0,Excelente,163705,15614772,808
+CLT-20251210-0206,1000000205,David Patricia Pérez Torres,david.pérez206@banco.com.co,+57 300 000 0205,2/10/1960,Santa Marta,8308684,Empleado,20,Regular,3988168,15691315,595
+CLT-20251210-0207,1000000206,Luis Sánchez Ruiz,luis.sánchez207@financiera.com.co,+57 300 000 0206,3/11/1961,Cali,8432141,Independiente,9,Bueno,2445321,15767858,667
+CLT-20251210-0208,1000000207,José Ramírez Castillo,josé.ramírez208@grupoempresa.com,+57 300 000 0207,4/12/1962,Pereira,8555598,Empleado,14,Bueno,2395567,15844401,662
+CLT-20251210-0209,1000000208,Javier Torres Vargas,javier.torres209@corp.com.co,+57 300 000 0208,5/13/1963,Medellín,8679055,Empleado,17,Bueno,2603716,15920944,667
+CLT-20251210-0210,1000000209,Alejandro Ruiz Rojas,alejandro.ruiz210@servicios.com.co,+57 300 000 0209,6/14/1964,Medellín,8802512,Independiente,25,Regular,3521005,15997487,625
+CLT-20251210-0211,1000000210,María Fernando Castillo Mendoza,maría.castillo211@banco.com.co,+57 300 000 0210,7/15/1965,Cali,8925969,Empleado,12,Excelente,1606674,16074030,791
+CLT-20251210-0212,1000000211,Catalina Vargas Cárdenas,catalina.vargas212@financiera.com.co,+57 300 000 0211,8/16/1966,Bogotá,9049426,Empleado,14,Bueno,2986311,16150573,747
+CLT-20251210-0213,1000000212,Laura Rojas Herrera,laura.rojas213@grupoempresa.com,+57 300 000 0212,9/17/1967,Cali,9172883,Empleado,21,Regular,5136814,16227116,601
+CLT-20251210-0214,1000000213,Andrea Mendoza Díaz,andrea.mendoza214@corp.com.co,+57 300 000 0213,10/18/1968,Pereira,9296340,Empleado,14,Regular,4927060,16303659,556
+CLT-20251210-0215,1000000214,Paula Cárdenas Vega,paula.cárdenas215@servicios.com.co,+57 300 000 0214,11/19/1969,Barranquilla,9419797,Empleado,25,Malo,6688056,16380202,491
+CLT-20251210-0216,1000000215,Angela Patricia Herrera Ospina,angela.herrera216@banco.com.co,+57 300 000 0215,12/20/1970,Bogotá,9543254,Empleado,13,Excelente,1431488,16456745,845
+CLT-20251210-0217,1000000216,Luisa Díaz Cruz,luisa.díaz217@financiera.com.co,+57 300 000 0216,1/21/1971,Bogotá,9666711,Independiente,23,Regular,4736688,16533288,557
+CLT-20251210-0218,1000000217,Sofía Vega González,sofía.vega218@grupoempresa.com,+57 300 000 0217,2/22/1972,Bogotá,9790168,Empleado,25,Excelente,685312,16609831,767
+CLT-20251210-0219,1000000218,Valentina Ospina Rodríguez,valentina.ospina219@corp.com.co,+57 300 000 0218,3/23/1973,Cartagena,9913625,Empleado,12,Regular,4659404,16686374,552
+CLT-20251210-0220,1000000219,Daniela Cruz Martínez,daniela.cruz220@servicios.com.co,+57 300 000 0219,4/24/1974,Sincelejo,10037082,Independiente,27,Excelente,501854,16762917,813
+CLT-20251210-0221,1000000220,Juan Fernando González Gómez,juan.gonzález221@banco.com.co,+57 300 000 0220,5/25/1975,Bogotá,10160539,Empleado,13,Bueno,3657794,16839460,695
+CLT-20251210-0222,1000000221,Carlos Rodríguez López,carlos.rodríguez222@financiera.com.co,+57 300 000 0221,6/26/1976,Bogotá,10283996,Empleado,28,Regular,5759038,16916003,623
+CLT-20251210-0223,1000000222,Andrés Martínez Pérez,andrés.martínez223@grupoempresa.com,+57 300 000 0222,7/27/1977,Bogotá,10407453,Independiente,24,Regular,4162981,16992546,639
+CLT-20251210-0224,1000000223,Diego Gómez Sánchez,diego.gómez224@corp.com.co,+57 300 000 0223,8/28/1978,Bogotá,10530910,Empleado,17,Excelente,1790255,17069089,754
+CLT-20251210-0225,1000000224,Santiago López Ramírez,santiago.lópez225@servicios.com.co,+57 300 000 0224,9/1/1979,Bucaramanga,10654367,Empleado,19,Excelente,745806,17145632,755
+CLT-20251210-0226,1000000225,David Patricia Pérez Torres,david.pérez226@banco.com.co,+57 300 000 0225,10/2/1980,Bogotá,10777824,Empleado,25,Bueno,4203351,17222175,690
+CLT-20251210-0227,1000000226,Luis Sánchez Ruiz,luis.sánchez227@financiera.com.co,+57 300 000 0226,11/3/1981,Bogotá,10901281,Independiente,25,Excelente,1417167,17298718,819
+CLT-20251210-0228,1000000227,José Ramírez Castillo,josé.ramírez228@grupoempresa.com,+57 300 000 0227,12/4/1982,Bogotá,11024738,Empleado,0,Bueno,2976679,17375261,690
+CLT-20251210-0229,1000000228,Javier Torres Vargas,javier.torres229@corp.com.co,+57 300 000 0228,1/5/1983,Bogotá,11148195,Empleado,20,Bueno,3010013,17451804,665
+CLT-20251210-0230,1000000229,Alejandro Ruiz Rojas,alejandro.ruiz230@servicios.com.co,+57 300 000 0229,2/6/1984,Medellín,11271652,Independiente,20,Regular,6086692,17528347,599
+CLT-20251210-0231,1000000230,María Fernando Castillo Mendoza,maría.castillo231@banco.com.co,+57 300 000 0230,3/7/1985,Cali,11395109,Independiente,4,Regular,5697554,17604890,639
+CLT-20251210-0232,1000000231,Catalina Vargas Cárdenas,catalina.vargas232@financiera.com.co,+57 300 000 0231,4/8/1986,Bogotá,11518566,Empleado,7,Bueno,2879642,17681433,667
+CLT-20251210-0233,1000000232,Laura Rojas Herrera,laura.rojas233@grupoempresa.com,+57 300 000 0232,5/9/1987,Medellín,11642023,Empleado,19,Malo,8498677,17757976,450
+CLT-20251210-0234,1000000233,Andrea Mendoza Díaz,andrea.mendoza234@corp.com.co,+57 300 000 0233,6/10/1988,Cali,11765480,Empleado,10,Regular,6471014,17834519,606
+CLT-20251210-0235,1000000234,Paula Cárdenas Vega,paula.cárdenas235@servicios.com.co,+57 300 000 0234,7/11/1989,Bogotá,11888937,Empleado,8,Excelente,1188894,17911062,770
+CLT-20251210-0236,1000000235,Angela Patricia Herrera Ospina,angela.herrera236@banco.com.co,+57 300 000 0235,8/12/1990,Medellín,12012394,Empleado,11,Excelente,2042107,17987605,765
+CLT-20251210-0237,1000000236,Luisa Díaz Cruz,luisa.díaz237@financiera.com.co,+57 300 000 0236,9/13/1991,Medellín,12135851,Independiente,7,Bueno,2791246,18064148,732
+CLT-20251210-0238,1000000237,Sofía Vega González,sofía.vega238@grupoempresa.com,+57 300 000 0237,10/14/1992,Cartagena,12259308,Empleado,11,Bueno,3677792,18140691,654
+CLT-20251210-0239,1000000238,Valentina Ospina Rodríguez,valentina.ospina239@corp.com.co,+57 300 000 0238,11/15/1993,Cartagena,12382765,Empleado,7,Bueno,2848036,18217234,662
+CLT-20251210-0240,1000000239,Daniela Cruz Martínez,daniela.cruz240@servicios.com.co,+57 300 000 0239,12/16/1994,Cali,12506222,Independiente,12,Excelente,125062,18293777,785
+CLT-20251210-0241,1000000240,Juan Fernando González Gómez,juan.gonzález241@banco.com.co,+57 300 000 0240,1/17/1995,Cartagena,12629679,Empleado,9,Regular,7451511,18370320,632
+CLT-20251210-0242,1000000241,Carlos Rodríguez López,carlos.rodríguez242@financiera.com.co,+57 300 000 0241,2/18/1996,Bogotá,12753136,Empleado,10,Malo,8162007,18446863,422
+CLT-20251210-0243,1000000242,Andrés Martínez Pérez,andrés.martínez243@grupoempresa.com,+57 300 000 0242,3/19/1997,Cartagena,12876593,Independiente,10,Excelente,386298,18523406,760
+CLT-20251210-0244,1000000243,Diego Gómez Sánchez,diego.gómez244@corp.com.co,+57 300 000 0243,4/20/1998,Bogotá,13000050,Empleado,6,Bueno,3510014,18599949,651
+CLT-20251210-0245,1000000244,Santiago López Ramírez,santiago.lópez245@servicios.com.co,+57 300 000 0244,5/21/1999,Cali,13123507,Pensionado,4,Regular,7217929,18676492,576
+CLT-20251210-0246,1000000245,David Patricia Pérez Torres,david.pérez246@banco.com.co,+57 300 000 0245,6/22/2000,Bogotá,13246964,Empleado,5,Bueno,3576680,18753035,662
+CLT-20251210-0247,1000000246,Luis Sánchez Ruiz,luis.sánchez247@financiera.com.co,+57 300 000 0246,7/23/1960,Bogotá,13370421,Empleado,10,Bueno,2674084,18829578,707
+CLT-20251210-0248,1000000247,José Ramírez Castillo,josé.ramírez248@grupoempresa.com,+57 300 000 0247,8/24/1961,Cali,13493878,Independiente,21,Bueno,3913225,18906121,699
+CLT-20251210-0249,1000000248,Javier Torres Vargas,javier.torres249@corp.com.co,+57 300 000 0248,9/25/1962,Pereira,13617335,Empleado,29,Excelente,2587294,18982664,821
+CLT-20251210-0250,1000000249,Alejandro Ruiz Rojas,alejandro.ruiz250@servicios.com.co,+57 300 000 0249,10/26/1963,Bogotá,13740792,Pensionado,19,Excelente,1236671,19059207,850
+CLT-20251210-0251,1000000250,María Fernando Castillo Mendoza,maría.castillo251@banco.com.co,+57 300 000 0250,11/27/1964,Medellín,13864249,Pensionado,22,Regular,6100270,19135750,604
+CLT-20251210-0252,1000000251,Catalina Vargas Cárdenas,catalina.vargas252@financiera.com.co,+57 300 000 0251,12/28/1965,Bogotá,13987706,Pensionado,1,Bueno,4755820,19212293,726
+CLT-20251210-0253,1000000252,Laura Rojas Herrera,laura.rojas253@grupoempresa.com,+57 300 000 0252,1/1/1966,Cali,14111163,Pensionado,7,Bueno,4233349,19288836,747
+CLT-20251210-0254,1000000253,Andrea Mendoza Díaz,andrea.mendoza254@corp.com.co,+57 300 000 0253,2/2/1967,Cartagena,14234620,Empleado,16,Bueno,5124463,19365379,669
+CLT-20251210-0255,1000000254,Paula Cárdenas Vega,paula.cárdenas255@servicios.com.co,+57 300 000 0254,3/3/1968,Bogotá,14358077,Empleado,15,Regular,6030392,19441922,606
+CLT-20251210-0256,1000000255,Angela Patricia Herrera Ospina,angela.herrera256@banco.com.co,+57 300 000 0255,4/4/1969,Medellín,14481534,Empleado,24,Bueno,3330753,19518465,666
+CLT-20251210-0257,1000000256,Luisa Díaz Cruz,luisa.díaz257@financiera.com.co,+57 300 000 0256,5/5/1970,Bogotá,14604991,Empleado,6,Bueno,4673597,19595008,730
+CLT-20251210-0258,1000000257,Sofía Vega González,sofía.vega258@grupoempresa.com,+57 300 000 0257,6/6/1971,Medellín,14728448,Independiente,10,Regular,8247931,19671551,569
+CLT-20251210-0259,1000000258,Valentina Ospina Rodríguez,valentina.ospina259@corp.com.co,+57 300 000 0258,7/7/1972,Bogotá,14851905,Empleado,14,Excelente,1485190,19748094,779
+CLT-20251210-0260,1000000259,Daniela Cruz Martínez,daniela.cruz260@servicios.com.co,+57 300 000 0259,8/8/1973,Montería,14975362,Empleado,14,Malo,9883739,19824637,356
+CLT-20251210-0261,1000000260,Juan Fernando González Gómez,juan.gonzález261@banco.com.co,+57 300 000 0260,9/9/1974,Bogotá,15098819,Empleado,6,Bueno,4227669,19901180,746
+CLT-20251210-0262,1000000261,Carlos Rodríguez López,carlos.rodríguez262@financiera.com.co,+57 300 000 0261,10/10/1975,Sincelejo,15222276,Pensionado,5,Regular,8372252,19977723,574
+CLT-20251210-0263,1000000262,Andrés Martínez Pérez,andrés.martínez263@grupoempresa.com,+57 300 000 0262,11/11/1976,Medellín,15345733,Empleado,11,Bueno,4450263,20054266,665
+CLT-20251210-0264,1000000263,Diego Gómez Sánchez,diego.gómez264@corp.com.co,+57 300 000 0263,12/12/1977,Medellín,15469190,Empleado,26,Regular,6497060,20130809,569
+CLT-20251210-0265,1000000264,Santiago López Ramírez,santiago.lópez265@servicios.com.co,+57 300 000 0264,1/13/1978,Sincelejo,15592647,Independiente,12,Excelente,2027044,20207352,801
+CLT-20251210-0266,1000000265,David Patricia Pérez Torres,david.pérez266@banco.com.co,+57 300 000 0265,2/14/1979,Medellín,15716104,Empleado,22,Bueno,3143221,20283895,687
+CLT-20251210-0267,1000000266,Luis Sánchez Ruiz,luis.sánchez267@financiera.com.co,+57 300 000 0266,3/15/1980,Sincelejo,15839561,Empleado,19,Bueno,5543846,20360438,749
+CLT-20251210-0268,1000000267,José Ramírez Castillo,josé.ramírez268@grupoempresa.com,+57 300 000 0267,4/16/1981,Medellín,15963018,Empleado,12,Regular,8300769,20436981,607
+CLT-20251210-0269,1000000268,Javier Torres Vargas,javier.torres269@corp.com.co,+57 300 000 0268,5/17/1982,Cartagena,16086475,Independiente,16,Excelente,2252106,20513524,822
+CLT-20251210-0270,1000000269,Alejandro Ruiz Rojas,alejandro.ruiz270@servicios.com.co,+57 300 000 0269,6/18/1983,Bogotá,16209932,Pensionado,15,Excelente,1620993,20590067,775
+CLT-20251210-0271,1000000270,María Fernando Castillo Mendoza,maría.castillo271@banco.com.co,+57 300 000 0270,7/19/1984,Cali,16333389,Empleado,8,Malo,11923374,20666610,448
+CLT-20251210-0272,1000000271,Catalina Vargas Cárdenas,catalina.vargas272@financiera.com.co,+57 300 000 0271,8/20/1985,Medellín,16456846,Independiente,1,Bueno,6253601,20743153,718
+CLT-20251210-0273,1000000272,Laura Rojas Herrera,laura.rojas273@grupoempresa.com,+57 300 000 0272,9/21/1986,Bogotá,16580303,Independiente,1,Bueno,3647667,20819696,731
+CLT-20251210-0274,1000000273,Andrea Mendoza Díaz,andrea.mendoza274@corp.com.co,+57 300 000 0273,10/22/1987,Medellín,16703760,Independiente,19,Excelente,1670376,20896239,826
+CLT-20251210-0275,1000000274,Paula Cárdenas Vega,paula.cárdenas275@servicios.com.co,+57 300 000 0274,11/23/1988,Bogotá,16827217,Independiente,10,Excelente,168272,20972782,795
+CLT-20251210-0276,1000000275,Angela Patricia Herrera Ospina,angela.herrera276@banco.com.co,+57 300 000 0275,12/24/1989,Neiva,16950674,Empleado,15,Malo,11695965,21049325,420
+CLT-20251210-0277,1000000276,Luisa Díaz Cruz,luisa.díaz277@financiera.com.co,+57 300 000 0276,1/25/1990,Cali,17074131,Empleado,8,Regular,8024842,21125868,624
+CLT-20251210-0278,1000000277,Sofía Vega González,sofía.vega278@grupoempresa.com,+57 300 000 0277,2/26/1991,Bogotá,17197588,Pensionado,16,Regular,9802625,21202411,618
+CLT-20251210-0279,1000000278,Valentina Ospina Rodríguez,valentina.ospina279@corp.com.co,+57 300 000 0278,3/27/1992,Bogotá,17321045,Empleado,8,Regular,9180154,21278954,551
+CLT-20251210-0280,1000000279,Daniela Cruz Martínez,daniela.cruz280@servicios.com.co,+57 300 000 0279,4/28/1993,Bogotá,17444502,Empleado,8,Regular,6977801,21355497,601
+CLT-20251210-0281,1000000280,Juan Fernando González Gómez,juan.gonzález281@banco.com.co,+57 300 000 0280,5/1/1994,Medellín,17567959,Empleado,10,Bueno,5797426,21432040,656
+CLT-20251210-0282,1000000281,Carlos Rodríguez López,carlos.rodríguez282@financiera.com.co,+57 300 000 0281,6/2/1995,Cali,17691416,Independiente,2,Malo,13091648,21508583,505
+CLT-20251210-0283,1000000282,Andrés Martínez Pérez,andrés.martínez283@grupoempresa.com,+57 300 000 0282,7/3/1996,Bogotá,17814873,Empleado,5,Regular,7838544,21585126,607
+CLT-20251210-0284,1000000283,Diego Gómez Sánchez,diego.gómez284@corp.com.co,+57 300 000 0283,8/4/1997,Cali,17938330,Empleado,3,Regular,8610398,21661669,614
+CLT-20251210-0285,1000000284,Santiago López Ramírez,santiago.lópez285@servicios.com.co,+57 300 000 0284,9/5/1998,Barranquilla,18061787,Empleado,7,Bueno,5960390,21738212,725
+CLT-20251210-0286,1000000285,David Patricia Pérez Torres,david.pérez286@banco.com.co,+57 300 000 0285,10/6/1999,Bogotá,18185244,Empleado,3,Excelente,1636672,21814755,837
+CLT-20251210-0287,1000000286,Luis Sánchez Ruiz,luis.sánchez287@financiera.com.co,+57 300 000 0286,11/7/2000,Bogotá,18308701,Empleado,7,Malo,13548439,21891298,357
+CLT-20251210-0288,1000000287,José Ramírez Castillo,josé.ramírez288@grupoempresa.com,+57 300 000 0287,12/8/1960,Cartagena,18432158,Empleado,0,Bueno,6635577,21967841,725
+CLT-20251210-0289,1000000288,Javier Torres Vargas,javier.torres289@corp.com.co,+57 300 000 0288,1/9/1961,Bogotá,18555615,Empleado,2,Bueno,5937797,22044384,698
+CLT-20251210-0290,1000000289,Alejandro Ruiz Rojas,alejandro.ruiz290@servicios.com.co,+57 300 000 0289,2/10/1962,Bogotá,18679072,Empleado,24,Excelente,1867907,22120927,808
+CLT-20251210-0291,1000000290,María Fernando Castillo Mendoza,maría.castillo291@banco.com.co,+57 300 000 0290,3/11/1963,Cartagena,18802529,Empleado,25,Excelente,1504202,22197470,760
+CLT-20251210-0292,1000000291,Catalina Vargas Cárdenas,catalina.vargas292@financiera.com.co,+57 300 000 0291,4/12/1964,Medellín,18925986,Independiente,1,Bueno,4163717,22274013,690
+CLT-20251210-0293,1000000292,Laura Rojas Herrera,laura.rojas293@grupoempresa.com,+57 300 000 0292,5/13/1965,Cali,19049443,Empleado,4,Regular,7619777,22350556,602
+CLT-20251210-0294,1000000293,Andrea Mendoza Díaz,andrea.mendoza294@corp.com.co,+57 300 000 0293,6/14/1966,Cali,19172900,Independiente,22,Bueno,4409767,22427099,717
+CLT-20251210-0295,1000000294,Paula Cárdenas Vega,paula.cárdenas295@servicios.com.co,+57 300 000 0294,7/15/1967,Cartagena,19296357,Empleado,2,Regular,7911506,22503642,584
+CLT-20251210-0296,1000000295,Angela Patricia Herrera Ospina,angela.herrera296@banco.com.co,+57 300 000 0295,8/16/1968,Medellín,19419814,Independiente,18,Excelente,388396,22580185,838
+CLT-20251210-0297,1000000296,Luisa Díaz Cruz,luisa.díaz297@financiera.com.co,+57 300 000 0296,9/17/1969,Bogotá,19543271,Empleado,27,Regular,10748799,22656728,572
+CLT-20251210-0298,1000000297,Sofía Vega González,sofía.vega298@grupoempresa.com,+57 300 000 0297,10/18/1970,Cali,19666728,Empleado,20,Regular,11406702,22733271,571
+CLT-20251210-0299,1000000298,Valentina Ospina Rodríguez,valentina.ospina299@corp.com.co,+57 300 000 0298,11/19/1971,Bogotá,19790185,Pensionado,21,Malo,12072013,22809814,483
+CLT-20251210-0300,1000000299,Daniela Cruz Martínez,daniela.cruz300@servicios.com.co,+57 300 000 0299,12/20/1972,Bogotá,19913642,Empleado,25,Excelente,3584456,22886357,770
+CLT-20251210-0301,1000000300,Juan Fernando González Gómez,juan.gonzález301@banco.com.co,+57 300 000 0300,1/21/1973,Bogotá,1537098,Empleado,28,Regular,753178,22962900,562
+CLT-20251210-0302,1000000301,Carlos Rodríguez López,carlos.rodríguez302@financiera.com.co,+57 300 000 0301,2/22/1974,Bogotá,1660555,Empleado,0,Bueno,481561,23039443,735
+CLT-20251210-0303,1000000302,Andrés Martínez Pérez,andrés.martínez303@grupoempresa.com,+57 300 000 0302,3/23/1975,Manizales,1784012,Independiente,2,Regular,874166,23115986,569
+CLT-20251210-0304,1000000303,Diego Gómez Sánchez,diego.gómez304@corp.com.co,+57 300 000 0303,4/24/1976,Barranquilla,1907469,Empleado,15,Regular,934660,23192529,568
+CLT-20251210-0305,1000000304,Santiago López Ramírez,santiago.lópez305@servicios.com.co,+57 300 000 0304,5/25/1977,Bogotá,2030926,Empleado,12,Bueno,487422,23269072,696
+CLT-20251210-0306,1000000305,David Patricia Pérez Torres,david.pérez306@banco.com.co,+57 300 000 0305,6/26/1978,Cartagena,2154383,Empleado,26,Regular,969472,23345615,608
+CLT-20251210-0307,1000000306,Luis Sánchez Ruiz,luis.sánchez307@financiera.com.co,+57 300 000 0306,7/27/1979,Medellín,2277840,Independiente,24,Regular,1184477,23422158,644
+CLT-20251210-0308,1000000307,José Ramírez Castillo,josé.ramírez308@grupoempresa.com,+57 300 000 0307,8/28/1980,Bogotá,2401297,Pensionado,15,Regular,1176636,23498701,632
+CLT-20251210-0309,1000000308,Javier Torres Vargas,javier.torres309@corp.com.co,+57 300 000 0308,9/1/1981,Bogotá,2524754,Empleado,11,Excelente,328218,23575244,846
+CLT-20251210-0310,1000000309,Alejandro Ruiz Rojas,alejandro.ruiz310@servicios.com.co,+57 300 000 0309,10/2/1982,Barranquilla,2648211,Independiente,17,Bueno,953356,23651787,650
+CLT-20251210-0311,1000000310,María Fernando Castillo Mendoza,maría.castillo311@banco.com.co,+57 300 000 0310,11/3/1983,Medellín,2771668,Empleado,18,Bueno,831500,23728330,684
+CLT-20251210-0312,1000000311,Catalina Vargas Cárdenas,catalina.vargas312@financiera.com.co,+57 300 000 0311,12/4/1984,Bogotá,2895125,Empleado,0,Malo,1852880,23804873,522
+CLT-20251210-0313,1000000312,Laura Rojas Herrera,laura.rojas313@grupoempresa.com,+57 300 000 0312,1/5/1985,Medellín,3018582,Independiente,14,Regular,1418734,23881416,603
+CLT-20251210-0314,1000000313,Andrea Mendoza Díaz,andrea.mendoza314@corp.com.co,+57 300 000 0313,2/6/1986,Medellín,3142039,Independiente,16,Bueno,1099714,23957959,700
+CLT-20251210-0315,1000000314,Paula Cárdenas Vega,paula.cárdenas315@servicios.com.co,+57 300 000 0314,3/7/1987,Barranquilla,3265496,Pensionado,18,Excelente,587789,24034502,802
+CLT-20251210-0316,1000000315,Angela Patricia Herrera Ospina,angela.herrera316@banco.com.co,+57 300 000 0315,4/8/1988,Medellín,3388953,Empleado,5,Bueno,813349,24111045,653
+CLT-20251210-0317,1000000316,Luisa Díaz Cruz,luisa.díaz317@financiera.com.co,+57 300 000 0316,5/9/1989,Medellín,3512410,Empleado,10,Excelente,386365,24187588,818
+CLT-20251210-0318,1000000317,Sofía Vega González,sofía.vega318@grupoempresa.com,+57 300 000 0317,6/10/1990,Cali,3635867,Pensionado,8,Excelente,363587,24264131,765
+CLT-20251210-0319,1000000318,Valentina Ospina Rodríguez,valentina.ospina319@corp.com.co,+57 300 000 0318,7/11/1991,Bogotá,3759324,Empleado,16,Excelente,338339,24340674,766
+CLT-20251210-0320,1000000319,Daniela Cruz Martínez,daniela.cruz320@servicios.com.co,+57 300 000 0319,8/12/1992,Bogotá,3882781,Empleado,3,Regular,1708424,24417217,580
+CLT-20251210-0321,1000000320,Juan Fernando González Gómez,juan.gonzález321@banco.com.co,+57 300 000 0320,9/13/1993,Barranquilla,4006238,Empleado,13,Bueno,1201871,24493760,661
+CLT-20251210-0322,1000000321,Carlos Rodríguez López,carlos.rodríguez322@financiera.com.co,+57 300 000 0321,10/14/1994,Bogotá,4129695,Pensionado,8,Malo,3179865,24570303,486
+CLT-20251210-0323,1000000322,Andrés Martínez Pérez,andrés.martínez323@grupoempresa.com,+57 300 000 0322,11/15/1995,Bogotá,4253152,Pensionado,0,Bueno,1488603,24646846,685
+CLT-20251210-0324,1000000323,Diego Gómez Sánchez,diego.gómez324@corp.com.co,+57 300 000 0323,12/16/1996,Bogotá,4376609,Empleado,3,Excelente,656491,24723389,798
+CLT-20251210-0325,1000000324,Santiago López Ramírez,santiago.lópez325@servicios.com.co,+57 300 000 0324,1/17/1997,Bogotá,4500066,Empleado,7,Bueno,945014,24799932,695
+CLT-20251210-0326,1000000325,David Patricia Pérez Torres,david.pérez326@banco.com.co,+57 300 000 0325,2/18/1998,Barranquilla,4623523,Empleado,1,Excelente,601058,24876475,781
+CLT-20251210-0327,1000000326,Luis Sánchez Ruiz,luis.sánchez327@financiera.com.co,+57 300 000 0326,3/19/1999,Cali,4746980,Independiente,6,Regular,2088671,24953018,613
+CLT-20251210-0328,1000000327,José Ramírez Castillo,josé.ramírez328@grupoempresa.com,+57 300 000 0327,4/20/2000,Medellín,4870437,Empleado,1,Regular,1996879,25029561,584
+CLT-20251210-0329,1000000328,Javier Torres Vargas,javier.torres329@corp.com.co,+57 300 000 0328,5/21/1960,Cali,4993894,Empleado,26,Malo,3295970,25106104,399
+CLT-20251210-0330,1000000329,Alejandro Ruiz Rojas,alejandro.ruiz330@servicios.com.co,+57 300 000 0329,6/22/1961,Cali,5117351,Empleado,8,Malo,3684493,25182647,442
+CLT-20251210-0331,1000000330,María Fernando Castillo Mendoza,maría.castillo331@banco.com.co,+57 300 000 0330,7/23/1962,Barranquilla,5240808,Empleado,28,Bueno,1781875,25259190,734
+CLT-20251210-0332,1000000331,Catalina Vargas Cárdenas,catalina.vargas332@financiera.com.co,+57 300 000 0331,8/24/1963,Bogotá,5364265,Empleado,29,Regular,2843060,25335733,638
+CLT-20251210-0333,1000000332,Laura Rojas Herrera,laura.rojas333@grupoempresa.com,+57 300 000 0332,9/25/1964,Bogotá,5487722,Empleado,11,Excelente,439018,25412276,756
+CLT-20251210-0334,1000000333,Andrea Mendoza Díaz,andrea.mendoza334@corp.com.co,+57 300 000 0333,10/26/1965,Bogotá,5611179,Pensionado,28,Regular,3086148,25488819,628
+CLT-20251210-0335,1000000334,Paula Cárdenas Vega,paula.cárdenas335@servicios.com.co,+57 300 000 0334,11/27/1966,Bogotá,5734636,Empleado,11,Bueno,1777737,25565362,660
+CLT-20251210-0336,1000000335,Angela Patricia Herrera Ospina,angela.herrera336@banco.com.co,+57 300 000 0335,12/28/1967,Bogotá,5858093,Empleado,27,Regular,2753304,25641905,565
+CLT-20251210-0337,1000000336,Luisa Díaz Cruz,luisa.díaz337@financiera.com.co,+57 300 000 0336,1/1/1968,Cali,5981550,Empleado,22,Malo,4605794,25718448,331
+CLT-20251210-0338,1000000337,Sofía Vega González,sofía.vega338@grupoempresa.com,+57 300 000 0337,2/2/1969,Medellín,6105007,Empleado,5,Bueno,1526252,25794991,732
+CLT-20251210-0339,1000000338,Valentina Ospina Rodríguez,valentina.ospina339@corp.com.co,+57 300 000 0338,3/3/1970,Bogotá,6228464,Empleado,25,Excelente,498277,25871534,780
+CLT-20251210-0340,1000000339,Daniela Cruz Martínez,daniela.cruz340@servicios.com.co,+57 300 000 0339,4/4/1971,Bogotá,6351921,Empleado,16,Malo,4446345,25948077,401
+CLT-20251210-0341,1000000340,Juan Fernando González Gómez,juan.gonzález341@banco.com.co,+57 300 000 0340,5/5/1972,Bogotá,6475378,Independiente,27,Bueno,2201629,26024620,711
+CLT-20251210-0342,1000000341,Carlos Rodríguez López,carlos.rodríguez342@financiera.com.co,+57 300 000 0341,6/6/1973,Bogotá,6598835,Empleado,18,Bueno,2045639,26101163,707
+CLT-20251210-0343,1000000342,Andrés Martínez Pérez,andrés.martínez343@grupoempresa.com,+57 300 000 0342,7/7/1974,Bogotá,6722292,Pensionado,4,Regular,2890586,26177706,612
+CLT-20251210-0344,1000000343,Diego Gómez Sánchez,diego.gómez344@corp.com.co,+57 300 000 0343,8/8/1975,Cartagena,6845749,Empleado,28,Bueno,1711437,26254249,719
+CLT-20251210-0345,1000000344,Santiago López Ramírez,santiago.lópez345@servicios.com.co,+57 300 000 0344,9/9/1976,Cali,6969206,Pensionado,25,Regular,2857374,26330792,566
+CLT-20251210-0346,1000000345,David Patricia Pérez Torres,david.pérez346@banco.com.co,+57 300 000 0345,10/10/1977,Neiva,7092663,Empleado,10,Excelente,992973,26407335,829
+CLT-20251210-0347,1000000346,Luis Sánchez Ruiz,luis.sánchez347@financiera.com.co,+57 300 000 0346,11/11/1978,Sincelejo,7216120,Empleado,24,Excelente,1371063,26483878,760
+CLT-20251210-0348,1000000347,José Ramírez Castillo,josé.ramírez348@grupoempresa.com,+57 300 000 0347,12/12/1979,Montería,7339577,Empleado,17,Bueno,2128477,26560421,722
+CLT-20251210-0349,1000000348,Javier Torres Vargas,javier.torres349@corp.com.co,+57 300 000 0348,1/13/1980,Medellín,7463034,Empleado,26,Regular,3656887,26636964,648
+CLT-20251210-0350,1000000349,Alejandro Ruiz Rojas,alejandro.ruiz350@servicios.com.co,+57 300 000 0349,2/14/1981,Bogotá,7586491,Empleado,3,Regular,3413921,26713507,553
+CLT-20251210-0351,1000000350,María Fernando Castillo Mendoza,maría.castillo351@banco.com.co,+57 300 000 0350,3/15/1982,Cali,7709948,Empleado,16,Bueno,2390084,26790050,734
+CLT-20251210-0352,1000000351,Catalina Vargas Cárdenas,catalina.vargas352@financiera.com.co,+57 300 000 0351,4/16/1983,Medellín,7833405,Empleado,17,Bueno,3055028,26866593,711
+CLT-20251210-0353,1000000352,Laura Rojas Herrera,laura.rojas353@grupoempresa.com,+57 300 000 0352,5/17/1984,Cali,7956862,Empleado,3,Regular,3819294,26943136,635
+CLT-20251210-0354,1000000353,Andrea Mendoza Díaz,andrea.mendoza354@corp.com.co,+57 300 000 0353,6/18/1985,Bogotá,8080319,Empleado,11,Bueno,2908915,27019679,713
+CLT-20251210-0355,1000000354,Paula Cárdenas Vega,paula.cárdenas355@servicios.com.co,+57 300 000 0354,7/19/1986,Bogotá,8203776,Independiente,2,Regular,3363548,27096222,634
+CLT-20251210-0356,1000000355,Angela Patricia Herrera Ospina,angela.herrera356@banco.com.co,+57 300 000 0355,8/20/1987,Bucaramanga,8327233,Pensionado,12,Regular,4080344,27172765,613
+CLT-20251210-0357,1000000356,Luisa Díaz Cruz,luisa.díaz357@financiera.com.co,+57 300 000 0356,9/21/1988,Bogotá,8450690,Independiente,10,Bueno,1690138,27249308,717
+CLT-20251210-0358,1000000357,Sofía Vega González,sofía.vega358@grupoempresa.com,+57 300 000 0357,10/22/1989,Medellín,8574147,Pensionado,16,Regular,3515400,27325851,558
+CLT-20251210-0359,1000000358,Valentina Ospina Rodríguez,valentina.ospina359@corp.com.co,+57 300 000 0358,11/23/1990,Barranquilla,8697604,Independiente,7,Regular,5044610,27402394,571
+CLT-20251210-0360,1000000359,Daniela Cruz Martínez,daniela.cruz360@servicios.com.co,+57 300 000 0359,12/24/1991,Manizales,8821061,Empleado,3,Malo,5998321,27478937,387
+CLT-20251210-0361,1000000360,Juan Fernando González Gómez,juan.gonzález361@banco.com.co,+57 300 000 0360,1/25/1992,Bogotá,8944518,Empleado,9,Bueno,2862246,27555480,711
+CLT-20251210-0362,1000000361,Carlos Rodríguez López,carlos.rodríguez362@financiera.com.co,+57 300 000 0361,2/26/1993,Medellín,9067975,Pensionado,2,Regular,5259426,27632023,640
+CLT-20251210-0363,1000000362,Andrés Martínez Pérez,andrés.martínez363@grupoempresa.com,+57 300 000 0362,3/27/1994,Cartagena,9191432,Independiente,10,Bueno,3308916,27708566,731
+CLT-20251210-0364,1000000363,Diego Gómez Sánchez,diego.gómez364@corp.com.co,+57 300 000 0363,4/28/1995,Barranquilla,9314889,Empleado,0,Regular,4750593,27785109,566
+CLT-20251210-0365,1000000364,Santiago López Ramírez,santiago.lópez365@servicios.com.co,+57 300 000 0364,5/1/1996,Cali,9438346,Empleado,10,Bueno,2076436,27861652,654
+CLT-20251210-0366,1000000365,David Patricia Pérez Torres,david.pérez366@banco.com.co,+57 300 000 0365,6/2/1997,Bogotá,9561803,Independiente,1,Malo,6310790,27938195,482
+CLT-20251210-0367,1000000366,Luis Sánchez Ruiz,luis.sánchez367@financiera.com.co,+57 300 000 0366,7/3/1998,Medellín,9685260,Independiente,1,Bueno,2518168,28014738,713
+CLT-20251210-0368,1000000367,José Ramírez Castillo,josé.ramírez368@grupoempresa.com,+57 300 000 0367,8/4/1999,Santa Marta,9808717,Empleado,8,Regular,4708184,28091281,590
+CLT-20251210-0369,1000000368,Javier Torres Vargas,javier.torres369@corp.com.co,+57 300 000 0368,9/5/2000,Bogotá,9932174,Empleado,6,Bueno,2781009,28167824,705
+CLT-20251210-0370,1000000369,Alejandro Ruiz Rojas,alejandro.ruiz370@servicios.com.co,+57 300 000 0369,10/6/1960,Bogotá,10055631,Pensionado,24,Bueno,2413351,28244367,687
+CLT-20251210-0371,1000000370,María Fernando Castillo Mendoza,maría.castillo371@banco.com.co,+57 300 000 0370,11/7/1961,Medellín,10179088,Empleado,3,Bueno,3257308,28320910,670
+CLT-20251210-0372,1000000371,Catalina Vargas Cárdenas,catalina.vargas372@financiera.com.co,+57 300 000 0371,12/8/1962,Neiva,10302545,Pensionado,18,Excelente,1751433,28397453,813
+CLT-20251210-0373,1000000372,Laura Rojas Herrera,laura.rojas373@grupoempresa.com,+57 300 000 0372,1/9/1963,Medellín,10426002,Empleado,28,Malo,6881161,28473996,403
+CLT-20251210-0374,1000000373,Andrea Mendoza Díaz,andrea.mendoza374@corp.com.co,+57 300 000 0373,2/10/1964,Bogotá,10549459,Independiente,24,Bueno,2215386,28550539,711
+CLT-20251210-0375,1000000374,Paula Cárdenas Vega,paula.cárdenas375@servicios.com.co,+57 300 000 0374,3/11/1965,Medellín,10672916,Empleado,21,Bueno,2241312,28627082,701
+CLT-20251210-0376,1000000375,Angela Patricia Herrera Ospina,angela.herrera376@banco.com.co,+57 300 000 0375,4/12/1966,Medellín,10796373,Independiente,1,Malo,6585788,28703625,305
+CLT-20251210-0377,1000000376,Luisa Díaz Cruz,luisa.díaz377@financiera.com.co,+57 300 000 0376,5/13/1967,Medellín,10919830,Empleado,14,Regular,4695527,28780168,592
+CLT-20251210-0378,1000000377,Sofía Vega González,sofía.vega378@grupoempresa.com,+57 300 000 0377,6/14/1968,Bogotá,11043287,Independiente,1,Bueno,3092120,28856711,694
+CLT-20251210-0379,1000000378,Valentina Ospina Rodríguez,valentina.ospina379@corp.com.co,+57 300 000 0378,7/15/1969,Medellín,11166744,Empleado,30,Regular,5695039,28933254,567
+CLT-20251210-0380,1000000379,Daniela Cruz Martínez,daniela.cruz380@servicios.com.co,+57 300 000 0379,8/16/1970,Manizales,11290201,Empleado,14,Malo,7677337,29009797,343
+CLT-20251210-0381,1000000380,Juan Fernando González Gómez,juan.gonzález381@banco.com.co,+57 300 000 0380,9/17/1971,Bogotá,11413658,Empleado,30,Regular,6391648,29086340,566
+CLT-20251210-0382,1000000381,Carlos Rodríguez López,carlos.rodríguez382@financiera.com.co,+57 300 000 0381,10/18/1972,Bogotá,11537115,Pensionado,23,Bueno,2538165,29162883,683
+CLT-20251210-0383,1000000382,Andrés Martínez Pérez,andrés.martínez383@grupoempresa.com,+57 300 000 0382,11/19/1973,Bogotá,11660572,Empleado,4,Bueno,2565326,29239426,704
+CLT-20251210-0384,1000000383,Diego Gómez Sánchez,diego.gómez384@corp.com.co,+57 300 000 0383,12/20/1974,Bogotá,11784029,Empleado,24,Bueno,3299528,29315969,670
+CLT-20251210-0385,1000000384,Santiago López Ramírez,santiago.lópez385@servicios.com.co,+57 300 000 0384,1/21/1975,Barranquilla,11907486,Empleado,11,Excelente,2262422,29392512,848
+CLT-20251210-0386,1000000385,David Patricia Pérez Torres,david.pérez386@banco.com.co,+57 300 000 0385,2/22/1976,Barranquilla,12030943,Empleado,23,Bueno,3128045,29469055,673
+CLT-20251210-0387,1000000386,Luis Sánchez Ruiz,luis.sánchez387@financiera.com.co,+57 300 000 0386,3/23/1977,Santa Marta,12154400,Empleado,10,Excelente,486176,29545598,820
+CLT-20251210-0388,1000000387,José Ramírez Castillo,josé.ramírez388@grupoempresa.com,+57 300 000 0387,4/24/1978,Bogotá,12277857,Independiente,2,Malo,8962836,29622141,432
+CLT-20251210-0389,1000000388,Javier Torres Vargas,javier.torres389@corp.com.co,+57 300 000 0388,5/25/1979,Bucaramanga,12401314,Empleado,15,Bueno,3844407,29698684,742
+CLT-20251210-0390,1000000389,Alejandro Ruiz Rojas,alejandro.ruiz390@servicios.com.co,+57 300 000 0389,6/26/1980,Sincelejo,12524771,Pensionado,27,Bueno,2630202,29775227,652
+CLT-20251210-0391,1000000390,María Fernando Castillo Mendoza,maría.castillo391@banco.com.co,+57 300 000 0390,7/27/1981,Bogotá,12648228,Empleado,19,Malo,9612653,29851770,317
+CLT-20251210-0392,1000000391,Catalina Vargas Cárdenas,catalina.vargas392@financiera.com.co,+57 300 000 0391,8/28/1982,Bogotá,12771685,Empleado,11,Regular,6002692,29928313,635
+CLT-20251210-0393,1000000392,Laura Rojas Herrera,laura.rojas393@grupoempresa.com,+57 300 000 0392,9/1/1983,Manizales,12895142,Empleado,8,Excelente,257903,30004856,765
+CLT-20251210-0394,1000000393,Andrea Mendoza Díaz,andrea.mendoza394@corp.com.co,+57 300 000 0393,10/2/1984,Medellín,13018599,Empleado,2,Regular,6118742,30081399,581
+CLT-20251210-0395,1000000394,Paula Cárdenas Vega,paula.cárdenas395@servicios.com.co,+57 300 000 0394,11/3/1985,Medellín,13142056,Empleado,18,Bueno,3416935,30157942,656
+CLT-20251210-0396,1000000395,Angela Patricia Herrera Ospina,angela.herrera396@banco.com.co,+57 300 000 0395,12/4/1986,Cartagena,13265513,Independiente,4,Regular,6102136,30234485,608
+CLT-20251210-0397,1000000396,Luisa Díaz Cruz,luisa.díaz397@financiera.com.co,+57 300 000 0396,1/5/1987,Santa Marta,13388970,Empleado,10,Regular,6426706,30311028,563
+CLT-20251210-0398,1000000397,Sofía Vega González,sofía.vega398@grupoempresa.com,+57 300 000 0397,2/6/1988,Barranquilla,13512427,Independiente,5,Bueno,3242982,30387571,718
+CLT-20251210-0399,1000000398,Valentina Ospina Rodríguez,valentina.ospina399@corp.com.co,+57 300 000 0398,3/7/1989,Bogotá,13635884,Empleado,7,Excelente,1772665,30464114,824
+CLT-20251210-0400,1000000399,Daniela Cruz Martínez,daniela.cruz400@servicios.com.co,+57 300 000 0399,4/8/1990,Medellín,13759341,Empleado,2,Excelente,963154,30540657,802
+CLT-20251210-0401,1000000400,Juan Fernando González Gómez,juan.gonzález401@banco.com.co,+57 300 000 0400,5/9/1991,Bogotá,13882798,Independiente,7,Regular,6524915,30617200,627
+CLT-20251210-0402,1000000401,Carlos Rodríguez López,carlos.rodríguez402@financiera.com.co,+57 300 000 0401,6/10/1992,Barranquilla,14006255,Empleado,12,Malo,9524253,30693743,322
+CLT-20251210-0403,1000000402,Andrés Martínez Pérez,andrés.martínez403@grupoempresa.com,+57 300 000 0402,7/11/1993,Manizales,14129712,Independiente,14,Malo,8760421,30770286,468
+CLT-20251210-0404,1000000403,Diego Gómez Sánchez,diego.gómez404@corp.com.co,+57 300 000 0403,8/12/1994,Bogotá,14253169,Empleado,13,Bueno,3135697,30846829,681
+CLT-20251210-0405,1000000404,Santiago López Ramírez,santiago.lópez405@servicios.com.co,+57 300 000 0404,9/13/1995,Bogotá,14376626,Empleado,9,Bueno,4169222,30923372,676
+CLT-20251210-0406,1000000405,David Patricia Pérez Torres,david.pérez406@banco.com.co,+57 300 000 0405,10/14/1996,Bogotá,14500083,Empleado,9,Regular,7250042,30999915,580
+CLT-20251210-0407,1000000406,Luis Sánchez Ruiz,luis.sánchez407@financiera.com.co,+57 300 000 0406,11/15/1997,Pereira,14623540,Empleado,5,Regular,8335418,31076458,574
+CLT-20251210-0408,1000000407,José Ramírez Castillo,josé.ramírez408@grupoempresa.com,+57 300 000 0407,12/16/1998,Bogotá,14746997,Empleado,6,Excelente,1179760,31153001,787
+CLT-20251210-0409,1000000408,Javier Torres Vargas,javier.torres409@corp.com.co,+57 300 000 0408,1/17/1999,Medellín,14870454,Pensionado,1,Regular,8178750,31229544,637
+CLT-20251210-0410,1000000409,Alejandro Ruiz Rojas,alejandro.ruiz410@servicios.com.co,+57 300 000 0409,2/18/2000,Bogotá,14993911,Empleado,2,Regular,6447382,31306087,557
+CLT-20251210-0411,1000000410,María Fernando Castillo Mendoza,maría.castillo411@banco.com.co,+57 300 000 0410,3/19/1960,Cali,15117368,Pensionado,14,Regular,8616900,31382630,642
+CLT-20251210-0412,1000000411,Catalina Vargas Cárdenas,catalina.vargas412@financiera.com.co,+57 300 000 0411,4/20/1961,Bogotá,15240825,Empleado,30,Regular,7620412,31459173,592
+CLT-20251210-0413,1000000412,Laura Rojas Herrera,laura.rojas413@grupoempresa.com,+57 300 000 0412,5/21/1962,Bogotá,15364282,Empleado,12,Excelente,2919214,31535716,822
+CLT-20251210-0414,1000000413,Andrea Mendoza Díaz,andrea.mendoza414@corp.com.co,+57 300 000 0413,6/22/1963,Medellín,15487739,Empleado,20,Regular,7588992,31612259,597
+CLT-20251210-0415,1000000414,Paula Cárdenas Vega,paula.cárdenas415@servicios.com.co,+57 300 000 0414,7/23/1964,Pereira,15611196,Independiente,8,Bueno,4995583,31688802,666
+CLT-20251210-0416,1000000415,Angela Patricia Herrera Ospina,angela.herrera416@banco.com.co,+57 300 000 0415,8/24/1965,Cali,15734653,Empleado,18,Bueno,4248356,31765345,726
+CLT-20251210-0417,1000000416,Luisa Díaz Cruz,luisa.díaz417@financiera.com.co,+57 300 000 0416,9/25/1966,Bogotá,15858110,Empleado,12,Bueno,3330203,31841888,691
+CLT-20251210-0418,1000000417,Sofía Vega González,sofía.vega418@grupoempresa.com,+57 300 000 0417,10/26/1967,Bogotá,15981567,Empleado,14,Excelente,799078,31918431,813
+CLT-20251210-0419,1000000418,Valentina Ospina Rodríguez,valentina.ospina419@corp.com.co,+57 300 000 0418,11/27/1968,Medellín,16105024,Pensionado,1,Regular,7247261,31994974,640
+CLT-20251210-0420,1000000419,Daniela Cruz Martínez,daniela.cruz420@servicios.com.co,+57 300 000 0419,12/28/1969,Bogotá,16228481,Independiente,28,Regular,6653677,32071517,558
+CLT-20251210-0421,1000000420,Juan Fernando González Gómez,juan.gonzález421@banco.com.co,+57 300 000 0420,1/1/1970,Bogotá,16351938,Empleado,29,Bueno,5723178,32148060,727
+CLT-20251210-0422,1000000421,Carlos Rodríguez López,carlos.rodríguez422@financiera.com.co,+57 300 000 0421,2/2/1971,Manizales,16475395,Empleado,5,Excelente,2965571,32224603,760
+CLT-20251210-0423,1000000422,Andrés Martínez Pérez,andrés.martínez423@grupoempresa.com,+57 300 000 0422,3/3/1972,Cali,16598852,Empleado,18,Excelente,995931,32301146,817
+CLT-20251210-0424,1000000423,Diego Gómez Sánchez,diego.gómez424@corp.com.co,+57 300 000 0423,4/4/1973,Cali,16722309,Empleado,1,Regular,8695601,32377689,558
+CLT-20251210-0425,1000000424,Santiago López Ramírez,santiago.lópez425@servicios.com.co,+57 300 000 0424,5/5/1974,Medellín,16845766,Empleado,30,Malo,13476613,32454232,488
+CLT-20251210-0426,1000000425,David Patricia Pérez Torres,david.pérez426@banco.com.co,+57 300 000 0425,6/6/1975,Cali,16969223,Empleado,3,Excelente,2036307,32530775,765
+CLT-20251210-0427,1000000426,Luis Sánchez Ruiz,luis.sánchez427@financiera.com.co,+57 300 000 0426,7/7/1976,Medellín,17092680,Empleado,21,Excelente,1196488,32607318,829
+CLT-20251210-0428,1000000427,José Ramírez Castillo,josé.ramírez428@grupoempresa.com,+57 300 000 0427,8/8/1977,Cali,17216137,Empleado,15,Regular,7058616,32683861,620
+CLT-20251210-0429,1000000428,Javier Torres Vargas,javier.torres429@corp.com.co,+57 300 000 0428,9/9/1978,Manizales,17339594,Empleado,16,Bueno,3641315,32760404,696
+CLT-20251210-0430,1000000429,Alejandro Ruiz Rojas,alejandro.ruiz430@servicios.com.co,+57 300 000 0429,10/10/1979,Bogotá,17463051,Independiente,27,Bueno,3841871,32836947,693
+CLT-20251210-0431,1000000430,María Fernando Castillo Mendoza,maría.castillo431@banco.com.co,+57 300 000 0430,11/11/1980,Bogotá,17586508,Empleado,19,Excelente,2462111,32913490,825
+CLT-20251210-0432,1000000431,Catalina Vargas Cárdenas,catalina.vargas432@financiera.com.co,+57 300 000 0431,12/12/1981,Barranquilla,17709965,Empleado,4,Excelente,531299,32990033,766
+CLT-20251210-0433,1000000432,Laura Rojas Herrera,laura.rojas433@grupoempresa.com,+57 300 000 0432,1/13/1982,Bogotá,17833422,Empleado,24,Regular,8381708,33066576,591
+CLT-20251210-0434,1000000433,Andrea Mendoza Díaz,andrea.mendoza434@corp.com.co,+57 300 000 0433,2/14/1983,Bogotá,17956879,Pensionado,23,Regular,7182752,33143119,608
+CLT-20251210-0435,1000000434,Paula Cárdenas Vega,paula.cárdenas435@servicios.com.co,+57 300 000 0434,3/15/1984,Cali,18080336,Empleado,15,Excelente,1808034,33219662,821
+CLT-20251210-0436,1000000435,Angela Patricia Herrera Ospina,angela.herrera436@banco.com.co,+57 300 000 0435,4/16/1985,Bogotá,18203793,Empleado,11,Bueno,5825214,33296205,720
+CLT-20251210-0437,1000000436,Luisa Díaz Cruz,luisa.díaz437@financiera.com.co,+57 300 000 0436,5/17/1986,Bogotá,18327250,Empleado,13,Excelente,916362,33372748,759
+CLT-20251210-0438,1000000437,Sofía Vega González,sofía.vega438@grupoempresa.com,+57 300 000 0437,6/18/1987,Cali,18450707,Empleado,17,Bueno,5166198,33449291,727
+CLT-20251210-0439,1000000438,Valentina Ospina Rodríguez,valentina.ospina439@corp.com.co,+57 300 000 0438,7/19/1988,Bogotá,18574164,Empleado,16,Excelente,3343350,33525834,812
+CLT-20251210-0440,1000000439,Daniela Cruz Martínez,daniela.cruz440@servicios.com.co,+57 300 000 0439,8/20/1989,Barranquilla,18697621,Empleado,18,Malo,14958097,33602377,410
+CLT-20251210-0441,1000000440,Juan Fernando González Gómez,juan.gonzález441@banco.com.co,+57 300 000 0440,9/21/1990,Barranquilla,18821078,Independiente,11,Regular,7904853,33678920,624
+CLT-20251210-0442,1000000441,Carlos Rodríguez López,carlos.rodríguez442@financiera.com.co,+57 300 000 0441,10/22/1991,Bogotá,18944535,Empleado,7,Bueno,3978352,33755463,735
+CLT-20251210-0443,1000000442,Andrés Martínez Pérez,andrés.martínez443@grupoempresa.com,+57 300 000 0442,11/23/1992,Cali,19067992,Empleado,10,Malo,12584875,33832006,537
+CLT-20251210-0444,1000000443,Diego Gómez Sánchez,diego.gómez444@corp.com.co,+57 300 000 0443,12/24/1993,Barranquilla,19191449,Empleado,1,Bueno,4030204,33908549,689
+CLT-20251210-0445,1000000444,Santiago López Ramírez,santiago.lópez445@servicios.com.co,+57 300 000 0444,1/25/1994,Pereira,19314906,Empleado,6,Regular,7725962,33985092,560
+CLT-20251210-0446,1000000445,David Patricia Pérez Torres,david.pérez446@banco.com.co,+57 300 000 0445,2/26/1995,Bogotá,19438363,Empleado,12,Regular,11079867,34061635,591
+CLT-20251210-0447,1000000446,Luis Sánchez Ruiz,luis.sánchez447@financiera.com.co,+57 300 000 0446,3/27/1996,Cali,19561820,Pensionado,5,Malo,12715183,34138178,523
+CLT-20251210-0448,1000000447,José Ramírez Castillo,josé.ramírez448@grupoempresa.com,+57 300 000 0447,4/28/1997,Sincelejo,19685277,Independiente,7,Bueno,7283552,34214721,733
+CLT-20251210-0449,1000000448,Javier Torres Vargas,javier.torres449@corp.com.co,+57 300 000 0448,5/1/1998,Bogotá,19808734,Empleado,3,Excelente,1584699,34291264,840
+CLT-20251210-0450,1000000449,Alejandro Ruiz Rojas,alejandro.ruiz450@servicios.com.co,+57 300 000 0449,6/2/1999,Bogotá,19932191,Independiente,3,Bueno,3986438,34367807,736
+CLT-20251210-0451,1000000450,María Fernando Castillo Mendoza,maría.castillo451@banco.com.co,+57 300 000 0450,7/3/2000,Medellín,1555647,Empleado,4,Regular,762267,34444350,615
+CLT-20251210-0452,1000000451,Catalina Vargas Cárdenas,catalina.vargas452@financiera.com.co,+57 300 000 0451,8/4/1960,Medellín,1679104,Empleado,19,Malo,1309701,34520893,469
+CLT-20251210-0453,1000000452,Laura Rojas Herrera,laura.rojas453@grupoempresa.com,+57 300 000 0452,9/5/1961,Bogotá,1802561,Empleado,3,Excelente,324461,34597436,792
+CLT-20251210-0454,1000000453,Andrea Mendoza Díaz,andrea.mendoza454@corp.com.co,+57 300 000 0453,10/6/1962,Bogotá,1926018,Empleado,25,Bueno,635586,34673979,724
+CLT-20251210-0455,1000000454,Paula Cárdenas Vega,paula.cárdenas455@servicios.com.co,+57 300 000 0454,11/7/1963,Bogotá,2049475,Empleado,2,Excelente,286926,34750522,779
+CLT-20251210-0456,1000000455,Angela Patricia Herrera Ospina,angela.herrera456@banco.com.co,+57 300 000 0455,12/8/1964,Bogotá,2172932,Empleado,3,Excelente,412857,34827065,835
+CLT-20251210-0457,1000000456,Luisa Díaz Cruz,luisa.díaz457@financiera.com.co,+57 300 000 0456,1/9/1965,Cali,2296389,Empleado,3,Regular,964483,34903608,576
+CLT-20251210-0458,1000000457,Sofía Vega González,sofía.vega458@grupoempresa.com,+57 300 000 0457,2/10/1966,Barranquilla,2419846,Empleado,11,Bueno,774351,34980151,666
+CLT-20251210-0459,1000000458,Valentina Ospina Rodríguez,valentina.ospina459@corp.com.co,+57 300 000 0458,3/11/1967,Bogotá,2543303,Pensionado,18,Bueno,508661,35056694,732
+CLT-20251210-0460,1000000459,Daniela Cruz Martínez,daniela.cruz460@servicios.com.co,+57 300 000 0459,4/12/1968,Bogotá,2666760,Empleado,6,Regular,1226710,35133237,585
+CLT-20251210-0461,1000000460,Juan Fernando González Gómez,juan.gonzález461@banco.com.co,+57 300 000 0460,5/13/1969,Barranquilla,2790217,Empleado,22,Regular,1311402,35209780,579
+CLT-20251210-0462,1000000461,Carlos Rodríguez López,carlos.rodríguez462@financiera.com.co,+57 300 000 0461,6/14/1970,Cartagena,2913674,Pensionado,21,Malo,2243529,35286323,533
+CLT-20251210-0463,1000000462,Andrés Martínez Pérez,andrés.martínez463@grupoempresa.com,+57 300 000 0462,7/15/1971,Medellín,3037131,Empleado,11,Malo,2004506,35362866,544
+CLT-20251210-0464,1000000463,Diego Gómez Sánchez,diego.gómez464@corp.com.co,+57 300 000 0463,8/16/1972,Cali,3160588,Empleado,14,Bueno,1106206,35439409,653
+CLT-20251210-0465,1000000464,Santiago López Ramírez,santiago.lópez465@servicios.com.co,+57 300 000 0464,9/17/1973,Cali,3284045,Empleado,15,Bueno,1149416,35515952,657
+CLT-20251210-0466,1000000465,David Patricia Pérez Torres,david.pérez466@banco.com.co,+57 300 000 0465,10/18/1974,Bogotá,3407502,Empleado,4,Bueno,1294851,35592495,676
+CLT-20251210-0467,1000000466,Luis Sánchez Ruiz,luis.sánchez467@financiera.com.co,+57 300 000 0466,11/19/1975,Sincelejo,3530959,Empleado,24,Bueno,1094597,35669038,675
+CLT-20251210-0468,1000000467,José Ramírez Castillo,josé.ramírez468@grupoempresa.com,+57 300 000 0467,12/20/1976,Barranquilla,3654416,Independiente,4,Regular,1936840,35745581,559
+CLT-20251210-0469,1000000468,Javier Torres Vargas,javier.torres469@corp.com.co,+57 300 000 0468,1/21/1977,Cali,3777873,Empleado,30,Malo,2455617,35822124,393
+CLT-20251210-0470,1000000469,Alejandro Ruiz Rojas,alejandro.ruiz470@servicios.com.co,+57 300 000 0469,2/22/1978,Bogotá,3901330,Empleado,2,Regular,2262771,35898667,567
+CLT-20251210-0471,1000000470,María Fernando Castillo Mendoza,maría.castillo471@banco.com.co,+57 300 000 0470,3/23/1979,Bogotá,4024787,Empleado,22,Regular,2253881,35975210,630
+CLT-20251210-0472,1000000471,Catalina Vargas Cárdenas,catalina.vargas472@financiera.com.co,+57 300 000 0471,4/24/1980,Manizales,4148244,Empleado,17,Bueno,912614,36051753,713
+CLT-20251210-0473,1000000472,Laura Rojas Herrera,laura.rojas473@grupoempresa.com,+57 300 000 0472,5/25/1981,Bogotá,4271701,Empleado,21,Excelente,256302,36128296,802
+CLT-20251210-0474,1000000473,Andrea Mendoza Díaz,andrea.mendoza474@corp.com.co,+57 300 000 0473,6/26/1982,Bogotá,4395158,Pensionado,22,Bueno,1230644,36204839,745
+CLT-20251210-0475,1000000474,Paula Cárdenas Vega,paula.cárdenas475@servicios.com.co,+57 300 000 0474,7/27/1983,Medellín,4518615,Empleado,0,Excelente,542234,36281382,765
+CLT-20251210-0476,1000000475,Angela Patricia Herrera Ospina,angela.herrera476@banco.com.co,+57 300 000 0475,8/28/1984,Medellín,4642072,Independiente,23,Bueno,1160518,36357925,662
+CLT-20251210-0477,1000000476,Luisa Díaz Cruz,luisa.díaz477@financiera.com.co,+57 300 000 0476,9/1/1985,Neiva,4765529,Empleado,16,Regular,2573386,36434468,610
+CLT-20251210-0478,1000000477,Sofía Vega González,sofía.vega478@grupoempresa.com,+57 300 000 0477,10/2/1986,Manizales,4888986,Empleado,15,Bueno,1124467,36511011,705
+CLT-20251210-0479,1000000478,Valentina Ospina Rodríguez,valentina.ospina479@corp.com.co,+57 300 000 0478,11/3/1987,Medellín,5012443,Empleado,10,Excelente,350871,36587554,850
+CLT-20251210-0480,1000000479,Daniela Cruz Martínez,daniela.cruz480@servicios.com.co,+57 300 000 0479,12/4/1988,Bogotá,5135900,Empleado,5,Regular,2978822,36664097,570
+CLT-20251210-0481,1000000480,Juan Fernando González Gómez,juan.gonzález481@banco.com.co,+57 300 000 0480,1/5/1989,Medellín,5259357,Independiente,2,Excelente,52594,36740640,784
+CLT-20251210-0482,1000000481,Carlos Rodríguez López,carlos.rodríguez482@financiera.com.co,+57 300 000 0481,2/6/1990,Medellín,5382814,Independiente,2,Excelente,53828,36817183,809
+CLT-20251210-0483,1000000482,Andrés Martínez Pérez,andrés.martínez483@grupoempresa.com,+57 300 000 0482,3/7/1991,Bogotá,5506271,Empleado,9,Excelente,660753,36893726,787
+CLT-20251210-0484,1000000483,Diego Gómez Sánchez,diego.gómez484@corp.com.co,+57 300 000 0483,4/8/1992,Medellín,5629728,Empleado,11,Regular,3096350,36970269,560
+CLT-20251210-0485,1000000484,Santiago López Ramírez,santiago.lópez485@servicios.com.co,+57 300 000 0484,5/9/1993,Sincelejo,5753185,Empleado,5,Bueno,1208169,37046812,661
+CLT-20251210-0486,1000000485,David Patricia Pérez Torres,david.pérez486@banco.com.co,+57 300 000 0485,6/10/1994,Barranquilla,5876642,Empleado,5,Excelente,528898,37123355,752
+CLT-20251210-0487,1000000486,Luis Sánchez Ruiz,luis.sánchez487@financiera.com.co,+57 300 000 0486,7/11/1995,Bogotá,6000099,Empleado,12,Malo,3960065,37199898,458
+CLT-20251210-0488,1000000487,José Ramírez Castillo,josé.ramírez488@grupoempresa.com,+57 300 000 0487,8/12/1996,Cali,6123556,Empleado,3,Bueno,2143245,37276441,713
+CLT-20251210-0489,1000000488,Javier Torres Vargas,javier.torres489@corp.com.co,+57 300 000 0488,9/13/1997,Bogotá,6247013,Pensionado,0,Bueno,1624223,37352984,741
+CLT-20251210-0490,1000000489,Alejandro Ruiz Rojas,alejandro.ruiz490@servicios.com.co,+57 300 000 0489,10/14/1998,Bogotá,6370470,Empleado,1,Malo,4841557,37429527,307
+CLT-20251210-0491,1000000490,María Fernando Castillo Mendoza,maría.castillo491@banco.com.co,+57 300 000 0490,11/15/1999,Bogotá,6493927,Independiente,0,Regular,3441781,37506070,624
+CLT-20251210-0492,1000000491,Catalina Vargas Cárdenas,catalina.vargas492@financiera.com.co,+57 300 000 0491,12/16/2000,Neiva,6617384,Empleado,4,Malo,3970430,37582613,464
+CLT-20251210-0493,1000000492,Laura Rojas Herrera,laura.rojas493@grupoempresa.com,+57 300 000 0492,1/17/1960,Bogotá,6740841,Independiente,23,Regular,3909688,37659156,634
+CLT-20251210-0494,1000000493,Andrea Mendoza Díaz,andrea.mendoza494@corp.com.co,+57 300 000 0493,2/18/1961,Bogotá,6864298,Pensionado,4,Regular,3706721,37735699,550
+CLT-20251210-0495,1000000494,Paula Cárdenas Vega,paula.cárdenas495@servicios.com.co,+57 300 000 0494,3/19/1962,Bogotá,6987755,Empleado,15,Bueno,1397551,37812242,731
+CLT-20251210-0496,1000000495,Angela Patricia Herrera Ospina,angela.herrera496@banco.com.co,+57 300 000 0495,4/20/1963,Bogotá,7111212,Pensionado,7,Regular,2986709,37888785,642
+CLT-20251210-0497,1000000496,Luisa Díaz Cruz,luisa.díaz497@financiera.com.co,+57 300 000 0496,5/21/1964,Bogotá,7234669,Empleado,17,Bueno,2242747,37965328,665
+CLT-20251210-0498,1000000497,Sofía Vega González,sofía.vega498@grupoempresa.com,+57 300 000 0497,6/22/1965,Bogotá,7358126,Pensionado,28,Bueno,2869669,38041871,686
+CLT-20251210-0499,1000000498,Valentina Ospina Rodríguez,valentina.ospina499@corp.com.co,+57 300 000 0498,7/23/1966,Bogotá,7481583,Empleado,14,Excelente,972606,38118414,844
+CLT-20251210-0500,1000000499,Daniela Cruz Martínez,daniela.cruz500@servicios.com.co,+57 300 000 0499,8/24/1967,Medellín,7605040,Empleado,2,Regular,3726470,38194957,647
+CLT-20251210-0501,1000000500,Juan Fernando González Gómez,juan.gonzález501@banco.com.co,+57 300 000 0500,9/25/1968,Bogotá,7728497,Empleado,16,Excelente,695565,38271500,825
+CLT-20251210-0502,1000000501,Carlos Rodríguez López,carlos.rodríguez502@financiera.com.co,+57 300 000 0501,10/26/1969,Cartagena,7851954,Empleado,4,Bueno,1884469,38348043,652
+CLT-20251210-0503,1000000502,Andrés Martínez Pérez,andrés.martínez503@grupoempresa.com,+57 300 000 0502,11/27/1970,Cali,7975411,Empleado,12,Regular,3748443,38424586,648
+CLT-20251210-0504,1000000503,Diego Gómez Sánchez,diego.gómez504@corp.com.co,+57 300 000 0503,12/28/1971,Bogotá,8098868,Empleado,12,Excelente,1214830,38501129,751
+CLT-20251210-0505,1000000504,Santiago López Ramírez,santiago.lópez505@servicios.com.co,+57 300 000 0504,1/1/1972,Cali,8222325,Empleado,12,Bueno,2795590,38577672,670
+CLT-20251210-0506,1000000505,David Patricia Pérez Torres,david.pérez506@banco.com.co,+57 300 000 0505,2/2/1973,Medellín,8345782,Empleado,23,Bueno,3254855,38654215,728
+CLT-20251210-0507,1000000506,Luis Sánchez Ruiz,luis.sánchez507@financiera.com.co,+57 300 000 0506,3/3/1974,Bogotá,8469239,Empleado,30,Excelente,84692,38730758,841
+CLT-20251210-0508,1000000507,José Ramírez Castillo,josé.ramírez508@grupoempresa.com,+57 300 000 0507,4/4/1975,Bogotá,8592696,Empleado,29,Bueno,3093371,38807301,710
+CLT-20251210-0509,1000000508,Javier Torres Vargas,javier.torres509@corp.com.co,+57 300 000 0508,5/5/1976,Barranquilla,8716153,Independiente,22,Bueno,1830392,38883844,676
+CLT-20251210-0510,1000000509,Alejandro Ruiz Rojas,alejandro.ruiz510@servicios.com.co,+57 300 000 0509,6/6/1977,Bogotá,8839610,Empleado,11,Bueno,3182260,38960387,709
+CLT-20251210-0511,1000000510,María Fernando Castillo Mendoza,maría.castillo511@banco.com.co,+57 300 000 0510,7/7/1978,Barranquilla,8963067,Independiente,11,Bueno,3495596,39036930,669
+CLT-20251210-0512,1000000511,Catalina Vargas Cárdenas,catalina.vargas512@financiera.com.co,+57 300 000 0511,8/8/1979,Bogotá,9086524,Empleado,16,Regular,5088453,39113473,640
+CLT-20251210-0513,1000000512,Laura Rojas Herrera,laura.rojas513@grupoempresa.com,+57 300 000 0512,9/9/1980,Bogotá,9209981,Pensionado,23,Excelente,1657797,39190016,813
+CLT-20251210-0514,1000000513,Andrea Mendoza Díaz,andrea.mendoza514@corp.com.co,+57 300 000 0513,10/10/1981,Bogotá,9333438,Empleado,2,Regular,4946722,39266559,554
+CLT-20251210-0515,1000000514,Paula Cárdenas Vega,paula.cárdenas515@servicios.com.co,+57 300 000 0514,11/11/1982,Neiva,9456895,Empleado,8,Excelente,851121,39343102,826
+CLT-20251210-0516,1000000515,Angela Patricia Herrera Ospina,angela.herrera516@banco.com.co,+57 300 000 0515,12/12/1983,Cali,9580352,Empleado,1,Excelente,1532856,39419645,812
+CLT-20251210-0517,1000000516,Luisa Díaz Cruz,luisa.díaz517@financiera.com.co,+57 300 000 0516,1/13/1984,Bogotá,9703809,Empleado,8,Excelente,388152,39496188,757
+CLT-20251210-0518,1000000517,Sofía Vega González,sofía.vega518@grupoempresa.com,+57 300 000 0517,2/14/1985,Medellín,9827266,Independiente,16,Excelente,884454,39572731,791
+CLT-20251210-0519,1000000518,Valentina Ospina Rodríguez,valentina.ospina519@corp.com.co,+57 300 000 0518,3/15/1986,Barranquilla,9950723,Pensionado,20,Bueno,2189159,39649274,737
+CLT-20251210-0520,1000000519,Daniela Cruz Martínez,daniela.cruz520@servicios.com.co,+57 300 000 0519,4/16/1987,Medellín,10074180,Empleado,6,Malo,7454893,39725817,349
+CLT-20251210-0521,1000000520,Juan Fernando González Gómez,juan.gonzález521@banco.com.co,+57 300 000 0520,5/17/1988,Cali,10197637,Independiente,0,Excelente,1631622,39802360,821
+CLT-20251210-0522,1000000521,Carlos Rodríguez López,carlos.rodríguez522@financiera.com.co,+57 300 000 0521,6/18/1989,Medellín,10321094,Empleado,2,Bueno,2580274,39878903,687
+CLT-20251210-0523,1000000522,Andrés Martínez Pérez,andrés.martínez523@grupoempresa.com,+57 300 000 0522,7/19/1990,Manizales,10444551,Independiente,11,Bueno,3133365,39955446,673
+CLT-20251210-0524,1000000523,Diego Gómez Sánchez,diego.gómez524@corp.com.co,+57 300 000 0523,8/20/1991,Medellín,10568008,Empleado,5,Bueno,3804483,40031989,689
+CLT-20251210-0525,1000000524,Santiago López Ramírez,santiago.lópez525@servicios.com.co,+57 300 000 0524,9/21/1992,Cali,10691465,Independiente,6,Bueno,3528183,40108532,747
+CLT-20251210-0526,1000000525,David Patricia Pérez Torres,david.pérez526@banco.com.co,+57 300 000 0525,10/22/1993,Cali,10814922,Empleado,13,Bueno,3244477,40185075,748
+CLT-20251210-0527,1000000526,Luis Sánchez Ruiz,luis.sánchez527@financiera.com.co,+57 300 000 0526,11/23/1994,Bogotá,10938379,Independiente,0,Bueno,4047200,40261618,658
+CLT-20251210-0528,1000000527,José Ramírez Castillo,josé.ramírez528@grupoempresa.com,+57 300 000 0527,12/24/1995,Bogotá,11061836,Empleado,2,Bueno,3871643,40338161,716
+CLT-20251210-0529,1000000528,Javier Torres Vargas,javier.torres529@corp.com.co,+57 300 000 0528,1/25/1996,Sincelejo,11185293,Independiente,2,Bueno,3691147,40414704,658
+CLT-20251210-0530,1000000529,Alejandro Ruiz Rojas,alejandro.ruiz530@servicios.com.co,+57 300 000 0529,2/26/1997,Bucaramanga,11308750,Empleado,7,Malo,8933912,40491247,434
+CLT-20251210-0531,1000000530,María Fernando Castillo Mendoza,maría.castillo531@banco.com.co,+57 300 000 0530,3/27/1998,Medellín,11432207,Empleado,9,Excelente,1714831,40567790,752
+CLT-20251210-0532,1000000531,Catalina Vargas Cárdenas,catalina.vargas532@financiera.com.co,+57 300 000 0531,4/28/1999,Cali,11555664,Independiente,4,Bueno,3120029,40644333,689
+CLT-20251210-0533,1000000532,Laura Rojas Herrera,laura.rojas533@grupoempresa.com,+57 300 000 0532,5/1/2000,Manizales,11679121,Independiente,3,Regular,5839560,40720876,578
+CLT-20251210-0534,1000000533,Andrea Mendoza Díaz,andrea.mendoza534@corp.com.co,+57 300 000 0533,6/2/1960,Bogotá,11802578,Pensionado,21,Bueno,4130902,40797419,665
+CLT-20251210-0535,1000000534,Paula Cárdenas Vega,paula.cárdenas535@servicios.com.co,+57 300 000 0534,7/3/1961,Bogotá,11926035,Independiente,15,Regular,5963018,40873962,586
+CLT-20251210-0536,1000000535,Angela Patricia Herrera Ospina,angela.herrera536@banco.com.co,+57 300 000 0535,8/4/1962,Bogotá,12049492,Empleado,27,Regular,6627221,40950505,557
+CLT-20251210-0537,1000000536,Luisa Díaz Cruz,luisa.díaz537@financiera.com.co,+57 300 000 0536,9/5/1963,Bogotá,12172949,Independiente,7,Bueno,2556319,41027048,718
+CLT-20251210-0538,1000000537,Sofía Vega González,sofía.vega538@grupoempresa.com,+57 300 000 0537,10/6/1964,Cali,12296406,Empleado,8,Bueno,2705209,41103591,714
+CLT-20251210-0539,1000000538,Valentina Ospina Rodríguez,valentina.ospina539@corp.com.co,+57 300 000 0538,11/7/1965,Bogotá,12419863,Empleado,29,Regular,5092144,41180134,594
+CLT-20251210-0540,1000000539,Daniela Cruz Martínez,daniela.cruz540@servicios.com.co,+57 300 000 0539,12/8/1966,Cartagena,12543320,Empleado,19,Regular,5644494,41256677,595
+CLT-20251210-0541,1000000540,Juan Fernando González Gómez,juan.gonzález541@banco.com.co,+57 300 000 0540,1/9/1967,Bogotá,12666777,Independiente,23,Excelente,126668,41333220,790
+CLT-20251210-0542,1000000541,Carlos Rodríguez López,carlos.rodríguez542@financiera.com.co,+57 300 000 0541,2/10/1968,Medellín,12790234,Empleado,28,Excelente,511609,41409763,770
+CLT-20251210-0543,1000000542,Andrés Martínez Pérez,andrés.martínez543@grupoempresa.com,+57 300 000 0542,3/11/1969,Bogotá,12913691,Empleado,5,Bueno,3228423,41486306,716
+CLT-20251210-0544,1000000543,Diego Gómez Sánchez,diego.gómez544@corp.com.co,+57 300 000 0543,4/12/1970,Medellín,13037148,Empleado,14,Regular,5605974,41562849,605
+CLT-20251210-0545,1000000544,Santiago López Ramírez,santiago.lópez545@servicios.com.co,+57 300 000 0544,5/13/1971,Medellín,13160605,Empleado,21,Bueno,3421757,41639392,744
+CLT-20251210-0546,1000000545,David Patricia Pérez Torres,david.pérez546@banco.com.co,+57 300 000 0545,6/14/1972,Bogotá,13284062,Empleado,26,Excelente,1195566,41715935,816
+CLT-20251210-0547,1000000546,Luis Sánchez Ruiz,luis.sánchez547@financiera.com.co,+57 300 000 0546,7/15/1973,Bogotá,13407519,Empleado,25,Bueno,2681504,41792478,652
+CLT-20251210-0548,1000000547,José Ramírez Castillo,josé.ramírez548@grupoempresa.com,+57 300 000 0547,8/16/1974,Cali,13530976,Empleado,1,Malo,10012922,41869021,372
+CLT-20251210-0549,1000000548,Javier Torres Vargas,javier.torres549@corp.com.co,+57 300 000 0548,9/17/1975,Cartagena,13654433,Empleado,8,Bueno,4779052,41945564,727
+CLT-20251210-0550,1000000549,Alejandro Ruiz Rojas,alejandro.ruiz550@servicios.com.co,+57 300 000 0549,10/18/1976,Barranquilla,13777890,Independiente,13,Bueno,3720030,42022107,705
+CLT-20251210-0551,1000000550,María Fernando Castillo Mendoza,maría.castillo551@banco.com.co,+57 300 000 0550,11/19/1977,Cali,13901347,Independiente,24,Bueno,2919283,42098650,739
+CLT-20251210-0552,1000000551,Catalina Vargas Cárdenas,catalina.vargas552@financiera.com.co,+57 300 000 0551,12/20/1978,Barranquilla,14024804,Empleado,18,Excelente,1963473,42175193,832
+CLT-20251210-0553,1000000552,Laura Rojas Herrera,laura.rojas553@grupoempresa.com,+57 300 000 0552,1/21/1979,Bogotá,14148261,Empleado,24,Excelente,1697791,42251736,786
+CLT-20251210-0554,1000000553,Andrea Mendoza Díaz,andrea.mendoza554@corp.com.co,+57 300 000 0553,2/22/1980,Cali,14271718,Empleado,8,Excelente,142717,42328279,771
+CLT-20251210-0555,1000000554,Paula Cárdenas Vega,paula.cárdenas555@servicios.com.co,+57 300 000 0554,3/23/1981,Medellín,14395175,Independiente,13,Malo,11372188,42404822,412
+CLT-20251210-0556,1000000555,Angela Patricia Herrera Ospina,angela.herrera556@banco.com.co,+57 300 000 0555,4/24/1982,Medellín,14518632,Empleado,13,Malo,9437111,42481365,392
+CLT-20251210-0557,1000000556,Luisa Díaz Cruz,luisa.díaz557@financiera.com.co,+57 300 000 0556,5/25/1983,Barranquilla,14642089,Independiente,23,Bueno,3660522,42557908,736
+CLT-20251210-0558,1000000557,Sofía Vega González,sofía.vega558@grupoempresa.com,+57 300 000 0557,6/26/1984,Sincelejo,14765546,Empleado,7,Bueno,3100765,42634451,659
+CLT-20251210-0559,1000000558,Valentina Ospina Rodríguez,valentina.ospina559@corp.com.co,+57 300 000 0558,7/27/1985,Barranquilla,14889003,Empleado,21,Regular,6104491,42710994,550
+CLT-20251210-0560,1000000559,Daniela Cruz Martínez,daniela.cruz560@servicios.com.co,+57 300 000 0559,8/28/1986,Sincelejo,15012460,Empleado,6,Regular,8707227,42787537,612
+CLT-20251210-0561,1000000560,Juan Fernando González Gómez,juan.gonzález561@banco.com.co,+57 300 000 0560,9/1/1987,Sincelejo,15135917,Empleado,16,Regular,8173395,42864080,619
+CLT-20251210-0562,1000000561,Carlos Rodríguez López,carlos.rodríguez562@financiera.com.co,+57 300 000 0561,10/2/1988,Cali,15259374,Independiente,17,Regular,8545249,42940623,620
+CLT-20251210-0563,1000000562,Andrés Martínez Pérez,andrés.martínez563@grupoempresa.com,+57 300 000 0562,11/3/1989,Bogotá,15382831,Empleado,7,Regular,8152900,43017166,640
+CLT-20251210-0564,1000000563,Diego Gómez Sánchez,diego.gómez564@corp.com.co,+57 300 000 0563,12/4/1990,Medellín,15506288,Empleado,3,Excelente,1705692,43093709,844
+CLT-20251210-0565,1000000564,Santiago López Ramírez,santiago.lópez565@servicios.com.co,+57 300 000 0564,1/5/1991,Bogotá,15629745,Empleado,4,Excelente,312595,43170252,845
+CLT-20251210-0566,1000000565,David Patricia Pérez Torres,david.pérez566@banco.com.co,+57 300 000 0565,2/6/1992,Cartagena,15753202,Independiente,10,Bueno,4253365,43246795,655
+CLT-20251210-0567,1000000566,Luis Sánchez Ruiz,luis.sánchez567@financiera.com.co,+57 300 000 0566,3/7/1993,Bogotá,15876659,Empleado,5,Bueno,4762998,43323338,675
+CLT-20251210-0568,1000000567,José Ramírez Castillo,josé.ramírez568@grupoempresa.com,+57 300 000 0567,4/8/1994,Cali,16000116,Empleado,9,Regular,9440068,43399881,597
+CLT-20251210-0569,1000000568,Javier Torres Vargas,javier.torres569@corp.com.co,+57 300 000 0568,5/9/1995,Cali,16123573,Empleado,12,Excelente,1289886,43476424,823
+CLT-20251210-0570,1000000569,Alejandro Ruiz Rojas,alejandro.ruiz570@servicios.com.co,+57 300 000 0569,6/10/1996,Bogotá,16247030,Empleado,10,Excelente,2112114,43552967,783
+CLT-20251210-0571,1000000570,María Fernando Castillo Mendoza,maría.castillo571@banco.com.co,+57 300 000 0570,7/11/1997,Bogotá,16370487,Empleado,7,Regular,9494882,43629510,641
+CLT-20251210-0572,1000000571,Catalina Vargas Cárdenas,catalina.vargas572@financiera.com.co,+57 300 000 0571,8/12/1998,Neiva,16493944,Independiente,5,Bueno,4453365,43706053,671
+CLT-20251210-0573,1000000572,Laura Rojas Herrera,laura.rojas573@grupoempresa.com,+57 300 000 0572,9/13/1999,Medellín,16617401,Empleado,1,Malo,11299833,43782596,358
+CLT-20251210-0574,1000000573,Andrea Mendoza Díaz,andrea.mendoza574@corp.com.co,+57 300 000 0573,10/14/2000,Bogotá,16740858,Empleado,3,Bueno,3850397,43859139,666
+CLT-20251210-0575,1000000574,Paula Cárdenas Vega,paula.cárdenas575@servicios.com.co,+57 300 000 0574,11/15/1960,Medellín,16864315,Empleado,28,Bueno,4553365,43935682,679
+CLT-20251210-0576,1000000575,Angela Patricia Herrera Ospina,angela.herrera576@banco.com.co,+57 300 000 0575,12/16/1961,Bogotá,16987772,Empleado,16,Regular,7134864,44012225,610
+CLT-20251210-0577,1000000576,Luisa Díaz Cruz,luisa.díaz577@financiera.com.co,+57 300 000 0576,1/17/1962,Medellín,17111229,Empleado,18,Malo,13688983,44088768,453
+CLT-20251210-0578,1000000577,Sofía Vega González,sofía.vega578@grupoempresa.com,+57 300 000 0577,2/18/1963,Cali,17234686,Independiente,1,Bueno,4653365,44165311,739
+CLT-20251210-0579,1000000578,Valentina Ospina Rodríguez,valentina.ospina579@corp.com.co,+57 300 000 0578,3/19/1964,Barranquilla,17358143,Empleado,6,Bueno,3992373,44241854,692
+CLT-20251210-0580,1000000579,Daniela Cruz Martínez,daniela.cruz580@servicios.com.co,+57 300 000 0579,4/20/1965,Bogotá,17481600,Independiente,18,Malo,11537856,44318397,487
+CLT-20251210-0581,1000000580,Juan Fernando González Gómez,juan.gonzález581@banco.com.co,+57 300 000 0580,5/21/1966,Medellín,17605057,Independiente,26,Bueno,4225214,44394940,682
+CLT-20251210-0582,1000000581,Carlos Rodríguez López,carlos.rodríguez582@financiera.com.co,+57 300 000 0581,6/22/1967,Bogotá,17728514,Empleado,1,Bueno,6027695,44471483,653
+CLT-20251210-0583,1000000582,Andrés Martínez Pérez,andrés.martínez583@grupoempresa.com,+57 300 000 0582,7/23/1968,Bogotá,17851971,Independiente,20,Malo,12853419,44548026,472
+CLT-20251210-0584,1000000583,Diego Gómez Sánchez,diego.gómez584@corp.com.co,+57 300 000 0583,8/24/1969,Manizales,17975428,Empleado,3,Regular,10066240,44624569,560
+CLT-20251210-0585,1000000584,Santiago López Ramírez,santiago.lópez585@servicios.com.co,+57 300 000 0584,9/25/1970,Medellín,18098885,Empleado,2,Excelente,1990877,44701112,794
+CLT-20251210-0586,1000000585,David Patricia Pérez Torres,david.pérez586@banco.com.co,+57 300 000 0585,10/26/1971,Bucaramanga,18222342,Pensionado,23,Bueno,5648926,44777655,738
+CLT-20251210-0587,1000000586,Luis Sánchez Ruiz,luis.sánchez587@financiera.com.co,+57 300 000 0586,11/27/1972,Cali,18345799,Empleado,29,Excelente,3485702,44854198,791
+CLT-20251210-0588,1000000587,José Ramírez Castillo,josé.ramírez588@grupoempresa.com,+57 300 000 0587,12/28/1973,Manizales,18469256,Empleado,28,Bueno,5910162,44930741,737
+CLT-20251210-0589,1000000588,Javier Torres Vargas,javier.torres589@corp.com.co,+57 300 000 0588,1/1/1974,Bucaramanga,18592713,Independiente,12,Malo,13944535,45007284,513
+CLT-20251210-0590,1000000589,Alejandro Ruiz Rojas,alejandro.ruiz590@servicios.com.co,+57 300 000 0589,2/2/1975,Bogotá,18716170,Independiente,25,Regular,9358085,45083827,624
+CLT-20251210-0591,1000000590,María Fernando Castillo Mendoza,maría.castillo591@banco.com.co,+57 300 000 0590,3/3/1976,Bogotá,18839627,Empleado,13,Bueno,4898303,45160370,655
+CLT-20251210-0592,1000000591,Catalina Vargas Cárdenas,catalina.vargas592@financiera.com.co,+57 300 000 0591,4/4/1977,Cartagena,18963084,Empleado,18,Malo,14980836,45236913,412
+CLT-20251210-0593,1000000592,Laura Rojas Herrera,laura.rojas593@grupoempresa.com,+57 300 000 0592,5/5/1978,Ibagué,19086541,Empleado,16,Bueno,7443751,45313456,711
+CLT-20251210-0594,1000000593,Andrea Mendoza Díaz,andrea.mendoza594@corp.com.co,+57 300 000 0593,6/6/1979,Cali,19209998,Independiente,1,Excelente,192100,45389999,829
+CLT-20251210-0595,1000000594,Paula Cárdenas Vega,paula.cárdenas595@servicios.com.co,+57 300 000 0594,7/7/1980,Cartagena,19333455,Empleado,27,Malo,15273429,45466542,448
+CLT-20251210-0596,1000000595,Angela Patricia Herrera Ospina,angela.herrera596@banco.com.co,+57 300 000 0595,8/8/1981,Cartagena,19456912,Empleado,24,Bueno,6226212,45543085,682
+CLT-20251210-0597,1000000596,Luisa Díaz Cruz,luisa.díaz597@financiera.com.co,+57 300 000 0596,9/9/1982,Cali,19580369,Empleado,15,Bueno,6657325,45619628,681
+CLT-20251210-0598,1000000597,Sofía Vega González,sofía.vega598@grupoempresa.com,+57 300 000 0597,10/10/1983,Bogotá,19703826,Empleado,3,Regular,8078569,45696171,560
+CLT-20251210-0599,1000000598,Valentina Ospina Rodríguez,valentina.ospina599@corp.com.co,+57 300 000 0598,11/11/1984,Bogotá,19827283,Empleado,17,Bueno,6543003,45772714,698
+CLT-20251210-0600,1000000599,Daniela Cruz Martínez,daniela.cruz600@servicios.com.co,+57 300 000 0599,12/12/1985,Cali,19950740,Empleado,10,Regular,9576355,45849257,633
+CLT-20251210-0601,1000000600,Juan Fernando González Gómez,juan.gonzález601@banco.com.co,+57 300 000 0600,1/13/1986,Bogotá,1574196,Empleado,6,Excelente,204645,45925800,832
+CLT-20251210-0602,1000000601,Carlos Rodríguez López,carlos.rodríguez602@financiera.com.co,+57 300 000 0601,2/14/1987,Medellín,1697653,Empleado,11,Malo,1103474,46002343,449
+CLT-20251210-0603,1000000602,Andrés Martínez Pérez,andrés.martínez603@grupoempresa.com,+57 300 000 0602,3/15/1988,Medellín,1821110,Independiente,2,Excelente,127478,46078886,816
+CLT-20251210-0604,1000000603,Diego Gómez Sánchez,diego.gómez604@corp.com.co,+57 300 000 0603,4/16/1989,Ibagué,1944567,Empleado,5,Bueno,466696,46155429,652
+CLT-20251210-0605,1000000604,Santiago López Ramírez,santiago.lópez605@servicios.com.co,+57 300 000 0604,5/17/1990,Bogotá,2068024,Empleado,15,Regular,909931,46231972,573
+CLT-20251210-0606,1000000605,David Patricia Pérez Torres,david.pérez606@banco.com.co,+57 300 000 0605,6/18/1991,Cali,2191481,Empleado,16,Excelente,87659,46308515,792
+CLT-20251210-0607,1000000606,Luis Sánchez Ruiz,luis.sánchez607@financiera.com.co,+57 300 000 0606,7/19/1992,Bogotá,2314938,Empleado,11,Regular,1157469,46385058,570
+CLT-20251210-0608,1000000607,José Ramírez Castillo,josé.ramírez608@grupoempresa.com,+57 300 000 0607,8/20/1993,Bogotá,2438395,Empleado,5,Bueno,926590,46461601,686
+CLT-20251210-0609,1000000608,Javier Torres Vargas,javier.torres609@corp.com.co,+57 300 000 0608,9/21/1994,Barranquilla,2561852,Empleado,12,Regular,1101596,46538144,601
+CLT-20251210-0610,1000000609,Alejandro Ruiz Rojas,alejandro.ruiz610@servicios.com.co,+57 300 000 0609,10/22/1995,Bogotá,2685309,Empleado,12,Bueno,698180,46614687,688
+CLT-20251210-0611,1000000610,María Fernando Castillo Mendoza,maría.castillo611@banco.com.co,+57 300 000 0610,11/23/1996,Barranquilla,2808766,Empleado,9,Malo,1994224,46691230,318
+CLT-20251210-0612,1000000611,Catalina Vargas Cárdenas,catalina.vargas612@financiera.com.co,+57 300 000 0611,12/24/1997,Bogotá,2932223,Empleado,5,Regular,1612723,46767773,570
+CLT-20251210-0613,1000000612,Laura Rojas Herrera,laura.rojas613@grupoempresa.com,+57 300 000 0612,1/25/1998,Medellín,3055680,Independiente,2,Regular,1252829,46844316,608
+CLT-20251210-0614,1000000613,Andrea Mendoza Díaz,andrea.mendoza614@corp.com.co,+57 300 000 0613,2/26/1999,Medellín,3179137,Pensionado,2,Bueno,1017324,46920859,709
+CLT-20251210-0615,1000000614,Paula Cárdenas Vega,paula.cárdenas615@servicios.com.co,+57 300 000 0614,3/27/2000,Bogotá,3302594,Independiente,5,Regular,1453141,46997402,576
+CLT-20251210-0616,1000000615,Angela Patricia Herrera Ospina,angela.herrera616@banco.com.co,+57 300 000 0615,4/28/1960,Medellín,3426051,Independiente,18,Malo,2603799,47073945,442
+CLT-20251210-0617,1000000616,Luisa Díaz Cruz,luisa.díaz617@financiera.com.co,+57 300 000 0616,5/1/1961,Medellín,3549508,Empleado,17,Regular,2058715,47150488,556
+CLT-20251210-0618,1000000617,Sofía Vega González,sofía.vega618@grupoempresa.com,+57 300 000 0617,6/2/1962,Manizales,3672965,Empleado,4,Bueno,1432456,47227031,699
+CLT-20251210-0619,1000000618,Valentina Ospina Rodríguez,valentina.ospina619@corp.com.co,+57 300 000 0618,7/3/1963,Cali,3796422,Empleado,1,Bueno,987070,47303574,720
+CLT-20251210-0620,1000000619,Daniela Cruz Martínez,daniela.cruz620@servicios.com.co,+57 300 000 0619,8/4/1964,Medellín,3919879,Empleado,6,Excelente,235193,47380117,790
+CLT-20251210-0621,1000000620,Juan Fernando González Gómez,juan.gonzález621@banco.com.co,+57 300 000 0620,9/5/1965,Bogotá,4043336,Independiente,13,Bueno,849101,47456660,741
+CLT-20251210-0622,1000000621,Carlos Rodríguez López,carlos.rodríguez622@financiera.com.co,+57 300 000 0621,10/6/1966,Medellín,4166793,Independiente,10,Regular,2416740,47533203,608
+CLT-20251210-0623,1000000622,Andrés Martínez Pérez,andrés.martínez623@grupoempresa.com,+57 300 000 0622,11/7/1967,Manizales,4290250,Independiente,22,Excelente,815148,47609746,836
+CLT-20251210-0624,1000000623,Diego Gómez Sánchez,diego.gómez624@corp.com.co,+57 300 000 0623,12/8/1968,Medellín,4413707,Empleado,20,Bueno,1324112,47686289,685
+CLT-20251210-0625,1000000624,Santiago López Ramírez,santiago.lópez625@servicios.com.co,+57 300 000 0624,1/9/1969,Pereira,4537164,Pensionado,13,Regular,1996352,47762832,617
+CLT-20251210-0626,1000000625,David Patricia Pérez Torres,david.pérez626@banco.com.co,+57 300 000 0625,2/10/1970,Barranquilla,4660621,Empleado,17,Regular,2283704,47839375,556
+CLT-20251210-0627,1000000626,Luis Sánchez Ruiz,luis.sánchez627@financiera.com.co,+57 300 000 0626,3/11/1971,Medellín,4784078,Independiente,16,Bueno,1722268,47915918,699
+CLT-20251210-0628,1000000627,José Ramírez Castillo,josé.ramírez628@grupoempresa.com,+57 300 000 0627,4/12/1972,Medellín,4907535,Empleado,24,Bueno,981507,47992461,723
+CLT-20251210-0629,1000000628,Javier Torres Vargas,javier.torres629@corp.com.co,+57 300 000 0628,5/13/1973,Bogotá,5030992,Empleado,11,Regular,2314256,48069004,633
+CLT-20251210-0630,1000000629,Alejandro Ruiz Rojas,alejandro.ruiz630@servicios.com.co,+57 300 000 0629,6/14/1974,Bogotá,5154449,Empleado,1,Excelente,103089,48145547,834
+CLT-20251210-0631,1000000630,María Fernando Castillo Mendoza,maría.castillo631@banco.com.co,+57 300 000 0630,7/15/1975,Bogotá,5277906,Independiente,12,Bueno,2005604,48222090,718
+CLT-20251210-0632,1000000631,Catalina Vargas Cárdenas,catalina.vargas632@financiera.com.co,+57 300 000 0631,8/16/1976,Bogotá,5401363,Independiente,23,Excelente,540136,48298633,833
+CLT-20251210-0633,1000000632,Laura Rojas Herrera,laura.rojas633@grupoempresa.com,+57 300 000 0632,9/17/1977,Bogotá,5524820,Empleado,5,Bueno,1823191,48375176,668
+CLT-20251210-0634,1000000633,Andrea Mendoza Díaz,andrea.mendoza634@corp.com.co,+57 300 000 0633,10/18/1978,Cali,5648277,Independiente,20,Bueno,1863931,48451719,725
+CLT-20251210-0635,1000000634,Paula Cárdenas Vega,paula.cárdenas635@servicios.com.co,+57 300 000 0634,11/19/1979,Bogotá,5771734,Pensionado,18,Bueno,1846955,48528262,730
+CLT-20251210-0636,1000000635,Angela Patricia Herrera Ospina,angela.herrera636@banco.com.co,+57 300 000 0635,12/20/1980,Bogotá,5895191,Empleado,4,Excelente,943231,48604805,834
+CLT-20251210-0637,1000000636,Luisa Díaz Cruz,luisa.díaz637@financiera.com.co,+57 300 000 0636,1/21/1981,Bogotá,6018648,Pensionado,24,Excelente,361119,48681348,794
+CLT-20251210-0638,1000000637,Sofía Vega González,sofía.vega638@grupoempresa.com,+57 300 000 0637,2/22/1982,Cali,6142105,Independiente,3,Regular,2948210,48757891,563
+CLT-20251210-0639,1000000638,Valentina Ospina Rodríguez,valentina.ospina639@corp.com.co,+57 300 000 0638,3/23/1983,Bogotá,6265562,Pensionado,12,Regular,2568880,48834434,610
+CLT-20251210-0640,1000000639,Daniela Cruz Martínez,daniela.cruz640@servicios.com.co,+57 300 000 0639,4/24/1984,Cartagena,6389019,Empleado,8,Excelente,1150023,48910977,815
+CLT-20251210-0641,1000000640,Juan Fernando González Gómez,juan.gonzález641@banco.com.co,+57 300 000 0640,5/25/1985,Medellín,6512476,Empleado,17,Bueno,2214242,48987520,719
+CLT-20251210-0642,1000000641,Carlos Rodríguez López,carlos.rodríguez642@financiera.com.co,+57 300 000 0641,6/26/1986,Bogotá,6635933,Pensionado,9,Bueno,2256217,49064063,714
+CLT-20251210-0643,1000000642,Andrés Martínez Pérez,andrés.martínez643@grupoempresa.com,+57 300 000 0642,7/27/1987,Cali,6759390,Empleado,3,Bueno,2433380,49140606,679
+CLT-20251210-0644,1000000643,Diego Gómez Sánchez,diego.gómez644@corp.com.co,+57 300 000 0643,8/28/1988,Montería,6882847,Empleado,17,Bueno,1445398,49217149,693
+CLT-20251210-0645,1000000644,Santiago López Ramírez,santiago.lópez645@servicios.com.co,+57 300 000 0644,9/1/1989,Bogotá,7006304,Empleado,11,Regular,2942648,49293692,626
+CLT-20251210-0646,1000000645,David Patricia Pérez Torres,david.pérez646@banco.com.co,+57 300 000 0645,10/2/1990,Ibagué,7129761,Empleado,10,Regular,3850071,49370235,601
+CLT-20251210-0647,1000000646,Luis Sánchez Ruiz,luis.sánchez647@financiera.com.co,+57 300 000 0646,11/3/1991,Barranquilla,7253218,Independiente,14,Excelente,290129,49446778,834
+CLT-20251210-0648,1000000647,José Ramírez Castillo,josé.ramírez648@grupoempresa.com,+57 300 000 0647,12/4/1992,Medellín,7376675,Empleado,4,Bueno,1844169,49523321,740
+CLT-20251210-0649,1000000648,Javier Torres Vargas,javier.torres649@corp.com.co,+57 300 000 0648,1/5/1993,Bogotá,7500132,Independiente,7,Excelente,975017,49599864,828
+CLT-20251210-0650,1000000649,Alejandro Ruiz Rojas,alejandro.ruiz650@servicios.com.co,+57 300 000 0649,2/6/1994,Bogotá,7623589,Pensionado,1,Excelente,457415,49676407,773
+CLT-20251210-0651,1000000650,María Fernando Castillo Mendoza,maría.castillo651@banco.com.co,+57 300 000 0650,3/7/1995,Bogotá,7747046,Empleado,6,Bueno,2556525,49752950,672
+CLT-20251210-0652,1000000651,Catalina Vargas Cárdenas,catalina.vargas652@financiera.com.co,+57 300 000 0651,4/8/1996,Bogotá,7870503,Empleado,5,Excelente,1495396,49829493,766
+CLT-20251210-0653,1000000652,Laura Rojas Herrera,laura.rojas653@grupoempresa.com,+57 300 000 0652,5/9/1997,Medellín,7993960,Empleado,10,Bueno,2638007,49906036,733
+CLT-20251210-0654,1000000653,Andrea Mendoza Díaz,andrea.mendoza654@corp.com.co,+57 300 000 0653,6/10/1998,Bogotá,8117417,Empleado,0,Excelente,730568,49982579,815
+CLT-20251210-0655,1000000654,Paula Cárdenas Vega,paula.cárdenas655@servicios.com.co,+57 300 000 0654,7/11/1999,Medellín,8240874,Empleado,8,Bueno,2966715,59121,654
+CLT-20251210-0656,1000000655,Angela Patricia Herrera Ospina,angela.herrera656@banco.com.co,+57 300 000 0655,8/12/2000,Ibagué,8364331,Empleado,5,Bueno,2091083,135664,720
+CLT-20251210-0657,1000000656,Luisa Díaz Cruz,luisa.díaz657@financiera.com.co,+57 300 000 0656,9/13/1960,Bogotá,8487788,Pensionado,11,Malo,5347306,212207,372
+CLT-20251210-0658,1000000657,Sofía Vega González,sofía.vega658@grupoempresa.com,+57 300 000 0657,10/14/1961,Santa Marta,8611245,Independiente,8,Regular,4563960,288750,602
+CLT-20251210-0659,1000000658,Valentina Ospina Rodríguez,valentina.ospina659@corp.com.co,+57 300 000 0658,11/15/1962,Cali,8734702,Independiente,4,Bueno,3144493,365293,663
+CLT-20251210-0660,1000000659,Daniela Cruz Martínez,daniela.cruz660@servicios.com.co,+57 300 000 0659,12/16/1963,Cali,8858159,Empleado,27,Regular,5049151,441836,583
+CLT-20251210-0661,1000000660,Juan Fernando González Gómez,juan.gonzález661@banco.com.co,+57 300 000 0660,1/17/1964,Bogotá,8981616,Empleado,21,Excelente,359265,518379,818
+CLT-20251210-0662,1000000661,Carlos Rodríguez López,carlos.rodríguez662@financiera.com.co,+57 300 000 0661,2/18/1965,Barranquilla,9105073,Independiente,3,Regular,4643587,594922,567
+CLT-20251210-0663,1000000662,Andrés Martínez Pérez,andrés.martínez663@grupoempresa.com,+57 300 000 0662,3/19/1966,Cali,9228530,Empleado,13,Malo,6921398,671465,360
+CLT-20251210-0664,1000000663,Diego Gómez Sánchez,diego.gómez664@corp.com.co,+57 300 000 0663,4/20/1967,Cali,9351987,Empleado,16,Bueno,3553755,748008,700
+CLT-20251210-0665,1000000664,Santiago López Ramírez,santiago.lópez665@servicios.com.co,+57 300 000 0664,5/21/1968,Medellín,9475444,Empleado,12,Regular,4927231,824551,588
+CLT-20251210-0666,1000000665,David Patricia Pérez Torres,david.pérez666@banco.com.co,+57 300 000 0665,6/22/1969,Medellín,9598901,Empleado,4,Regular,4223516,901094,561
+CLT-20251210-0667,1000000666,Luis Sánchez Ruiz,luis.sánchez667@financiera.com.co,+57 300 000 0666,7/23/1970,Barranquilla,9722358,Pensionado,20,Bueno,3305602,977637,677
+CLT-20251210-0668,1000000667,José Ramírez Castillo,josé.ramírez668@grupoempresa.com,+57 300 000 0667,8/24/1971,Bogotá,9845815,Empleado,9,Bueno,3642952,1054180,722
+CLT-20251210-0669,1000000668,Javier Torres Vargas,javier.torres669@corp.com.co,+57 300 000 0668,9/25/1972,Bogotá,9969272,Empleado,6,Regular,4386480,1130723,631
+CLT-20251210-0670,1000000669,Alejandro Ruiz Rojas,alejandro.ruiz670@servicios.com.co,+57 300 000 0669,10/26/1973,Cartagena,10092729,Empleado,26,Regular,4339873,1207266,576
+CLT-20251210-0671,1000000670,María Fernando Castillo Mendoza,maría.castillo671@banco.com.co,+57 300 000 0670,11/27/1974,Cali,10216186,Empleado,13,Regular,5005931,1283809,604
+CLT-20251210-0672,1000000671,Catalina Vargas Cárdenas,catalina.vargas672@financiera.com.co,+57 300 000 0671,12/28/1975,Bogotá,10339643,Independiente,29,Malo,8168318,1360352,527
+CLT-20251210-0673,1000000672,Laura Rojas Herrera,laura.rojas673@grupoempresa.com,+57 300 000 0672,1/1/1976,Bucaramanga,10463100,Independiente,24,Excelente,1569465,1436895,810
+CLT-20251210-0674,1000000673,Andrea Mendoza Díaz,andrea.mendoza674@corp.com.co,+57 300 000 0673,2/2/1977,Medellín,10586557,Independiente,17,Excelente,1905580,1513438,821
+CLT-20251210-0675,1000000674,Paula Cárdenas Vega,paula.cárdenas675@servicios.com.co,+57 300 000 0674,3/3/1978,Bogotá,10710014,Independiente,9,Malo,7925410,1589981,405
+CLT-20251210-0676,1000000675,Angela Patricia Herrera Ospina,angela.herrera676@banco.com.co,+57 300 000 0675,4/4/1979,Bogotá,10833471,Empleado,21,Regular,5850074,1666524,557
+CLT-20251210-0677,1000000676,Luisa Díaz Cruz,luisa.díaz677@financiera.com.co,+57 300 000 0676,5/5/1980,Medellín,10956928,Empleado,11,Bueno,2300955,1743067,695
+CLT-20251210-0678,1000000677,Sofía Vega González,sofía.vega678@grupoempresa.com,+57 300 000 0677,6/6/1981,Montería,11080385,Empleado,2,Bueno,3213312,1819610,720
+CLT-20251210-0679,1000000678,Valentina Ospina Rodríguez,valentina.ospina679@corp.com.co,+57 300 000 0678,7/7/1982,Medellín,11203842,Pensionado,25,Bueno,2912999,1896153,704
+CLT-20251210-0680,1000000679,Daniela Cruz Martínez,daniela.cruz680@servicios.com.co,+57 300 000 0679,8/8/1983,Bogotá,11327299,Empleado,3,Bueno,2718552,1972696,691
+CLT-20251210-0681,1000000680,Juan Fernando González Gómez,juan.gonzález681@banco.com.co,+57 300 000 0680,9/9/1984,Cartagena,11450756,Empleado,10,Regular,6068901,2049239,566
+CLT-20251210-0682,1000000681,Carlos Rodríguez López,carlos.rodríguez682@financiera.com.co,+57 300 000 0681,10/10/1985,Montería,11574213,Empleado,7,Bueno,2546327,2125782,680
+CLT-20251210-0683,1000000682,Andrés Martínez Pérez,andrés.martínez683@grupoempresa.com,+57 300 000 0682,11/11/1986,Medellín,11697670,Independiente,20,Bueno,2807441,2202325,671
+CLT-20251210-0684,1000000683,Diego Gómez Sánchez,diego.gómez684@corp.com.co,+57 300 000 0683,12/12/1987,Cali,11821127,Empleado,15,Bueno,2364225,2278868,742
+CLT-20251210-0685,1000000684,Santiago López Ramírez,santiago.lópez685@servicios.com.co,+57 300 000 0684,1/13/1988,Ibagué,11944584,Empleado,17,Bueno,4061159,2355411,669
+CLT-20251210-0686,1000000685,David Patricia Pérez Torres,david.pérez686@banco.com.co,+57 300 000 0685,2/14/1989,Neiva,12068041,Pensionado,18,Regular,5671979,2431954,621
+CLT-20251210-0687,1000000686,Luis Sánchez Ruiz,luis.sánchez687@financiera.com.co,+57 300 000 0686,3/15/1990,Medellín,12191498,Independiente,1,Regular,4876599,2508497,564
+CLT-20251210-0688,1000000687,José Ramírez Castillo,josé.ramírez688@grupoempresa.com,+57 300 000 0687,4/16/1991,Cali,12314955,Empleado,5,Regular,6773225,2585040,608
+CLT-20251210-0689,1000000688,Javier Torres Vargas,javier.torres689@corp.com.co,+57 300 000 0688,5/17/1992,Cali,12438412,Empleado,3,Regular,6841127,2661583,596
+CLT-20251210-0690,1000000689,Alejandro Ruiz Rojas,alejandro.ruiz690@servicios.com.co,+57 300 000 0689,6/18/1993,Bogotá,12561869,Independiente,3,Excelente,1758662,2738126,767
+CLT-20251210-0691,1000000690,María Fernando Castillo Mendoza,maría.castillo691@banco.com.co,+57 300 000 0690,7/19/1994,Bogotá,12685326,Independiente,6,Regular,7357489,2814669,599
+CLT-20251210-0692,1000000691,Catalina Vargas Cárdenas,catalina.vargas692@financiera.com.co,+57 300 000 0691,8/20/1995,Bogotá,12808783,Empleado,8,Bueno,2817932,2891212,719
+CLT-20251210-0693,1000000692,Laura Rojas Herrera,laura.rojas693@grupoempresa.com,+57 300 000 0692,9/21/1996,Medellín,12932240,Independiente,2,Regular,6724765,2967755,583
+CLT-20251210-0694,1000000693,Andrea Mendoza Díaz,andrea.mendoza694@corp.com.co,+57 300 000 0693,10/22/1997,Cali,13055697,Pensionado,2,Excelente,2088912,3044298,809
+CLT-20251210-0695,1000000694,Paula Cárdenas Vega,paula.cárdenas695@servicios.com.co,+57 300 000 0694,11/23/1998,Barranquilla,13179154,Independiente,5,Regular,7775701,3120841,611
+CLT-20251210-0696,1000000695,Angela Patricia Herrera Ospina,angela.herrera696@banco.com.co,+57 300 000 0695,12/24/1999,Medellín,13302611,Empleado,6,Regular,6518279,3197384,565
+CLT-20251210-0697,1000000696,Luisa Díaz Cruz,luisa.díaz697@financiera.com.co,+57 300 000 0696,1/25/2000,Medellín,13426068,Empleado,1,Malo,10472333,3273927,447
+CLT-20251210-0698,1000000697,Sofía Vega González,sofía.vega698@grupoempresa.com,+57 300 000 0697,2/26/1960,Barranquilla,13549525,Independiente,3,Excelente,1219457,3350470,791
+CLT-20251210-0699,1000000698,Valentina Ospina Rodríguez,valentina.ospina699@corp.com.co,+57 300 000 0698,3/27/1961,Bucaramanga,13672982,Empleado,17,Regular,5879382,3427013,561
+CLT-20251210-0700,1000000699,Daniela Cruz Martínez,daniela.cruz700@servicios.com.co,+57 300 000 0699,4/28/1962,Bogotá,13796439,Pensionado,3,Excelente,551858,3503556,782
+CLT-20251210-0701,1000000700,Juan Fernando González Gómez,juan.gonzález701@banco.com.co,+57 300 000 0700,5/1/1963,Bogotá,13919896,Empleado,6,Bueno,2923178,3580099,710
+CLT-20251210-0702,1000000701,Carlos Rodríguez López,carlos.rodríguez702@financiera.com.co,+57 300 000 0701,6/2/1964,Bogotá,14043353,Independiente,24,Excelente,2668237,3656642,787
+CLT-20251210-0703,1000000702,Andrés Martínez Pérez,andrés.martínez703@grupoempresa.com,+57 300 000 0702,7/3/1965,Medellín,14166810,Independiente,24,Bueno,4391711,3733185,696
+CLT-20251210-0704,1000000703,Diego Gómez Sánchez,diego.gómez704@corp.com.co,+57 300 000 0703,8/4/1966,Bogotá,14290267,Independiente,23,Excelente,1429027,3809728,792
+CLT-20251210-0705,1000000704,Santiago López Ramírez,santiago.lópez705@servicios.com.co,+57 300 000 0704,9/5/1967,Cartagena,14413724,Independiente,29,Regular,8359960,3886271,596
+CLT-20251210-0706,1000000705,David Patricia Pérez Torres,david.pérez706@banco.com.co,+57 300 000 0705,10/6/1968,Medellín,14537181,Empleado,19,Regular,6687103,3962814,629
+CLT-20251210-0707,1000000706,Luis Sánchez Ruiz,luis.sánchez707@financiera.com.co,+57 300 000 0706,11/7/1969,Barranquilla,14660638,Independiente,17,Regular,7623532,4039357,591
+CLT-20251210-0708,1000000707,José Ramírez Castillo,josé.ramírez708@grupoempresa.com,+57 300 000 0707,12/8/1970,Bogotá,14784095,Independiente,30,Bueno,3104660,4115900,694
+CLT-20251210-0709,1000000708,Javier Torres Vargas,javier.torres709@corp.com.co,+57 300 000 0708,1/9/1971,Medellín,14907552,Independiente,21,Regular,8646380,4192443,612
+CLT-20251210-0710,1000000709,Alejandro Ruiz Rojas,alejandro.ruiz710@servicios.com.co,+57 300 000 0709,2/10/1972,Santa Marta,15031009,Empleado,2,Bueno,4208683,4268986,678
+CLT-20251210-0711,1000000710,María Fernando Castillo Mendoza,maría.castillo711@banco.com.co,+57 300 000 0710,3/11/1973,Cali,15154466,Independiente,15,Excelente,1060813,4345529,832
+CLT-20251210-0712,1000000711,Catalina Vargas Cárdenas,catalina.vargas712@financiera.com.co,+57 300 000 0711,4/12/1974,Bogotá,15277923,Independiente,18,Excelente,611117,4422072,785
+CLT-20251210-0713,1000000712,Laura Rojas Herrera,laura.rojas713@grupoempresa.com,+57 300 000 0712,5/13/1975,Medellín,15401380,Empleado,12,Excelente,462041,4498615,775
+CLT-20251210-0714,1000000713,Andrea Mendoza Díaz,andrea.mendoza714@corp.com.co,+57 300 000 0713,6/14/1976,Cali,15524837,Empleado,26,Bueno,4657451,4575158,699
+CLT-20251210-0715,1000000714,Paula Cárdenas Vega,paula.cárdenas715@servicios.com.co,+57 300 000 0714,7/15/1977,Medellín,15648294,Empleado,14,Bueno,6102835,4651701,738
+CLT-20251210-0716,1000000715,Angela Patricia Herrera Ospina,angela.herrera716@banco.com.co,+57 300 000 0715,8/16/1978,Medellín,15771751,Empleado,10,Bueno,3627503,4728244,663
+CLT-20251210-0717,1000000716,Luisa Díaz Cruz,luisa.díaz717@financiera.com.co,+57 300 000 0716,9/17/1979,Medellín,15895208,Independiente,0,Bueno,4927514,4804787,655
+CLT-20251210-0718,1000000717,Sofía Vega González,sofía.vega718@grupoempresa.com,+57 300 000 0717,10/18/1980,Bogotá,16018665,Empleado,7,Regular,8329706,4881330,646
+CLT-20251210-0719,1000000718,Valentina Ospina Rodríguez,valentina.ospina719@corp.com.co,+57 300 000 0718,11/19/1981,Bogotá,16142122,Empleado,2,Regular,9039588,4957873,587
+CLT-20251210-0720,1000000719,Daniela Cruz Martínez,daniela.cruz720@servicios.com.co,+57 300 000 0719,12/20/1982,Bogotá,16265579,Empleado,8,Bueno,3578427,5034416,655
+CLT-20251210-0721,1000000720,Juan Fernando González Gómez,juan.gonzález721@banco.com.co,+57 300 000 0720,1/21/1983,Cali,16389036,Independiente,20,Bueno,3441698,5110959,731
+CLT-20251210-0722,1000000721,Carlos Rodríguez López,carlos.rodríguez722@financiera.com.co,+57 300 000 0721,2/22/1984,Cali,16512493,Empleado,5,Regular,8751621,5187502,583
+CLT-20251210-0723,1000000722,Andrés Martínez Pérez,andrés.martínez723@grupoempresa.com,+57 300 000 0722,3/23/1985,Bogotá,16635950,Empleado,22,Bueno,4491706,5264045,733
+CLT-20251210-0724,1000000723,Diego Gómez Sánchez,diego.gómez724@corp.com.co,+57 300 000 0723,4/24/1986,Medellín,16759407,Empleado,4,Excelente,2178723,5340588,767
+CLT-20251210-0725,1000000724,Santiago López Ramírez,santiago.lópez725@servicios.com.co,+57 300 000 0724,5/25/1987,Cali,16882864,Empleado,18,Regular,8441432,5417131,550
+CLT-20251210-0726,1000000725,David Patricia Pérez Torres,david.pérez726@banco.com.co,+57 300 000 0725,6/26/1988,Cali,17006321,Empleado,6,Bueno,4421643,5493674,661
+CLT-20251210-0727,1000000726,Luis Sánchez Ruiz,luis.sánchez727@financiera.com.co,+57 300 000 0726,7/27/1989,Barranquilla,17129778,Empleado,5,Regular,7537102,5570217,623
+CLT-20251210-0728,1000000727,José Ramírez Castillo,josé.ramírez728@grupoempresa.com,+57 300 000 0727,8/28/1990,Bogotá,17253235,Pensionado,11,Bueno,3968244,5646760,729
+CLT-20251210-0729,1000000728,Javier Torres Vargas,javier.torres729@corp.com.co,+57 300 000 0728,9/1/1991,Barranquilla,17376692,Pensionado,4,Regular,9730948,5723303,601
+CLT-20251210-0730,1000000729,Alejandro Ruiz Rojas,alejandro.ruiz730@servicios.com.co,+57 300 000 0729,10/2/1992,Montería,17500149,Empleado,0,Bueno,5600048,5799846,668
+CLT-20251210-0731,1000000730,María Fernando Castillo Mendoza,maría.castillo731@banco.com.co,+57 300 000 0730,11/3/1993,Bogotá,17623606,Empleado,12,Malo,13393941,5876389,315
+CLT-20251210-0732,1000000731,Catalina Vargas Cárdenas,catalina.vargas732@financiera.com.co,+57 300 000 0731,12/4/1994,Bogotá,17747063,Empleado,6,Bueno,5679060,5952932,680
+CLT-20251210-0733,1000000732,Laura Rojas Herrera,laura.rojas733@grupoempresa.com,+57 300 000 0732,1/5/1995,Medellín,17870520,Independiente,11,Regular,8577850,6029475,642
+CLT-20251210-0734,1000000733,Andrea Mendoza Díaz,andrea.mendoza734@corp.com.co,+57 300 000 0733,2/6/1996,Cali,17993977,Empleado,0,Regular,9896687,6106018,591
+CLT-20251210-0735,1000000734,Paula Cárdenas Vega,paula.cárdenas735@servicios.com.co,+57 300 000 0734,3/7/1997,Barranquilla,18117434,Empleado,8,Excelente,1811743,6182561,782
+CLT-20251210-0736,1000000735,Angela Patricia Herrera Ospina,angela.herrera736@banco.com.co,+57 300 000 0735,4/8/1998,Sincelejo,18240891,Empleado,8,Regular,8208401,6259104,604
+CLT-20251210-0737,1000000736,Luisa Díaz Cruz,luisa.díaz737@financiera.com.co,+57 300 000 0736,5/9/1999,Medellín,18364348,Empleado,1,Malo,11018609,6335647,523
+CLT-20251210-0738,1000000737,Sofía Vega González,sofía.vega738@grupoempresa.com,+57 300 000 0737,6/10/2000,Bogotá,18487805,Independiente,4,Excelente,1663902,6412190,806
+CLT-20251210-0739,1000000738,Valentina Ospina Rodríguez,valentina.ospina739@corp.com.co,+57 300 000 0738,7/11/1960,Barranquilla,18611262,Empleado,23,Excelente,558338,6488733,781
+CLT-20251210-0740,1000000739,Daniela Cruz Martínez,daniela.cruz740@servicios.com.co,+57 300 000 0739,8/12/1961,Bogotá,18734719,Empleado,17,Bueno,5620416,6565276,749
+CLT-20251210-0741,1000000740,Juan Fernando González Gómez,juan.gonzález741@banco.com.co,+57 300 000 0740,9/13/1962,Ibagué,18858176,Independiente,0,Regular,7543270,6641819,642
+CLT-20251210-0742,1000000741,Carlos Rodríguez López,carlos.rodríguez742@financiera.com.co,+57 300 000 0741,10/14/1963,Montería,18981633,Independiente,24,Regular,9870449,6718362,627
+CLT-20251210-0743,1000000742,Andrés Martínez Pérez,andrés.martínez743@grupoempresa.com,+57 300 000 0742,11/15/1964,Bogotá,19105090,Independiente,13,Regular,8406240,6794905,572
+CLT-20251210-0744,1000000743,Diego Gómez Sánchez,diego.gómez744@corp.com.co,+57 300 000 0743,12/16/1965,Cali,19228547,Empleado,29,Malo,14229125,6871448,363
+CLT-20251210-0745,1000000744,Santiago López Ramírez,santiago.lópez745@servicios.com.co,+57 300 000 0744,1/17/1966,Bogotá,19352004,Pensionado,11,Bueno,4450961,6947991,667
+CLT-20251210-0746,1000000745,David Patricia Pérez Torres,david.pérez746@banco.com.co,+57 300 000 0745,2/18/1967,Bogotá,19475461,Empleado,27,Excelente,1558037,7024534,813
+CLT-20251210-0747,1000000746,Luis Sánchez Ruiz,luis.sánchez747@financiera.com.co,+57 300 000 0746,3/19/1968,Bogotá,19598918,Independiente,25,Malo,13131275,7101077,414
+CLT-20251210-0748,1000000747,José Ramírez Castillo,josé.ramírez748@grupoempresa.com,+57 300 000 0747,4/20/1969,Pereira,19722375,Empleado,28,Regular,9663964,7177620,630
+CLT-20251210-0749,1000000748,Javier Torres Vargas,javier.torres749@corp.com.co,+57 300 000 0748,5/21/1970,Barranquilla,19845832,Independiente,28,Excelente,2381500,7254163,780
+CLT-20251210-0750,1000000749,Alejandro Ruiz Rojas,alejandro.ruiz750@servicios.com.co,+57 300 000 0749,6/22/1971,Bogotá,19969289,Empleado,24,Bueno,4193551,7330706,704
+CLT-20251210-0751,1000000750,María Fernando Castillo Mendoza,maría.castillo751@banco.com.co,+57 300 000 0750,7/23/1972,Bogotá,1592745,Empleado,27,Regular,828227,7407249,582
+CLT-20251210-0752,1000000751,Catalina Vargas Cárdenas,catalina.vargas752@financiera.com.co,+57 300 000 0751,8/24/1973,Bogotá,1716202,Independiente,1,Regular,961073,7483792,590
+CLT-20251210-0753,1000000752,Laura Rojas Herrera,laura.rojas753@grupoempresa.com,+57 300 000 0752,9/25/1974,Sincelejo,1839659,Pensionado,27,Bueno,570294,7560335,737
+CLT-20251210-0754,1000000753,Andrea Mendoza Díaz,andrea.mendoza754@corp.com.co,+57 300 000 0753,10/26/1975,Barranquilla,1963116,Independiente,30,Regular,922665,7636878,576
+CLT-20251210-0755,1000000754,Paula Cárdenas Vega,paula.cárdenas755@servicios.com.co,+57 300 000 0754,11/27/1976,Cartagena,2086573,Empleado,11,Regular,980689,7713421,590
+CLT-20251210-0756,1000000755,Angela Patricia Herrera Ospina,angela.herrera756@banco.com.co,+57 300 000 0755,12/28/1977,Cali,2210030,Independiente,11,Regular,1237617,7789964,610
+CLT-20251210-0757,1000000756,Luisa Díaz Cruz,luisa.díaz757@financiera.com.co,+57 300 000 0756,1/1/1978,Bogotá,2333487,Pensionado,6,Bueno,700046,7866507,737
+CLT-20251210-0758,1000000757,Sofía Vega González,sofía.vega758@grupoempresa.com,+57 300 000 0757,2/2/1979,Bogotá,2456944,Independiente,27,Regular,1007347,7943050,555
+CLT-20251210-0759,1000000758,Valentina Ospina Rodríguez,valentina.ospina759@corp.com.co,+57 300 000 0758,3/3/1980,Medellín,2580401,Empleado,18,Bueno,645100,8019593,737
+CLT-20251210-0760,1000000759,Daniela Cruz Martínez,daniela.cruz760@servicios.com.co,+57 300 000 0759,4/4/1981,Cali,2703858,Independiente,6,Regular,1081543,8096136,595
+CLT-20251210-0761,1000000760,Juan Fernando González Gómez,juan.gonzález761@banco.com.co,+57 300 000 0760,5/5/1982,Bogotá,2827315,Empleado,17,Regular,1526750,8172679,647
+CLT-20251210-0762,1000000761,Carlos Rodríguez López,carlos.rodríguez762@financiera.com.co,+57 300 000 0761,6/6/1983,Cartagena,2950772,Empleado,17,Bueno,855724,8249222,673
+CLT-20251210-0763,1000000762,Andrés Martínez Pérez,andrés.martínez763@grupoempresa.com,+57 300 000 0762,7/7/1984,Bogotá,3074229,Independiente,2,Regular,1783053,8325765,629
+CLT-20251210-0764,1000000763,Diego Gómez Sánchez,diego.gómez764@corp.com.co,+57 300 000 0763,8/8/1985,Medellín,3197686,Empleado,13,Malo,2302334,8402308,437
+CLT-20251210-0765,1000000764,Santiago López Ramírez,santiago.lópez765@servicios.com.co,+57 300 000 0764,9/9/1986,Bogotá,3321143,Empleado,7,Bueno,963131,8478851,661
+CLT-20251210-0766,1000000765,David Patricia Pérez Torres,david.pérez766@banco.com.co,+57 300 000 0765,10/10/1987,Santa Marta,3444600,Empleado,7,Bueno,1274502,8555394,650
+CLT-20251210-0767,1000000766,Luis Sánchez Ruiz,luis.sánchez767@financiera.com.co,+57 300 000 0766,11/11/1988,Bogotá,3568057,Independiente,3,Bueno,1355862,8631937,688
+CLT-20251210-0768,1000000767,José Ramírez Castillo,josé.ramírez768@grupoempresa.com,+57 300 000 0767,12/12/1989,Bogotá,3691514,Empleado,8,Bueno,1328945,8708480,692
+CLT-20251210-0769,1000000768,Javier Torres Vargas,javier.torres769@corp.com.co,+57 300 000 0768,1/13/1990,Cali,3814971,Empleado,5,Regular,1640438,8785023,561
+CLT-20251210-0770,1000000769,Alejandro Ruiz Rojas,alejandro.ruiz770@servicios.com.co,+57 300 000 0769,2/14/1991,Cali,3938428,Empleado,10,Bueno,945223,8861566,709
+CLT-20251210-0771,1000000770,María Fernando Castillo Mendoza,maría.castillo771@banco.com.co,+57 300 000 0770,3/15/1992,Medellín,4061885,Empleado,12,Regular,2234037,8938109,631
+CLT-20251210-0772,1000000771,Catalina Vargas Cárdenas,catalina.vargas772@financiera.com.co,+57 300 000 0771,4/16/1993,Medellín,4185342,Empleado,10,Bueno,1464870,9014652,666
+CLT-20251210-0773,1000000772,Laura Rojas Herrera,laura.rojas773@grupoempresa.com,+57 300 000 0772,5/17/1994,Bogotá,4308799,Empleado,7,Excelente,387792,9091195,772
+CLT-20251210-0774,1000000773,Andrea Mendoza Díaz,andrea.mendoza774@corp.com.co,+57 300 000 0773,6/18/1995,Bogotá,4432256,Empleado,3,Excelente,620516,9167738,792
+CLT-20251210-0775,1000000774,Paula Cárdenas Vega,paula.cárdenas775@servicios.com.co,+57 300 000 0774,7/19/1996,Barranquilla,4555713,Pensionado,6,Excelente,273343,9244281,784
+CLT-20251210-0776,1000000775,Angela Patricia Herrera Ospina,angela.herrera776@banco.com.co,+57 300 000 0775,8/20/1997,Cartagena,4679170,Empleado,10,Bueno,1684501,9320824,701
+CLT-20251210-0777,1000000776,Luisa Díaz Cruz,luisa.díaz777@financiera.com.co,+57 300 000 0776,9/21/1998,Bogotá,4802627,Empleado,5,Regular,2737497,9397367,607
+CLT-20251210-0778,1000000777,Sofía Vega González,sofía.vega778@grupoempresa.com,+57 300 000 0777,10/22/1999,Medellín,4926084,Independiente,5,Regular,2216738,9473910,619
+CLT-20251210-0779,1000000778,Valentina Ospina Rodríguez,valentina.ospina779@corp.com.co,+57 300 000 0778,11/23/2000,Bogotá,5049541,Empleado,5,Regular,2221798,9550453,618
+CLT-20251210-0780,1000000779,Daniela Cruz Martínez,daniela.cruz780@servicios.com.co,+57 300 000 0779,12/24/1960,Sincelejo,5172998,Empleado,27,Regular,2896879,9626996,586
+CLT-20251210-0781,1000000780,Juan Fernando González Gómez,juan.gonzález781@banco.com.co,+57 300 000 0780,1/25/1961,Bogotá,5296455,Empleado,10,Bueno,2012653,9703539,682
+CLT-20251210-0782,1000000781,Carlos Rodríguez López,carlos.rodríguez782@financiera.com.co,+57 300 000 0781,2/26/1962,Cali,5419912,Empleado,19,Excelente,108398,9780082,812
+CLT-20251210-0783,1000000782,Andrés Martínez Pérez,andrés.martínez783@grupoempresa.com,+57 300 000 0782,3/27/1963,Bogotá,5543369,Empleado,6,Bueno,1884745,9856625,705
+CLT-20251210-0784,1000000783,Diego Gómez Sánchez,diego.gómez784@corp.com.co,+57 300 000 0783,4/28/1964,Cali,5666826,Empleado,11,Bueno,2040057,9933168,701
+CLT-20251210-0785,1000000784,Santiago López Ramírez,santiago.lópez785@servicios.com.co,+57 300 000 0784,5/1/1965,Ibagué,5790283,Empleado,20,Bueno,1563376,10009711,677
+CLT-20251210-0786,1000000785,David Patricia Pérez Torres,david.pérez786@banco.com.co,+57 300 000 0785,6/2/1966,Bogotá,5913740,Independiente,29,Excelente,177412,10086254,820
+CLT-20251210-0787,1000000786,Luis Sánchez Ruiz,luis.sánchez787@financiera.com.co,+57 300 000 0786,7/3/1967,Bogotá,6037197,Independiente,12,Bueno,2173391,10162797,711
+CLT-20251210-0788,1000000787,José Ramírez Castillo,josé.ramírez788@grupoempresa.com,+57 300 000 0787,8/4/1968,Bogotá,6160654,Empleado,1,Malo,4866917,10239340,403
+CLT-20251210-0789,1000000788,Javier Torres Vargas,javier.torres789@corp.com.co,+57 300 000 0788,9/5/1969,Cali,6284111,Empleado,16,Regular,2890691,10315883,580
+CLT-20251210-0790,1000000789,Alejandro Ruiz Rojas,alejandro.ruiz790@servicios.com.co,+57 300 000 0789,10/6/1970,Bogotá,6407568,Empleado,19,Bueno,1601892,10392426,747
+CLT-20251210-0791,1000000790,María Fernando Castillo Mendoza,maría.castillo791@banco.com.co,+57 300 000 0790,11/7/1971,Bogotá,6531025,Empleado,17,Bueno,2220548,10468969,689
+CLT-20251210-0792,1000000791,Catalina Vargas Cárdenas,catalina.vargas792@financiera.com.co,+57 300 000 0791,12/8/1972,Cartagena,6654482,Pensionado,19,Bueno,2062889,10545512,659
+CLT-20251210-0793,1000000792,Laura Rojas Herrera,laura.rojas793@grupoempresa.com,+57 300 000 0792,1/9/1973,Bucaramanga,6777939,Empleado,29,Bueno,2372279,10622055,736
+CLT-20251210-0794,1000000793,Andrea Mendoza Díaz,andrea.mendoza794@corp.com.co,+57 300 000 0793,2/10/1974,Medellín,6901396,Independiente,26,Malo,5245061,10698598,541
+CLT-20251210-0795,1000000794,Paula Cárdenas Vega,paula.cárdenas795@servicios.com.co,+57 300 000 0794,3/11/1975,Bucaramanga,7024853,Empleado,8,Regular,2880190,10775141,647
+CLT-20251210-0796,1000000795,Angela Patricia Herrera Ospina,angela.herrera796@banco.com.co,+57 300 000 0795,4/12/1976,Bogotá,7148310,Independiente,14,Bueno,2573392,10851684,700
+CLT-20251210-0797,1000000796,Luisa Díaz Cruz,luisa.díaz797@financiera.com.co,+57 300 000 0796,5/13/1977,Barranquilla,7271767,Empleado,9,Bueno,2254248,10928227,712
+CLT-20251210-0798,1000000797,Sofía Vega González,sofía.vega798@grupoempresa.com,+57 300 000 0797,6/14/1978,Medellín,7395224,Empleado,14,Regular,3032042,11004770,605
+CLT-20251210-0799,1000000798,Valentina Ospina Rodríguez,valentina.ospina799@corp.com.co,+57 300 000 0798,7/15/1979,Medellín,7518681,Empleado,18,Malo,4586395,11081313,540
+CLT-20251210-0800,1000000799,Daniela Cruz Martínez,daniela.cruz800@servicios.com.co,+57 300 000 0799,8/16/1980,Bucaramanga,7642138,Empleado,0,Excelente,993478,11157856,805
+CLT-20251210-0801,1000000800,Juan Fernando González Gómez,juan.gonzález801@banco.com.co,+57 300 000 0800,9/17/1981,Medellín,7765595,Independiente,6,Bueno,2329678,11234399,726
+CLT-20251210-0802,1000000801,Carlos Rodríguez López,carlos.rodríguez802@financiera.com.co,+57 300 000 0801,10/18/1982,Bogotá,7889052,Empleado,4,Regular,4260088,11310942,610
+CLT-20251210-0803,1000000802,Andrés Martínez Pérez,andrés.martínez803@grupoempresa.com,+57 300 000 0802,11/19/1983,Medellín,8012509,Empleado,13,Bueno,3044753,11387485,693
+CLT-20251210-0804,1000000803,Diego Gómez Sánchez,diego.gómez804@corp.com.co,+57 300 000 0803,12/20/1984,Bogotá,8135966,Empleado,8,Regular,4800220,11464028,628
+CLT-20251210-0805,1000000804,Santiago López Ramírez,santiago.lópez805@servicios.com.co,+57 300 000 0804,1/21/1985,Bogotá,8259423,Empleado,19,Bueno,2890798,11540571,715
+CLT-20251210-0806,1000000805,David Patricia Pérez Torres,david.pérez806@banco.com.co,+57 300 000 0805,2/22/1986,Barranquilla,8382880,Empleado,2,Malo,5700358,11617114,304
+CLT-20251210-0807,1000000806,Luis Sánchez Ruiz,luis.sánchez807@financiera.com.co,+57 300 000 0806,3/23/1987,Bogotá,8506337,Empleado,4,Excelente,170127,11693657,847
+CLT-20251210-0808,1000000807,José Ramírez Castillo,josé.ramírez808@grupoempresa.com,+57 300 000 0807,4/24/1988,Bogotá,8629794,Empleado,2,Excelente,1294469,11770200,847
+CLT-20251210-0809,1000000808,Javier Torres Vargas,javier.torres809@corp.com.co,+57 300 000 0808,5/25/1989,Bogotá,8753251,Independiente,16,Bueno,3063638,11846743,705
+CLT-20251210-0810,1000000809,Alejandro Ruiz Rojas,alejandro.ruiz810@servicios.com.co,+57 300 000 0809,6/26/1990,Cartagena,8876708,Independiente,16,Bueno,2219177,11923286,650
+CLT-20251210-0811,1000000810,María Fernando Castillo Mendoza,maría.castillo811@banco.com.co,+57 300 000 0810,7/27/1991,Cali,9000165,Independiente,14,Bueno,3510064,11999829,724
+CLT-20251210-0812,1000000811,Catalina Vargas Cárdenas,catalina.vargas812@financiera.com.co,+57 300 000 0811,8/28/1992,Bucaramanga,9123622,Empleado,4,Bueno,3375740,12076372,687
+CLT-20251210-0813,1000000812,Laura Rojas Herrera,laura.rojas813@grupoempresa.com,+57 300 000 0812,9/1/1993,Cali,9247079,Independiente,4,Bueno,2681653,12152915,669
+CLT-20251210-0814,1000000813,Andrea Mendoza Díaz,andrea.mendoza814@corp.com.co,+57 300 000 0813,10/2/1994,Bogotá,9370536,Empleado,0,Malo,5997143,12229458,362
+CLT-20251210-0815,1000000814,Paula Cárdenas Vega,paula.cárdenas815@servicios.com.co,+57 300 000 0814,11/3/1995,Cali,9493993,Empleado,1,Bueno,3133018,12306001,654
+CLT-20251210-0816,1000000815,Angela Patricia Herrera Ospina,angela.herrera816@banco.com.co,+57 300 000 0815,12/4/1996,Cartagena,9617450,Empleado,8,Malo,6539866,12382544,329
+CLT-20251210-0817,1000000816,Luisa Díaz Cruz,luisa.díaz817@financiera.com.co,+57 300 000 0816,1/5/1997,Barranquilla,9740907,Empleado,3,Excelente,1753363,12459087,777
+CLT-20251210-0818,1000000817,Sofía Vega González,sofía.vega818@grupoempresa.com,+57 300 000 0817,2/6/1998,Bogotá,9864364,Empleado,5,Excelente,690505,12535630,840
+CLT-20251210-0819,1000000818,Valentina Ospina Rodríguez,valentina.ospina819@corp.com.co,+57 300 000 0818,3/7/1999,Bogotá,9987821,Empleado,2,Bueno,2097442,12612173,723
+CLT-20251210-0820,1000000819,Daniela Cruz Martínez,daniela.cruz820@servicios.com.co,+57 300 000 0819,4/8/2000,Medellín,10111278,Pensionado,6,Bueno,2325594,12688716,697
+CLT-20251210-0821,1000000820,Juan Fernando González Gómez,juan.gonzález821@banco.com.co,+57 300 000 0820,5/9/1960,Bogotá,10234735,Empleado,5,Regular,4400936,12765259,573
+CLT-20251210-0822,1000000821,Carlos Rodríguez López,carlos.rodríguez822@financiera.com.co,+57 300 000 0821,6/10/1961,Cali,10358192,Empleado,15,Malo,7147152,12841802,489
+CLT-20251210-0823,1000000822,Andrés Martínez Pérez,andrés.martínez823@grupoempresa.com,+57 300 000 0822,7/11/1962,Cartagena,10481649,Empleado,11,Regular,5660090,12918345,562
+CLT-20251210-0824,1000000823,Diego Gómez Sánchez,diego.gómez824@corp.com.co,+57 300 000 0823,8/12/1963,Bogotá,10605106,Empleado,28,Regular,4454145,12994888,634
+CLT-20251210-0825,1000000824,Santiago López Ramírez,santiago.lópez825@servicios.com.co,+57 300 000 0824,9/13/1964,Medellín,10728563,Empleado,9,Bueno,3969568,13071431,718
+CLT-20251210-0826,1000000825,David Patricia Pérez Torres,david.pérez826@banco.com.co,+57 300 000 0825,10/14/1965,Bogotá,10852020,Empleado,18,Malo,7270853,13147974,439
+CLT-20251210-0827,1000000826,Luis Sánchez Ruiz,luis.sánchez827@financiera.com.co,+57 300 000 0826,11/15/1966,Cartagena,10975477,Empleado,19,Regular,5158474,13224517,615
+CLT-20251210-0828,1000000827,José Ramírez Castillo,josé.ramírez828@grupoempresa.com,+57 300 000 0827,12/16/1967,Bogotá,11098934,Independiente,28,Regular,5993424,13301060,564
+CLT-20251210-0829,1000000828,Javier Torres Vargas,javier.torres829@corp.com.co,+57 300 000 0828,1/17/1968,Medellín,11222391,Independiente,27,Excelente,1907806,13377603,815
+CLT-20251210-0830,1000000829,Alejandro Ruiz Rojas,alejandro.ruiz830@servicios.com.co,+57 300 000 0829,2/18/1969,Pereira,11345848,Empleado,21,Excelente,1588419,13454146,823
+CLT-20251210-0831,1000000830,María Fernando Castillo Mendoza,maría.castillo831@banco.com.co,+57 300 000 0830,3/19/1970,Cartagena,11469305,Empleado,19,Excelente,458772,13530689,835
+CLT-20251210-0832,1000000831,Catalina Vargas Cárdenas,catalina.vargas832@financiera.com.co,+57 300 000 0831,4/20/1971,Bogotá,11592762,Independiente,16,Bueno,4521177,13607232,736
+CLT-20251210-0833,1000000832,Laura Rojas Herrera,laura.rojas833@grupoempresa.com,+57 300 000 0832,5/21/1972,Cartagena,11716219,Empleado,4,Bueno,3514866,13683775,710
+CLT-20251210-0834,1000000833,Andrea Mendoza Díaz,andrea.mendoza834@corp.com.co,+57 300 000 0833,6/22/1973,Bogotá,11839676,Pensionado,10,Malo,8169376,13760318,396
+CLT-20251210-0835,1000000834,Paula Cárdenas Vega,paula.cárdenas835@servicios.com.co,+57 300 000 0834,7/23/1974,Cali,11963133,Empleado,26,Malo,7297511,13836861,434
+CLT-20251210-0836,1000000835,Angela Patricia Herrera Ospina,angela.herrera836@banco.com.co,+57 300 000 0835,8/24/1975,Cali,12086590,Empleado,28,Bueno,4713770,13913404,656
+CLT-20251210-0837,1000000836,Luisa Díaz Cruz,luisa.díaz837@financiera.com.co,+57 300 000 0836,9/25/1976,Bogotá,12210047,Empleado,30,Bueno,4273516,13989947,729
+CLT-20251210-0838,1000000837,Sofía Vega González,sofía.vega838@grupoempresa.com,+57 300 000 0837,10/26/1977,Cartagena,12333504,Empleado,18,Excelente,370005,14066490,766
+CLT-20251210-0839,1000000838,Valentina Ospina Rodríguez,valentina.ospina839@corp.com.co,+57 300 000 0838,11/27/1978,Cartagena,12456961,Empleado,5,Malo,9716430,14143033,301
+CLT-20251210-0840,1000000839,Daniela Cruz Martínez,daniela.cruz840@servicios.com.co,+57 300 000 0839,12/28/1979,Bogotá,12580418,Pensionado,27,Bueno,4528950,14219576,692
+CLT-20251210-0841,1000000840,Juan Fernando González Gómez,juan.gonzález841@banco.com.co,+57 300 000 0840,1/1/1980,Bogotá,12703875,Empleado,26,Bueno,4319318,14296119,694
+CLT-20251210-0842,1000000841,Carlos Rodríguez López,carlos.rodríguez842@financiera.com.co,+57 300 000 0841,2/2/1981,Cali,12827332,Independiente,15,Bueno,4361293,14372662,706
+CLT-20251210-0843,1000000842,Andrés Martínez Pérez,andrés.martínez843@grupoempresa.com,+57 300 000 0842,3/3/1982,Bogotá,12950789,Independiente,12,Excelente,388524,14449205,755
+CLT-20251210-0844,1000000843,Diego Gómez Sánchez,diego.gómez844@corp.com.co,+57 300 000 0843,4/4/1983,Bogotá,13074246,Empleado,14,Malo,7844548,14525748,348
+CLT-20251210-0845,1000000844,Santiago López Ramírez,santiago.lópez845@servicios.com.co,+57 300 000 0844,5/5/1984,Bogotá,13197703,Empleado,15,Regular,6730829,14602291,558
+CLT-20251210-0846,1000000845,David Patricia Pérez Torres,david.pérez846@banco.com.co,+57 300 000 0845,6/6/1985,Medellín,13321160,Empleado,18,Regular,5328464,14678834,618
+CLT-20251210-0847,1000000846,Luis Sánchez Ruiz,luis.sánchez847@financiera.com.co,+57 300 000 0846,7/7/1986,Bogotá,13444617,Empleado,20,Regular,7260093,14755377,611
+CLT-20251210-0848,1000000847,José Ramírez Castillo,josé.ramírez848@grupoempresa.com,+57 300 000 0847,8/8/1987,Montería,13568074,Pensionado,14,Excelente,271361,14831920,846
+CLT-20251210-0849,1000000848,Javier Torres Vargas,javier.torres849@corp.com.co,+57 300 000 0848,9/9/1988,Medellín,13691531,Empleado,18,Malo,10268648,14908463,435
+CLT-20251210-0850,1000000849,Alejandro Ruiz Rojas,alejandro.ruiz850@servicios.com.co,+57 300 000 0849,10/10/1989,Montería,13814988,Empleado,16,Excelente,2210398,14985006,841
+CLT-20251210-0851,1000000850,María Fernando Castillo Mendoza,maría.castillo851@banco.com.co,+57 300 000 0850,11/11/1990,Bogotá,13938445,Empleado,12,Regular,6551069,15061549,593
+CLT-20251210-0852,1000000851,Catalina Vargas Cárdenas,catalina.vargas852@financiera.com.co,+57 300 000 0851,12/12/1991,Cali,14061902,Empleado,3,Excelente,2109285,15138092,846
+CLT-20251210-0853,1000000852,Laura Rojas Herrera,laura.rojas853@grupoempresa.com,+57 300 000 0852,1/13/1992,Barranquilla,14185359,Empleado,8,Excelente,1702243,15214635,779
+CLT-20251210-0854,1000000853,Andrea Mendoza Díaz,andrea.mendoza854@corp.com.co,+57 300 000 0853,2/14/1993,Barranquilla,14308816,Independiente,8,Bueno,2861763,15291178,722
+CLT-20251210-0855,1000000854,Paula Cárdenas Vega,paula.cárdenas855@servicios.com.co,+57 300 000 0854,3/15/1994,Bogotá,14432273,Empleado,9,Regular,6350200,15367721,623
+CLT-20251210-0856,1000000855,Angela Patricia Herrera Ospina,angela.herrera856@banco.com.co,+57 300 000 0855,4/16/1995,Medellín,14555730,Pensionado,4,Excelente,2037802,15444264,758
+CLT-20251210-0857,1000000856,Luisa Díaz Cruz,luisa.díaz857@financiera.com.co,+57 300 000 0856,5/17/1996,Bogotá,14679187,Empleado,9,Bueno,3082629,15520807,687
+CLT-20251210-0858,1000000857,Sofía Vega González,sofía.vega858@grupoempresa.com,+57 300 000 0857,6/18/1997,Bogotá,14802644,Empleado,0,Malo,11398036,15597350,508
+CLT-20251210-0859,1000000858,Valentina Ospina Rodríguez,valentina.ospina859@corp.com.co,+57 300 000 0858,7/19/1998,Cali,14926101,Empleado,6,Regular,6716745,15673893,592
+CLT-20251210-0860,1000000859,Daniela Cruz Martínez,daniela.cruz860@servicios.com.co,+57 300 000 0859,8/20/1999,Cartagena,15049558,Empleado,5,Regular,8126761,15750436,635
+CLT-20251210-0861,1000000860,Juan Fernando González Gómez,juan.gonzález861@banco.com.co,+57 300 000 0860,9/21/2000,Barranquilla,15173015,Empleado,6,Malo,9862460,15826979,346
+CLT-20251210-0862,1000000861,Carlos Rodríguez López,carlos.rodríguez862@financiera.com.co,+57 300 000 0861,10/22/1960,Bogotá,15296472,Empleado,12,Regular,6271554,15903522,553
+CLT-20251210-0863,1000000862,Andrés Martínez Pérez,andrés.martínez863@grupoempresa.com,+57 300 000 0862,11/23/1961,Cali,15419929,Empleado,26,Bueno,3700783,15980065,660
+CLT-20251210-0864,1000000863,Diego Gómez Sánchez,diego.gómez864@corp.com.co,+57 300 000 0863,12/24/1962,Barranquilla,15543386,Empleado,25,Excelente,2953243,16056608,768
+CLT-20251210-0865,1000000864,Santiago López Ramírez,santiago.lópez865@servicios.com.co,+57 300 000 0864,1/25/1963,Bogotá,15666843,Empleado,3,Regular,7050079,16133151,649
+CLT-20251210-0866,1000000865,David Patricia Pérez Torres,david.pérez866@banco.com.co,+57 300 000 0865,2/26/1964,Bogotá,15790300,Empleado,8,Bueno,4579187,16209694,703
+CLT-20251210-0867,1000000866,Luis Sánchez Ruiz,luis.sánchez867@financiera.com.co,+57 300 000 0866,3/27/1965,Bogotá,15913757,Empleado,12,Bueno,4614990,16286237,702
+CLT-20251210-0868,1000000867,José Ramírez Castillo,josé.ramírez868@grupoempresa.com,+57 300 000 0867,4/28/1966,Cali,16037214,Empleado,22,Regular,9461956,16362780,572
+CLT-20251210-0869,1000000868,Javier Torres Vargas,javier.torres869@corp.com.co,+57 300 000 0868,5/1/1967,Bogotá,16160671,Empleado,24,Bueno,5009808,16439323,678
+CLT-20251210-0870,1000000869,Alejandro Ruiz Rojas,alejandro.ruiz870@servicios.com.co,+57 300 000 0869,6/2/1968,Montería,16284128,Empleado,29,Regular,9607636,16515866,550
+CLT-20251210-0871,1000000870,María Fernando Castillo Mendoza,maría.castillo871@banco.com.co,+57 300 000 0870,7/3/1969,Medellín,16407585,Empleado,30,Malo,11649385,16592409,366
+CLT-20251210-0872,1000000871,Catalina Vargas Cárdenas,catalina.vargas872@financiera.com.co,+57 300 000 0871,8/4/1970,Barranquilla,16531042,Empleado,2,Bueno,5124623,16668952,746
+CLT-20251210-0873,1000000872,Laura Rojas Herrera,laura.rojas873@grupoempresa.com,+57 300 000 0872,9/5/1971,Barranquilla,16654499,Independiente,10,Bueno,3663990,16745495,667
+CLT-20251210-0874,1000000873,Andrea Mendoza Díaz,andrea.mendoza874@corp.com.co,+57 300 000 0873,10/6/1972,Cali,16777956,Empleado,29,Regular,9060096,16822038,554
+CLT-20251210-0875,1000000874,Paula Cárdenas Vega,paula.cárdenas875@servicios.com.co,+57 300 000 0874,11/7/1973,Bogotá,16901413,Empleado,18,Excelente,2535212,16898581,775
+CLT-20251210-0876,1000000875,Angela Patricia Herrera Ospina,angela.herrera876@banco.com.co,+57 300 000 0875,12/8/1974,Bogotá,17024870,Empleado,2,Excelente,1872736,16975124,840
+CLT-20251210-0877,1000000876,Luisa Díaz Cruz,luisa.díaz877@financiera.com.co,+57 300 000 0876,1/9/1975,Cali,17148327,Empleado,16,Bueno,5315981,17051667,680
+CLT-20251210-0878,1000000877,Sofía Vega González,sofía.vega878@grupoempresa.com,+57 300 000 0877,2/10/1976,Ibagué,17271784,Pensionado,16,Bueno,3627075,17128210,696
+CLT-20251210-0879,1000000878,Valentina Ospina Rodríguez,valentina.ospina879@corp.com.co,+57 300 000 0878,3/11/1977,Bogotá,17395241,Empleado,7,Excelente,2261381,17204753,770
+CLT-20251210-0880,1000000879,Daniela Cruz Martínez,daniela.cruz880@servicios.com.co,+57 300 000 0879,4/12/1978,Bogotá,17518698,Pensionado,20,Excelente,175187,17281296,764
+CLT-20251210-0881,1000000880,Juan Fernando González Gómez,juan.gonzález881@banco.com.co,+57 300 000 0880,5/13/1979,Cali,17642155,Empleado,20,Bueno,6351176,17357839,716
+CLT-20251210-0882,1000000881,Carlos Rodríguez López,carlos.rodríguez882@financiera.com.co,+57 300 000 0881,6/14/1980,Pereira,17765612,Empleado,25,Bueno,6040308,17434382,729
+CLT-20251210-0883,1000000882,Andrés Martínez Pérez,andrés.martínez883@grupoempresa.com,+57 300 000 0882,7/15/1981,Medellín,17889069,Empleado,4,Bueno,5008939,17510925,671
+CLT-20251210-0884,1000000883,Diego Gómez Sánchez,diego.gómez884@corp.com.co,+57 300 000 0883,8/16/1982,Cali,18012526,Empleado,0,Bueno,5944134,17587468,677
+CLT-20251210-0885,1000000884,Santiago López Ramírez,santiago.lópez885@servicios.com.co,+57 300 000 0884,9/17/1983,Medellín,18135983,Independiente,21,Regular,8342552,17664011,630
+CLT-20251210-0886,1000000885,David Patricia Pérez Torres,david.pérez886@banco.com.co,+57 300 000 0885,10/18/1984,Bogotá,18259440,Empleado,9,Bueno,3834482,17740554,676
+CLT-20251210-0887,1000000886,Luis Sánchez Ruiz,luis.sánchez887@financiera.com.co,+57 300 000 0886,11/19/1985,Santa Marta,18382897,Independiente,9,Bueno,5514869,17817097,735
+CLT-20251210-0888,1000000887,José Ramírez Castillo,josé.ramírez888@grupoempresa.com,+57 300 000 0887,12/20/1986,Cali,18506354,Empleado,3,Bueno,3886334,17893640,670
+CLT-20251210-0889,1000000888,Javier Torres Vargas,javier.torres889@corp.com.co,+57 300 000 0888,1/21/1987,Medellín,18629811,Empleado,0,Bueno,4471155,17970183,711
+CLT-20251210-0890,1000000889,Alejandro Ruiz Rojas,alejandro.ruiz890@servicios.com.co,+57 300 000 0889,2/22/1988,Barranquilla,18753268,Independiente,1,Bueno,4875850,18046726,736
+CLT-20251210-0891,1000000890,María Fernando Castillo Mendoza,maría.castillo891@banco.com.co,+57 300 000 0890,3/23/1989,Cartagena,18876725,Empleado,18,Bueno,4719181,18123269,701
+CLT-20251210-0892,1000000891,Catalina Vargas Cárdenas,catalina.vargas892@financiera.com.co,+57 300 000 0891,4/24/1990,Barranquilla,19000182,Empleado,8,Bueno,5130049,18199812,667
+CLT-20251210-0893,1000000892,Laura Rojas Herrera,laura.rojas893@grupoempresa.com,+57 300 000 0892,5/25/1991,Cali,19123639,Empleado,9,Excelente,3251019,18276355,850
+CLT-20251210-0894,1000000893,Andrea Mendoza Díaz,andrea.mendoza894@corp.com.co,+57 300 000 0893,6/26/1992,Cali,19247096,Empleado,9,Regular,10585903,18352898,600
+CLT-20251210-0895,1000000894,Paula Cárdenas Vega,paula.cárdenas895@servicios.com.co,+57 300 000 0894,7/27/1993,Montería,19370553,Empleado,7,Bueno,5036344,18429441,668
+CLT-20251210-0896,1000000895,Angela Patricia Herrera Ospina,angela.herrera896@banco.com.co,+57 300 000 0895,8/28/1994,Medellín,19494010,Independiente,13,Bueno,5653263,18505984,717
+CLT-20251210-0897,1000000896,Luisa Díaz Cruz,luisa.díaz897@financiera.com.co,+57 300 000 0896,9/1/1995,Cali,19617467,Empleado,12,Bueno,5492891,18582527,698
+CLT-20251210-0898,1000000897,Sofía Vega González,sofía.vega898@grupoempresa.com,+57 300 000 0897,10/2/1996,Medellín,19740924,Empleado,7,Bueno,7304142,18659070,666
+CLT-20251210-0899,1000000898,Valentina Ospina Rodríguez,valentina.ospina899@corp.com.co,+57 300 000 0898,11/3/1997,Santa Marta,19864381,Empleado,6,Regular,10925410,18735613,560
+CLT-20251210-0900,1000000899,Daniela Cruz Martínez,daniela.cruz900@servicios.com.co,+57 300 000 0899,12/4/1998,Bogotá,19987838,Empleado,0,Bueno,7395500,18812156,732
+CLT-20251210-0901,1000000900,Juan Fernando González Gómez,juan.gonzález901@banco.com.co,+57 300 000 0900,1/5/1999,Medellín,1611294,Empleado,6,Regular,870099,18888699,619
+CLT-20251210-0902,1000000901,Carlos Rodríguez López,carlos.rodríguez902@financiera.com.co,+57 300 000 0901,2/6/2000,Barranquilla,1734751,Empleado,5,Regular,1023503,18965242,609
+CLT-20251210-0903,1000000902,Andrés Martínez Pérez,andrés.martínez903@grupoempresa.com,+57 300 000 0902,3/7/1960,Bogotá,1858208,Empleado,2,Bueno,464552,19041785,716
+CLT-20251210-0904,1000000903,Diego Gómez Sánchez,diego.gómez904@corp.com.co,+57 300 000 0903,4/8/1961,Bogotá,1981665,Empleado,9,Excelente,277433,19118328,772
+CLT-20251210-0905,1000000904,Santiago López Ramírez,santiago.lópez905@servicios.com.co,+57 300 000 0904,5/9/1962,Medellín,2105122,Empleado,25,Regular,863100,19194871,578
+CLT-20251210-0906,1000000905,David Patricia Pérez Torres,david.pérez906@banco.com.co,+57 300 000 0905,6/10/1963,Medellín,2228579,Independiente,0,Bueno,468002,19271414,711
+CLT-20251210-0907,1000000906,Luis Sánchez Ruiz,luis.sánchez907@financiera.com.co,+57 300 000 0906,7/11/1964,Cali,2352036,Empleado,27,Regular,1223059,19347957,563
+CLT-20251210-0908,1000000907,José Ramírez Castillo,josé.ramírez908@grupoempresa.com,+57 300 000 0907,8/12/1965,Cali,2475493,Independiente,23,Regular,1460541,19424500,556
+CLT-20251210-0909,1000000908,Javier Torres Vargas,javier.torres909@corp.com.co,+57 300 000 0908,9/13/1966,Cartagena,2598950,Independiente,22,Regular,1403433,19501043,635
+CLT-20251210-0910,1000000909,Alejandro Ruiz Rojas,alejandro.ruiz910@servicios.com.co,+57 300 000 0909,10/14/1967,Medellín,2722407,Empleado,2,Bueno,653378,19577586,699
+CLT-20251210-0911,1000000910,María Fernando Castillo Mendoza,maría.castillo911@banco.com.co,+57 300 000 0910,11/15/1968,Bogotá,2845864,Empleado,17,Malo,1707518,19654129,449
+CLT-20251210-0912,1000000911,Catalina Vargas Cárdenas,catalina.vargas912@financiera.com.co,+57 300 000 0911,12/16/1969,Barranquilla,2969321,Empleado,18,Bueno,1009569,19730672,667
+CLT-20251210-0913,1000000912,Laura Rojas Herrera,laura.rojas913@grupoempresa.com,+57 300 000 0912,1/17/1970,Sincelejo,3092778,Empleado,15,Regular,1762883,19807215,643
+CLT-20251210-0914,1000000913,Andrea Mendoza Díaz,andrea.mendoza914@corp.com.co,+57 300 000 0913,2/18/1971,Bogotá,3216235,Independiente,19,Regular,1511630,19883758,595
+CLT-20251210-0915,1000000914,Paula Cárdenas Vega,paula.cárdenas915@servicios.com.co,+57 300 000 0914,3/19/1972,Bogotá,3339692,Empleado,16,Excelente,100191,19960301,833
+CLT-20251210-0916,1000000915,Angela Patricia Herrera Ospina,angela.herrera916@banco.com.co,+57 300 000 0915,4/20/1973,Medellín,3463149,Empleado,2,Regular,1627680,20036844,566
+CLT-20251210-0917,1000000916,Luisa Díaz Cruz,luisa.díaz917@financiera.com.co,+57 300 000 0916,5/21/1974,Neiva,3586606,Empleado,6,Excelente,466259,20113387,781
+CLT-20251210-0918,1000000917,Sofía Vega González,sofía.vega918@grupoempresa.com,+57 300 000 0917,6/22/1975,Bogotá,3710063,Empleado,9,Regular,2077635,20189930,627
+CLT-20251210-0919,1000000918,Valentina Ospina Rodríguez,valentina.ospina919@corp.com.co,+57 300 000 0918,7/23/1976,Barranquilla,3833520,Empleado,24,Regular,1648414,20266473,581
+CLT-20251210-0920,1000000919,Daniela Cruz Martínez,daniela.cruz920@servicios.com.co,+57 300 000 0919,8/24/1977,Cartagena,3956977,Empleado,27,Bueno,1187093,20343016,662
+CLT-20251210-0921,1000000920,Juan Fernando González Gómez,juan.gonzález921@banco.com.co,+57 300 000 0920,9/25/1978,Medellín,4080434,Independiente,15,Bueno,856891,20419559,726
+CLT-20251210-0922,1000000921,Carlos Rodríguez López,carlos.rodríguez922@financiera.com.co,+57 300 000 0921,10/26/1979,Cartagena,4203891,Pensionado,20,Malo,2606412,20496102,311
+CLT-20251210-0923,1000000922,Andrés Martínez Pérez,andrés.martínez923@grupoempresa.com,+57 300 000 0922,11/27/1980,Bogotá,4327348,Empleado,20,Bueno,1687666,20572645,741
+CLT-20251210-0924,1000000923,Diego Gómez Sánchez,diego.gómez924@corp.com.co,+57 300 000 0923,12/28/1981,Medellín,4450805,Empleado,7,Excelente,178032,20649188,778
+CLT-20251210-0925,1000000924,Santiago López Ramírez,santiago.lópez925@servicios.com.co,+57 300 000 0924,1/1/1982,Bogotá,4574262,Empleado,10,Bueno,1555249,20725731,713
+CLT-20251210-0926,1000000925,David Patricia Pérez Torres,david.pérez926@banco.com.co,+57 300 000 0925,2/2/1983,Medellín,4697719,Pensionado,19,Bueno,1080475,20802274,691
+CLT-20251210-0927,1000000926,Luis Sánchez Ruiz,luis.sánchez927@financiera.com.co,+57 300 000 0926,3/3/1984,Bogotá,4821176,Empleado,19,Bueno,1494565,20878817,654
+CLT-20251210-0928,1000000927,José Ramírez Castillo,josé.ramírez928@grupoempresa.com,+57 300 000 0927,4/4/1985,Bucaramanga,4944633,Empleado,12,Bueno,1335051,20955360,725
+CLT-20251210-0929,1000000928,Javier Torres Vargas,javier.torres929@corp.com.co,+57 300 000 0928,5/5/1986,Cali,5068090,Empleado,5,Bueno,1824512,21031903,728
+CLT-20251210-0930,1000000929,Alejandro Ruiz Rojas,alejandro.ruiz930@servicios.com.co,+57 300 000 0929,6/6/1987,Cali,5191547,Empleado,17,Excelente,363408,21108446,806
+CLT-20251210-0931,1000000930,María Fernando Castillo Mendoza,maría.castillo931@banco.com.co,+57 300 000 0930,7/7/1988,Cali,5315004,Empleado,3,Malo,3295302,21184989,345
+CLT-20251210-0932,1000000931,Catalina Vargas Cárdenas,catalina.vargas932@financiera.com.co,+57 300 000 0931,8/8/1989,Medellín,5438461,Empleado,1,Excelente,652615,21261532,778
+CLT-20251210-0933,1000000932,Laura Rojas Herrera,laura.rojas933@grupoempresa.com,+57 300 000 0932,9/9/1990,Bogotá,5561918,Empleado,14,Regular,2224767,21338075,640
+CLT-20251210-0934,1000000933,Andrea Mendoza Díaz,andrea.mendoza934@corp.com.co,+57 300 000 0933,10/10/1991,Medellín,5685375,Empleado,4,Bueno,1137075,21414618,745
+CLT-20251210-0935,1000000934,Paula Cárdenas Vega,paula.cárdenas935@servicios.com.co,+57 300 000 0934,11/11/1992,Barranquilla,5808832,Empleado,4,Bueno,2207356,21491161,734
+CLT-20251210-0936,1000000935,Angela Patricia Herrera Ospina,angela.herrera936@banco.com.co,+57 300 000 0935,12/12/1993,Bogotá,5932289,Empleado,3,Bueno,1720364,21567704,697
+CLT-20251210-0937,1000000936,Luisa Díaz Cruz,luisa.díaz937@financiera.com.co,+57 300 000 0936,1/13/1994,Bogotá,6055746,Independiente,0,Excelente,484460,21644247,783
+CLT-20251210-0938,1000000937,Sofía Vega González,sofía.vega938@grupoempresa.com,+57 300 000 0937,2/14/1995,Medellín,6179203,Empleado,3,Excelente,988672,21720790,765
+CLT-20251210-0939,1000000938,Valentina Ospina Rodríguez,valentina.ospina939@corp.com.co,+57 300 000 0938,3/15/1996,Medellín,6302660,Empleado,2,Bueno,2458037,21797333,704
+CLT-20251210-0940,1000000939,Daniela Cruz Martínez,daniela.cruz940@servicios.com.co,+57 300 000 0939,4/16/1997,Bogotá,6426117,Empleado,5,Regular,2634708,21873876,552
+CLT-20251210-0941,1000000940,Juan Fernando González Gómez,juan.gonzález941@banco.com.co,+57 300 000 0940,5/17/1998,Bogotá,6549574,Empleado,0,Bueno,2292351,21950419,713
+CLT-20251210-0942,1000000941,Carlos Rodríguez López,carlos.rodríguez942@financiera.com.co,+57 300 000 0941,6/18/1999,Bogotá,6673031,Empleado,2,Regular,2936134,22026962,618
+CLT-20251210-0943,1000000942,Andrés Martínez Pérez,andrés.martínez943@grupoempresa.com,+57 300 000 0942,7/19/2000,Medellín,6796488,Empleado,2,Regular,3466209,22103505,638
+CLT-20251210-0944,1000000943,Diego Gómez Sánchez,diego.gómez944@corp.com.co,+57 300 000 0943,8/20/1960,Bogotá,6919945,Empleado,28,Bueno,1522388,22180048,704
+CLT-20251210-0945,1000000944,Santiago López Ramírez,santiago.lópez945@servicios.com.co,+57 300 000 0944,9/21/1961,Cali,7043402,Empleado,21,Regular,3239965,22256591,601
+CLT-20251210-0946,1000000945,David Patricia Pérez Torres,david.pérez946@banco.com.co,+57 300 000 0945,10/22/1962,Montería,7166859,Empleado,14,Bueno,2078389,22333134,666
+CLT-20251210-0947,1000000946,Luis Sánchez Ruiz,luis.sánchez947@financiera.com.co,+57 300 000 0946,11/23/1963,Bogotá,7290316,Empleado,14,Excelente,1312257,22409677,820
+CLT-20251210-0948,1000000947,José Ramírez Castillo,josé.ramírez948@grupoempresa.com,+57 300 000 0947,12/24/1964,Bogotá,7413773,Empleado,20,Bueno,1779306,22486220,729
+CLT-20251210-0949,1000000948,Javier Torres Vargas,javier.torres949@corp.com.co,+57 300 000 0948,1/25/1965,Bogotá,7537230,Empleado,23,Bueno,1808935,22562763,736
+CLT-20251210-0950,1000000949,Alejandro Ruiz Rojas,alejandro.ruiz950@servicios.com.co,+57 300 000 0949,2/26/1966,Cali,7660687,Empleado,5,Bueno,2221599,22639306,704
+CLT-20251210-0951,1000000950,María Fernando Castillo Mendoza,maría.castillo951@banco.com.co,+57 300 000 0950,3/27/1967,Bogotá,7784144,Empleado,4,Regular,3736389,22715849,587
+CLT-20251210-0952,1000000951,Catalina Vargas Cárdenas,catalina.vargas952@financiera.com.co,+57 300 000 0951,4/28/1968,Medellín,7907601,Independiente,15,Bueno,3004888,22792392,727
+CLT-20251210-0953,1000000952,Laura Rojas Herrera,laura.rojas953@grupoempresa.com,+57 300 000 0952,5/1/1969,Cali,8031058,Empleado,0,Bueno,1766833,22868935,693
+CLT-20251210-0954,1000000953,Andrea Mendoza Díaz,andrea.mendoza954@corp.com.co,+57 300 000 0953,6/2/1970,Bogotá,8154515,Empleado,29,Excelente,570816,22945478,838
+CLT-20251210-0955,1000000954,Paula Cárdenas Vega,paula.cárdenas955@servicios.com.co,+57 300 000 0954,7/3/1971,Medellín,8277972,Pensionado,1,Excelente,1076136,23022021,823
+CLT-20251210-0956,1000000955,Angela Patricia Herrera Ospina,angela.herrera956@banco.com.co,+57 300 000 0955,8/4/1972,Medellín,8401429,Empleado,23,Regular,4872829,23098564,623
+CLT-20251210-0957,1000000956,Luisa Díaz Cruz,luisa.díaz957@financiera.com.co,+57 300 000 0956,9/5/1973,Medellín,8524886,Pensionado,12,Regular,5029683,23175107,630
+CLT-20251210-0958,1000000957,Sofía Vega González,sofía.vega958@grupoempresa.com,+57 300 000 0957,10/6/1974,Bogotá,8648343,Empleado,22,Malo,5621423,23251650,408
+CLT-20251210-0959,1000000958,Valentina Ospina Rodríguez,valentina.ospina959@corp.com.co,+57 300 000 0958,11/7/1975,Medellín,8771800,Empleado,12,Regular,3684156,23328193,621
+CLT-20251210-0960,1000000959,Daniela Cruz Martínez,daniela.cruz960@servicios.com.co,+57 300 000 0959,12/8/1976,Cali,8895257,Empleado,7,Regular,5248202,23404736,587
+CLT-20251210-0961,1000000960,Juan Fernando González Gómez,juan.gonzález961@banco.com.co,+57 300 000 0960,1/9/1977,Bogotá,9018714,Empleado,19,Regular,5230854,23481279,585
+CLT-20251210-0962,1000000961,Carlos Rodríguez López,carlos.rodríguez962@financiera.com.co,+57 300 000 0961,2/10/1978,Bogotá,9142171,Independiente,3,Bueno,1828434,23557822,727
+CLT-20251210-0963,1000000962,Andrés Martínez Pérez,andrés.martínez963@grupoempresa.com,+57 300 000 0962,3/11/1979,Cartagena,9265628,Empleado,0,Bueno,3150314,23634365,704
+CLT-20251210-0964,1000000963,Diego Gómez Sánchez,diego.gómez964@corp.com.co,+57 300 000 0963,4/12/1980,Cali,9389085,Independiente,10,Regular,4037307,23710908,627
+CLT-20251210-0965,1000000964,Santiago López Ramírez,santiago.lópez965@servicios.com.co,+57 300 000 0964,5/13/1981,Medellín,9512542,Empleado,9,Regular,5517274,23787451,608
+CLT-20251210-0966,1000000965,David Patricia Pérez Torres,david.pérez966@banco.com.co,+57 300 000 0965,6/14/1982,Bogotá,9635999,Independiente,0,Bueno,3276240,23863994,695
+CLT-20251210-0967,1000000966,Luis Sánchez Ruiz,luis.sánchez967@financiera.com.co,+57 300 000 0966,7/15/1983,Cali,9759456,Empleado,11,Bueno,3806188,23940537,717
+CLT-20251210-0968,1000000967,José Ramírez Castillo,josé.ramírez968@grupoempresa.com,+57 300 000 0967,8/16/1984,Cali,9882913,Pensionado,15,Bueno,3557849,24017080,651
+CLT-20251210-0969,1000000968,Javier Torres Vargas,javier.torres969@corp.com.co,+57 300 000 0968,9/17/1985,Bogotá,10006370,Independiente,9,Regular,4702994,24093623,606
+CLT-20251210-0970,1000000969,Alejandro Ruiz Rojas,alejandro.ruiz970@servicios.com.co,+57 300 000 0969,10/18/1986,Medellín,10129827,Empleado,10,Regular,4254527,24170166,590
+CLT-20251210-0971,1000000970,María Fernando Castillo Mendoza,maría.castillo971@banco.com.co,+57 300 000 0970,11/19/1987,Bogotá,10253284,Empleado,14,Regular,5331708,24246709,565
+CLT-20251210-0972,1000000971,Catalina Vargas Cárdenas,catalina.vargas972@financiera.com.co,+57 300 000 0971,12/20/1988,Sincelejo,10376741,Empleado,13,Bueno,2490418,24323252,705
+CLT-20251210-0973,1000000972,Laura Rojas Herrera,laura.rojas973@grupoempresa.com,+57 300 000 0972,1/21/1989,Pereira,10500198,Independiente,4,Bueno,2520048,24399795,725
+CLT-20251210-0974,1000000973,Andrea Mendoza Díaz,andrea.mendoza974@corp.com.co,+57 300 000 0973,2/22/1990,Cali,10623655,Empleado,11,Bueno,2124731,24476338,656
+CLT-20251210-0975,1000000974,Paula Cárdenas Vega,paula.cárdenas975@servicios.com.co,+57 300 000 0974,3/23/1991,Bogotá,10747112,Empleado,4,Bueno,3439076,24552881,730
+CLT-20251210-0976,1000000975,Angela Patricia Herrera Ospina,angela.herrera976@banco.com.co,+57 300 000 0975,4/24/1992,Bogotá,10870569,Independiente,10,Malo,8479044,24629424,454
+CLT-20251210-0977,1000000976,Luisa Díaz Cruz,luisa.díaz977@financiera.com.co,+57 300 000 0976,5/25/1993,Bogotá,10994026,Empleado,8,Malo,7256057,24705967,308
+CLT-20251210-0978,1000000977,Sofía Vega González,sofía.vega978@grupoempresa.com,+57 300 000 0977,6/26/1994,Bogotá,11117483,Empleado,5,Regular,5892266,24782510,553
+CLT-20251210-0979,1000000978,Valentina Ospina Rodríguez,valentina.ospina979@corp.com.co,+57 300 000 0978,7/27/1995,Bogotá,11240940,Empleado,9,Bueno,2248188,24859053,663
+CLT-20251210-0980,1000000979,Daniela Cruz Martínez,daniela.cruz980@servicios.com.co,+57 300 000 0979,8/28/1996,Cali,11364397,Empleado,0,Regular,5682198,24935596,634
+CLT-20251210-0981,1000000980,Juan Fernando González Gómez,juan.gonzález981@banco.com.co,+57 300 000 0980,9/1/1997,Cartagena,11487854,Empleado,5,Bueno,3101721,25012139,690
+CLT-20251210-0982,1000000981,Carlos Rodríguez López,carlos.rodríguez982@financiera.com.co,+57 300 000 0981,10/2/1998,Barranquilla,11611311,Empleado,2,Excelente,1509470,25088682,765
+CLT-20251210-0983,1000000982,Andrés Martínez Pérez,andrés.martínez983@grupoempresa.com,+57 300 000 0982,11/3/1999,Pereira,11734768,Independiente,6,Regular,6102079,25165225,601
+CLT-20251210-0984,1000000983,Diego Gómez Sánchez,diego.gómez984@corp.com.co,+57 300 000 0983,12/4/2000,Medellín,11858225,Empleado,4,Excelente,1067240,25241768,797
+CLT-20251210-0985,1000000984,Santiago López Ramírez,santiago.lópez985@servicios.com.co,+57 300 000 0984,1/5/1960,Medellín,11981682,Empleado,29,Bueno,4313406,25318311,731
+CLT-20251210-0986,1000000985,David Patricia Pérez Torres,david.pérez986@banco.com.co,+57 300 000 0985,2/6/1961,Bogotá,12105139,Empleado,17,Excelente,1694719,25394854,794
+CLT-20251210-0987,1000000986,Luis Sánchez Ruiz,luis.sánchez987@financiera.com.co,+57 300 000 0986,3/7/1962,Bogotá,12228596,Empleado,19,Bueno,2812577,25471397,674
+CLT-20251210-0988,1000000987,José Ramírez Castillo,josé.ramírez988@grupoempresa.com,+57 300 000 0987,4/8/1963,Bogotá,12352053,Independiente,24,Excelente,370562,25547940,821
+CLT-20251210-0989,1000000988,Javier Torres Vargas,javier.torres989@corp.com.co,+57 300 000 0988,5/9/1964,Bogotá,12475510,Empleado,2,Regular,6113000,25624483,574
+CLT-20251210-0990,1000000989,Alejandro Ruiz Rojas,alejandro.ruiz990@servicios.com.co,+57 300 000 0989,6/10/1965,Bogotá,12598967,Pensionado,10,Regular,7307401,25701026,608
+CLT-20251210-0991,1000000990,María Fernando Castillo Mendoza,maría.castillo991@banco.com.co,+57 300 000 0990,7/11/1966,Neiva,12722424,Empleado,13,Excelente,1272242,25777569,775
+CLT-20251210-0992,1000000991,Catalina Vargas Cárdenas,catalina.vargas992@financiera.com.co,+57 300 000 0991,8/12/1967,Medellín,12845881,Empleado,15,Excelente,385376,25854112,752
+CLT-20251210-0993,1000000992,Laura Rojas Herrera,laura.rojas993@grupoempresa.com,+57 300 000 0992,9/13/1968,Ibagué,12969338,Empleado,27,Bueno,2593868,25930655,702
+CLT-20251210-0994,1000000993,Andrea Mendoza Díaz,andrea.mendoza994@corp.com.co,+57 300 000 0993,10/14/1969,Bogotá,13092795,Independiente,26,Regular,6415470,26007198,633
+CLT-20251210-0995,1000000994,Paula Cárdenas Vega,paula.cárdenas995@servicios.com.co,+57 300 000 0994,11/15/1970,Medellín,13216252,Empleado,27,Bueno,2643250,26083741,715
+CLT-20251210-0996,1000000995,Angela Patricia Herrera Ospina,angela.herrera996@banco.com.co,+57 300 000 0995,12/16/1971,Medellín,13339709,Empleado,19,Regular,6136266,26160284,615
+CLT-20251210-0997,1000000996,Luisa Díaz Cruz,luisa.díaz997@financiera.com.co,+57 300 000 0996,1/17/1972,Medellín,13463166,Empleado,8,Bueno,4308213,26236827,714
+CLT-20251210-0998,1000000997,Sofía Vega González,sofía.vega998@grupoempresa.com,+57 300 000 0997,2/18/1973,Bogotá,13586623,Empleado,12,Regular,6521579,26313370,572
+CLT-20251210-0999,1000000998,Valentina Ospina Rodríguez,valentina.ospina999@corp.com.co,+57 300 000 0998,3/19/1974,Medellín,13710080,Empleado,28,Malo,10008358,26389913,514
+CLT-20251210-1000,1000000999,Daniela Cruz Martínez,daniela.cruz000@servicios.com.co,+57 300 000 0999,4/20/1975,Neiva,13833537,Empleado,1,Bueno,4703403,26466456,695
